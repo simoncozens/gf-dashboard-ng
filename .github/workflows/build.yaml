@@ -5,8 +5,8 @@ on:
     - cron: "12 1 * * *"
 
 env:
-  GF_PATH: /home/runner/work/gf-dashboard/gf-dashboard/fonts
-  GF_REPO_PATH: /home/runner/work/gf-dashboard/gf-dashboard/fonts
+  GF_PATH: /home/runner/work/gf-dashboard-ng/gf-dashboard-ng/fonts
+  GF_REPO_PATH: /home/runner/work/gf-dashboard-ng/gf-dashboard-ng/fonts
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
