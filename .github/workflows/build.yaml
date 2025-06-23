@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Setup requirements
-        run: pip3 install -r 'git+https://github.com/googlefonts/gftools'
+        run: pip3 install 'git+https://github.com/googlefonts/gftools'
       - name: Setup duckdb
         run: sudo apt-get update && sudo apt-get install -y duckdb
       - name: Grab fontspector database
