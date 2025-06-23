@@ -26,7 +26,7 @@ jobs:
       - name: Setup requirements
         run: pip3 install 'git+https://github.com/googlefonts/gftools'
       - name: Setup duckdb
-        run: sudo apt-get update && sudo apt-get install -y duckdb
+        run: curl https://install.duckdb.org | sh
       - name: Grab fontspector database
         run: |
           mkdir -p ~/.ssh/
