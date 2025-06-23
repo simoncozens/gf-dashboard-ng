@@ -4,14 +4,14 @@ title: Push status
 ---
 
 ```js
-const data = await FileAttachment("./gf_repo_data.json").json();
+const data = await FileAttachment("./data/gf_repo_data.json").json();
 ```
 
 ## Pushes
 
 ```js
-import { interval, rangeInput } from "./range-slider.js";
-import { utcQuarter } from "./moretime.js";
+import { interval, rangeInput } from "./util/range-slider.js";
+import { utcQuarter } from "./util/moretime.js";
 
 const thresholds = view(
   Inputs.radio(
