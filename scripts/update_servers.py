@@ -1,4 +1,5 @@
 from gftools.push.servers import GFServers
+from gftools.util.google_fonts import Metadata
 from pathlib import Path
 import json
 import datetime
@@ -27,23 +28,23 @@ else:
 
 for directory in glob.glob(gfpath + "/ofl/*"):
     try:
-        gf = GoogleFont(directory, gfpath)
+        metadata = Metadata(directory)
     except Exception as e:
         print(e)
         continue
 
-    if gf.metadata.name not in versionhistory:
-        versionhistory[gf.metadata.name] = {}
+    if metadata.name not in versionhistory:
+        versionhistory[metadata.name] = {}
 
     for s in servers:
-        if gf.metadata.name not in s.families:
+        if metadata.name not in s.families:
             continue
-        if s.name not in versionhistory[gf.metadata.name]:
-            versionhistory[gf.metadata.name][s.name] = []
-        current_version = s.families[gf.metadata.name].version
-        versions = [x["version"] for x in versionhistory[gf.metadata.name][s.name]]
+        if s.name not in versionhistory[metadata.name]:
+            versionhistory[metadata.name][s.name] = []
+        current_version = s.families[metadata.name].version
+        versions = [x["version"] for x in versionhistory[metadata.name][s.name]]
         if current_version not in versions:
-            versionhistory[gf.metadata.name][s.name].append(
+            versionhistory[metadata.name][s.name].append(
                 {
                     "version": current_version,
                     "date": datetime.datetime.now().isoformat(),
