@@ -33,14 +33,14 @@ jobs:
           echo "$CORVEL_SSH_PRIVATE_KEY" > ../private.key
           sudo chmod 600 ../private.key
           echo "$CORVEL_KNOWNHOSTS" > ~/.ssh/known_hosts
-          scp -i ../private.key fontspector@corvelsoftware.co.uk:fontspector.db src
+          scp -i ../private.key fontspector@corvelsoftware.co.uk:fontspector.db .
         shell: bash
         env:
           CORVEL_SSH_PRIVATE_KEY: ${{secrets.CORVEL_SSH_PRIVATE_KEY}}
           CORVEL_KNOWNHOSTS: ${{secrets.CORVEL_KNOWNHOSTS}}
       - name: Compact fontspector database
         run: |
-          /home/runner/.duckdb/cli/latest/duckdb src/fontspector.db -f scripts/tidy-database.sql
+          /home/runner/.duckdb/cli/latest/duckdb fontspector.db -f scripts/tidy-database.sql
       - name: Clone google/fonts
         uses: actions/checkout@v4
         with:
@@ -61,6 +61,8 @@ jobs:
         run: npm install
       - name: Build dashboard
         run: npm run build
+      - name: Stash database again
+        run: "scp -i ../private.key fontspector.db fontspector@corvelsoftware.co.uk:"
       - name: Upload
         uses: actions/upload-pages-artifact@v3.0.1
         with:
