@@ -4,8 +4,6 @@ title: Server moves
 ---
 
 ```jsx
-const metadata = await FileAttachment("./data/metadata.json").json();
-const servers = await FileAttachment("./data/servers.json").json();
 const updates = await FileAttachment("./data/versionhistory.json").json();
 
 var movesbydate = {};
