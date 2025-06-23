@@ -11,10 +11,38 @@ import { RenderFailures, RenderSuccesses } from "./components/Fontc.js";
 const semiFlattened = fontc.summary.map((cur) => {
   // Move the `stats` object to the top level
   return {
-    ...cur,
-    ...cur.stats,
-    stats: undefined, // Remove the original stats object
+    date: new Date(cur.began),
+    rev: cur.fontc_rev,
+    targets: cur.stats.total_targets,
+    fontc_failed: cur.stats.fontc_failed,
+    fontmake_failed: cur.stats.fontmake_failed,
+    both_failed: cur.stats.both_failed,
+    other: cur.stats.other_failure,
+    identical: cur.stats.identical,
+    similarity: cur.stats.diff_perc_including_failures,
   };
+});
+
+let prev_identical = undefined;
+let updown = (v) => {
+  if (v > 0) return html`<span class="up">↑${v}</span>`;
+  if (v < 0) return html`<span class="down">↓${-v}</span>`;
+  return "";
+};
+
+semiFlattened.forEach((cur) => {
+  let identical_value = cur.identical;
+  if (prev_identical) {
+    let identical_change = cur.identical - prev_identical;
+    if (identical_change) {
+      cur.identical = html`${cur.identical} ${updown(identical_change)}`;
+    } else {
+      cur.identical = html`${cur.identical}`;
+    }
+  } else {
+    cur.identical = html`${cur.identical}`;
+  }
+  prev_identical = identical_value;
 });
 const flattened = fontc.summary.flatMap((cur) =>
   Object.entries(cur.stats)
@@ -31,7 +59,19 @@ const flattened = fontc.summary.flatMap((cur) =>
       };
     })
 );
-display(Inputs.table(semiFlattened));
+display(
+  Inputs.table(semiFlattened, {
+    format: {
+      identical: (v) => v,
+      date: (v) => v.toLocaleDateString(),
+      similarity: (v) => `${v.toFixed(2)}%`,
+    },
+    reverse: true,
+    width: {
+      date: 90,
+    },
+  })
+);
 ```
 
 ```js
@@ -61,20 +101,21 @@ display(
         fill: "status",
       }),
       Plot.lineY(
-        semiFlattened,
+        fontc.summary,
         Plot.mapY((D) => D.map(y2), {
           x: (d) => new Date(d.began),
-          y: (d) => d.diff_perc_including_failures,
+          y: (d) => d.stats.diff_perc_including_failures,
           stroke: "green",
-          strokeOpacity: 0.5,
+          strokeWidth: 2,
         })
       ),
       Plot.lineY(
-        semiFlattened,
+        fontc.summary,
         Plot.mapY((D) => D.map(y2), {
           x: (d) => new Date(d.began),
-          y: (d) => d.diff_perc_excluding_failures,
+          y: (d) => d.stats.diff_perc_excluding_failures,
           stroke: "green",
+          strokeOpacity: 0.2,
         })
       ),
     ],

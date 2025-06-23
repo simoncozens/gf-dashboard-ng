@@ -60,8 +60,8 @@ body {
 }
 
 .warn { color: #bdae4f; }
-.fail { color: #cf4f2b; }
-.pass { color: #4f9b2b; }
+.fail,.down { color: #cf4f2b; }
+.pass,.up { color: #4f9b2b; }
 .skip { display: none; }
 .error { background-color: #cf4f2b; color: white; }
 

@@ -76,7 +76,7 @@ export function RenderSuccesses({successes} = {}) {
                 return pct(problemsB) - pct(problemsA);
             }).map(([family, problems]) => (
                 <details key={family}>
-                    <summary>{RenderFamily(family)} ({pct(problems)}%)</summary>
+                    <summary>{RenderFamily(family)} ({pct(problems).toFixed(2)}%)</summary>
                     {problems.diffs && RenderDiffs(problems.diffs)}
 
                 </details>
