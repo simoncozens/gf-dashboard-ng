@@ -76,3 +76,5 @@ body {
 .production { color: #148F77 }
 
 #observablehq-sidebar { max-width: 500px !important;}
+
+.pre-wrap { white-space: pre-wrap; }
