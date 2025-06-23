@@ -19,7 +19,7 @@ function RenderFamily(family) {
                 }>
                     {sha.substring(0, 7)}
                 </a> (<a href={
-                    `https://github.com/${owner}/${repo}/blob/${sha}/${config}`
+                    `https://github.com/${owner}/${repo}/blob/${sha}/sources/${config}`
                     }>{config}</a>) {mode}
             </span>
         );
