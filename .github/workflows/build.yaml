@@ -1,0 +1,80 @@
+name: Build dashboard
+on:
+  push:
+  schedule:
+    - cron: "12 1 * * *"
+
+env:
+  GF_PATH: /home/runner/work/gf-dashboard/gf-dashboard/fonts
+  GF_REPO_PATH: /home/runner/work/gf-dashboard/gf-dashboard/fonts
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write out secret
+        run: echo "${{ secrets.GF_PUSH_CONFIG }}" | base64 -d > ~/.gf_push_config.ini
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.11"
+      - name: Setup requirements
+        run: pip3 install -r 'git+https://github.com/googlefonts/gftools'
+      - name: Setup duckdb
+        run: sudo apt-get update && sudo apt-get install -y duckdb
+      - name: Grab fontspector database
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$CORVEL_SSH_PRIVATE_KEY" > ../private.key
+          sudo chmod 600 ../private.key
+          echo "$CORVEL_KNOWNHOSTS" > ~/.ssh/known_hosts
+          scp -i ../private.key fontspector@corvelsoftware.co.uk:fontspector.db src
+        shell: bash
+        env:
+          CORVEL_SSH_PRIVATE_KEY: ${{secrets.CORVEL_SSH_PRIVATE_KEY}}
+          CORVEL_KNOWNHOSTS: ${{secrets.CORVEL_KNOWNHOSTS}}
+      - name: Compact fontspector database
+        run: |
+          duckdb src/fontspector.db -f scripts/tidy-database.sql
+      - name: Clone google/fonts
+        uses: actions/checkout@v4
+        with:
+          repository: google/fonts
+          path: fonts
+      - name: Update servers
+        run: python3 scripts/update_servers.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        name: Commit updated any data files
+        with:
+          file_pattern: "src/data/"
+      # Now build the dashboard
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm install
+      - name: Build dashboard
+        run: npm run build
+      - name: Upload
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: build
+  deploy:
+    needs: build
+    permissions:
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from an appropriate source
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
