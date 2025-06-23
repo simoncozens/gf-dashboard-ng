@@ -4,8 +4,8 @@ toc: false
 ---
 
 ```js
-const allResults = FileAttachment("./data/fontspector.json").json();
-const metadata = FileAttachment("./data/metadata.json").json();
+const allResults = await FileAttachment("./data/fontspector.json").json();
+const metadata = await FileAttachment("./data/metadata.json").json();
 
 const categoricals = {
   type: "categorical",
@@ -26,21 +26,27 @@ const categoricals = {
 ## Overall failures
 
 ```js
-Plot.plot({
-  marks: [
-    Plot.ruleY([0]),
-    Plot.line(
-      allResults.fails_by_run,
-      Plot.stackY2({ y: "count", x: (d) => new Date(d.run), stroke: "status" })
-    ),
-    Plot.dot(
-      allResults.fails_by_run,
-      Plot.stackY2({ y: "count", x: "run", fill: "status", tip: true })
-    ),
-  ],
-  color: categoricals,
-  width,
-});
+display(
+  Plot.plot({
+    marks: [
+      Plot.ruleY([0]),
+      Plot.line(
+        allResults.fails_by_run,
+        Plot.stackY2({
+          y: "count",
+          x: (d) => new Date(d.run),
+          stroke: "status",
+        })
+      ),
+      Plot.dot(
+        allResults.fails_by_run,
+        Plot.stackY2({ y: "count", x: "run", fill: "status", tip: true })
+      ),
+    ],
+    color: categoricals,
+    width,
+  })
+);
 ```
 
 </div>
@@ -73,35 +79,36 @@ const selectedRun =
 
 </div>
 
+<div class="grid grid-cols-2">
   <div class="card">
     <h2>Most failing checks</h2>
 
 ```js
-Plot.plot({
-  width,
+display(
+  Plot.plot({
+    marginBottom: 90,
+    marginLeft: 90,
+    x: {
+      tickRotate: -30,
+      label: null,
+    },
+    color: categoricals,
+    marks: [
+      Plot.ruleY([0]),
+      Plot.rectY(
+        allResults.most_failing_checks[selectedRun],
 
-  marginBottom: 90,
-  marginLeft: 90,
-  x: {
-    tickRotate: -30,
-    label: null,
-  },
-  color: categoricals,
-  marks: [
-    Plot.ruleY([0]),
-    Plot.rectY(
-      allResults.most_failing_checks[selectedRun],
-
-      {
-        y: "count",
-        x: "check_id",
-        sort: { x: "y", reverse: "true" },
-        tip: true,
-        fill: "status",
-      }
-    ),
-  ],
-});
+        {
+          y: "count",
+          x: "check_id",
+          sort: { x: "y", reverse: "true" },
+          tip: true,
+          fill: "status",
+        }
+      ),
+    ],
+  })
+);
 ```
 
   </div>
@@ -124,7 +131,6 @@ display(
       tickRotate: -30,
       label: null,
     },
-    width,
     color: categoricals,
     marks: [
       Plot.ruleY([0]),
@@ -142,4 +148,5 @@ display(
 ```
 
   </div>
+</div>
 </div>

@@ -4,11 +4,9 @@ title: Server moves
 ---
 
 ```jsx
-import { arrangeVersionHistory } from "./util/versionhistory.js";
-
 const metadata = await FileAttachment("./data/metadata.json").json();
 const servers = await FileAttachment("./data/servers.json").json();
-const updates = arrangeVersionHistory(metadata, servers);
+const updates = await FileAttachment("./data/versionhistory.json").json();
 
 var movesbydate = {};
 for (var [name, entries] of Object.entries(updates)) {

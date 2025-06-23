@@ -80,7 +80,9 @@ select family, status, status_count
 let latestResultSQL = (
   await db.runAndReadAll(
     `select directory, file, section, check_id, status, codes
-  FROM fontspector.results`
+  FROM fontspector.results
+    WHERE status NOT IN ('PASS', 'SKIP')
+  `
   )
 ).getRows();
 let latestResult = {};

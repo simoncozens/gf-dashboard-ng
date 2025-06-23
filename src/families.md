@@ -5,12 +5,11 @@ title: Family status
 
 ```js
 import { RenderFamily } from "./components/Family.js";
-import { arrangeVersionHistory } from "./util/versionhistory.js";
 
+const updates = await FileAttachment("./data/versionhistory.json").json();
 const allResults = await FileAttachment("./data/fontspector.json").json();
 const metadata = await FileAttachment("./data/metadata.json").json();
 const servers = await FileAttachment("./data/servers.json").json();
-const updates = arrangeVersionHistory(metadata, servers);
 
 const family_to_directory = Object.fromEntries(
   Object.entries(metadata).map(([k, v]) => [v.name, k])
