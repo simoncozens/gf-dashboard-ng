@@ -46,6 +46,7 @@ jobs:
         with:
           repository: google/fonts
           path: fonts
+          fetch-depth: 0
       - name: Update servers
         run: python3 scripts/update_servers.py
       - uses: stefanzweifel/git-auto-commit-action@v4
