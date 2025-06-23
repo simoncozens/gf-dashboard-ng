@@ -7,7 +7,7 @@ import os
 
 gfpath = os.environ["GF_PATH"]
 
-server_data = Path("docs/servers.json")
+server_data = Path("src/data/servers.json")
 
 if not server_data.exists():
     print(f"{server_data} not found. Generating file. This may take a while")
