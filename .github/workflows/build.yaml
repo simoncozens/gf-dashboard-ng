@@ -40,7 +40,7 @@ jobs:
           CORVEL_KNOWNHOSTS: ${{secrets.CORVEL_KNOWNHOSTS}}
       - name: Compact fontspector database
         run: |
-          duckdb src/fontspector.db -f scripts/tidy-database.sql
+          /home/runner/.duckdb/cli/latest/duckdb src/fontspector.db -f scripts/tidy-database.sql
       - name: Clone google/fonts
         uses: actions/checkout@v4
         with:
