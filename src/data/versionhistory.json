@@ -39201,6 +39201,10 @@
       {
         "version": "Version 1.010; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-03-20T03:27:04.348549"
+      },
+      {
+        "version": "Version 1.011",
+        "date": "2025-06-25T01:54:09.222208"
       }
     ],
     "sandbox": [
