@@ -78,3 +78,9 @@ body {
 #observablehq-sidebar { max-width: 500px !important;}
 
 .pre-wrap { white-space: pre-wrap; }
+ul
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}

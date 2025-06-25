@@ -1,8 +1,8 @@
-export function RenderFamily({family, directory, allResults, metadata, servers, updates} = {}) {
+export function RenderFamily({family, directory, allResults, metadata, servers, updates, pullRequests} = {}) {
   let result = allResults.latestResult[directory];
   let fbStuff = <div/>;
   let history = [];
-  console.log(updates[family]);
+  let pullsForThisDirectory = pullRequests?.filter(pr => pr.directories.includes(directory)) || [];
   if (updates[family]) {
     for (let [server, moves] of Object.entries(updates[family])) {
       for (let {version, date} of moves) {
@@ -40,21 +40,42 @@ export function RenderFamily({family, directory, allResults, metadata, servers, 
     }
   );
   }
-  let md = metadata[directory];
+  let repo_metadata = metadata[directory];
+  let dev_metadata = servers?.dev?.metadata[family] || {};
+  let sandbox_metadata = servers?.sandbox?.metadata[family] || {};
+  let production_metadata = servers?.production?.metadata[family] || {};
+
   let lastUpdated = (history?.[0]) ? new Date(history[0].date).toLocaleDateString() : 'Unknown';
   return <div>
     <h2>{family}</h2>
       <table>
         <tr><th>Directory</th> <td>{directory}</td></tr>
-        <tr><th>Designer</th> <td>{md?.designer}</td></tr>
-        <tr><th>Subsets</th> <td>{md?.subsets?.join(', ')}</td></tr>
-        <tr><th>Category</th> <td>{md?.category}</td></tr>
-        <tr><th>Date added</th> <td>{md?.dateAdded}</td></tr>
+        <tr><th>Date added</th> <td>{new Date(repo_metadata.dateAdded).toLocaleDateString()}</td></tr>
         <tr><th>Last updated</th> <td>{lastUpdated}</td></tr>
-        <tr><th>Dev version</th> <td class="dev">{servers?.dev.families[family]?.version}</td></tr>
-        <tr><th>Sandbox version</th> <td class="sandbox">{servers?.sandbox.families[family]?.version}</td></tr>
-        <tr ><th>Production version</th> <td class="production">{servers?.production.families[family]?.version}</td></tr>
+        <tr><th>Repo version</th> <td>{repo_metadata.version}</td></tr>
+        <tr><th>Dev version</th> <td class="dev">{servers?.dev.families[family]?.version || "None"}</td></tr>
+        <tr><th>Sandbox version</th> <td class="sandbox">{servers?.sandbox.families[family]?.version || "None"}</td></tr>
+        <tr ><th>Production version</th> <td class="production">{servers?.production.families[family]?.version || "None"}</td></tr>
+        { pullsForThisDirectory.length > 0 ?
+        <tr><th>Pull requests</th>
+          <td>
+            <ul>
+            {pullsForThisDirectory.map(pr => {
+              return <li key={pr.number}>
+                <a href={pr.html_url}>#{pr.number}</a> {pr.title}
+              </li>;
+            })}
+            </ul>
+          </td>
+        </tr> : ''}
       </table>
+
+      {CompareMetadata({
+        repo: repo_metadata,
+        dev: dev_metadata,
+        sandbox: sandbox_metadata,
+        production: production_metadata,
+      })}
 
       <details>
         <summary>Version history</summary>
@@ -69,7 +90,7 @@ export function RenderFamily({family, directory, allResults, metadata, servers, 
 
       <details>
         <summary>Upstream repository</summary>
-        <a href={md?.source?.repositoryUrl}>{md?.source?.repositoryUrl}</a>
+        <a href={repo_metadata?.source?.repositoryUrl}>{repo_metadata?.source?.repositoryUrl}</a>
       </details>
 
       <details>
@@ -78,4 +99,85 @@ export function RenderFamily({family, directory, allResults, metadata, servers, 
       </details>
         <hr/>
   </div>;
+}
+
+function CompareMetadata({repo, dev, sandbox, production}) {
+  let allKeys = new Set([
+    ...Object.keys(repo),
+    ...Object.keys(dev),
+    ...Object.keys(sandbox),
+    ...Object.keys(production),
+  ]);
+  // Skip "version", we did that
+  allKeys.delete("version");
+  allKeys.delete("dateAdded");
+  allKeys.delete("isNoto");
+  let s = (key, txt) => {
+    if (key == "designer") {
+      // May be a string or a list. Convert list to comma-separated string
+      if (Array.isArray(txt)) {
+        return txt.join(', ');
+      }
+      return txt;
+    }
+    return txt
+  }
+  let truthy = (value) => {
+    return value !== undefined && value !== null && value !== '';
+  };
+  let allEmpty = (key) => {
+    return !truthy(repo[key]) && !truthy(dev[key]) && !truthy(sandbox[key]) && !truthy(production[key]);
+  };
+  let servers = { "repo": repo, "dev": dev, "sandbox": sandbox, "production": production };
+  let furthest = (serverlist) => {
+    if (serverlist.includes("production")) {
+      return "production";
+    }
+    if (serverlist.includes("sandbox")) {
+      return "sandbox";
+    }
+    if (serverlist.includes("dev")) {
+      return "dev";
+    }
+    return "repo";
+  }
+
+  let rows = Array.from(allKeys).filter((key) => !allEmpty(key) && (!repo[key] || !(repo[key] instanceof Object))).map(key => {
+    let clusters = {};
+    for (let [server, data] of Object.entries(servers)) {
+      let entry = s(key, data[key]);
+      if (!clusters[entry]) {
+        clusters[entry] = [];
+      }
+      clusters[entry].push(server);
+    }
+    return <tr key={key}>
+      <th>{key}</th>
+      <td>{
+        Object.keys(clusters).length == 1 ? Object.keys(clusters)[0] :
+        <ul>
+          {Object.entries(clusters).map(([value, servers]) => {
+            return <li key={value} class={furthest(servers)}>
+              {value} <strong>[{servers.join(', ')}]</strong>
+            </li>;
+          })}
+        </ul>
+      }</td>
+    </tr>;
+  })
+  return <table>
+    <tbody>
+      {rows}
+    </tbody>
+  </table>;
+}
+
+export function hasVersionDifference(family, metadata, servers) {
+    let repoVersion = metadata[family]?.version?.split(";")[0];
+    let devVersion = servers?.dev?.families[family]?.version.split(";")[0];
+    let sandboxVersion = servers?.sandbox?.families[family]?.version.split(";")[0];
+    let productionVersion = servers?.production?.families[family]?.version.split(";")[0];
+    return (repoVersion && repoVersion !== devVersion) ||
+           (sandboxVersion && sandboxVersion !== devVersion) ||
+           (productionVersion && productionVersion !== sandboxVersion);
 }
