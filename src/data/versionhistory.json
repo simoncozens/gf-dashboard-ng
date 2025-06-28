@@ -39696,6 +39696,10 @@
       {
         "version": "Version 3.002",
         "date": "2025-05-22T01:57:26.330105"
+      },
+      {
+        "version": "Version 3.003",
+        "date": "2025-06-28T01:53:35.698253"
       }
     ],
     "sandbox": [
@@ -39960,6 +39964,22 @@
       {
         "version": "Version 1.001",
         "date": "2025-06-27T01:54:03.594631"
+      }
+    ]
+  },
+  "Libertinus Sans": {
+    "dev": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-06-28T01:53:35.272193"
+      }
+    ]
+  },
+  "Libertinus Serif": {
+    "dev": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-06-28T01:53:35.749793"
       }
     ]
   }
