@@ -30470,6 +30470,10 @@
       {
         "version": "Version 1.001",
         "date": "2025-03-09T03:13:24.138800"
+      },
+      {
+        "version": "Version 1.005",
+        "date": "2025-07-08T01:53:35.214136"
       }
     ],
     "dev": [
@@ -39231,6 +39235,10 @@
       {
         "version": "Version 1.010; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-03-25T03:25:53.247089"
+      },
+      {
+        "version": "Version 1.011",
+        "date": "2025-07-08T01:53:35.810088"
       }
     ],
     "production": [
@@ -39706,6 +39714,10 @@
       {
         "version": "Version 3.002",
         "date": "2025-06-03T01:56:14.218409"
+      },
+      {
+        "version": "Version 3.003",
+        "date": "2025-07-08T01:53:35.796311"
       }
     ],
     "production": [
@@ -39965,6 +39977,12 @@
         "version": "Version 1.001",
         "date": "2025-06-27T01:54:03.594631"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-07-08T01:53:35.689802"
+      }
     ]
   },
   "Libertinus Sans": {
@@ -39972,6 +39990,12 @@
       {
         "version": "Version 7.051;RELEASE",
         "date": "2025-06-28T01:53:35.272193"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-07-08T01:53:35.374878"
       }
     ]
   },
@@ -39981,6 +40005,12 @@
         "version": "Version 7.051;RELEASE",
         "date": "2025-06-28T01:53:35.749793"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-07-08T01:53:35.849211"
+      }
     ]
   },
   "Mozilla Headline": {
@@ -39989,6 +40019,12 @@
         "version": "Version 1.000",
         "date": "2025-07-03T01:53:31.123787"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-07-08T01:53:35.781509"
+      }
     ]
   },
   "Mozilla Text": {
@@ -39996,6 +40032,12 @@
       {
         "version": "Version 1.000",
         "date": "2025-07-03T01:53:31.142067"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-07-08T01:53:35.800072"
       }
     ]
   },

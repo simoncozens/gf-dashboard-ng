@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-07",
+    "last_checked": "2025-07-08",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -52861,7 +52861,7 @@
             },
             "Cactus Classical Serif": {
                 "name": "Cactus Classical Serif",
-                "version": "Version 1.001"
+                "version": "Version 1.005"
             },
             "Caesar Dressing": {
                 "name": "Caesar Dressing",
@@ -54477,7 +54477,7 @@
             },
             "Intel One Mono": {
                 "name": "Intel One Mono",
-                "version": "Version 1.400;hotconv 1.1.0;makeotfexe 2.6.0;FJTRelease1.4"
+                "version": "Version 1.005; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Inter": {
                 "name": "Inter",
@@ -55357,7 +55357,7 @@
             },
             "Matangi": {
                 "name": "Matangi",
-                "version": "Version 3.002"
+                "version": "Version 3.003"
             },
             "Mate": {
                 "name": "Mate",
@@ -58457,7 +58457,7 @@
             },
             "Special Gothic": {
                 "name": "Special Gothic",
-                "version": "Version 1.010; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.011"
             },
             "Special Gothic Condensed One": {
                 "name": "Special Gothic Condensed One",
@@ -59274,6 +59274,26 @@
             "Zilla Slab Highlight": {
                 "name": "Zilla Slab Highlight",
                 "version": "Version 1.1; 2017; ttfautohint (v1.6)"
+            },
+            "Libertinus Sans": {
+                "name": "Libertinus Sans",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Libertinus Serif": {
+                "name": "Libertinus Serif",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Mozilla Headline": {
+                "name": "Mozilla Headline",
+                "version": "Version 1.000"
+            },
+            "Mozilla Text": {
+                "name": "Mozilla Text",
+                "version": "Version 1.000"
+            },
+            "Nata Sans": {
+                "name": "Nata Sans",
+                "version": "Version 1.001"
             }
         },
         "designers": {
@@ -61863,6 +61883,14 @@
             },
             "Typotheque": {
                 "name": "Typotheque",
+                "bio": null
+            },
+            "Studio DRAMA": {
+                "name": "Studio DRAMA",
+                "bio": null
+            },
+            "Daniel Uzquiano": {
+                "name": "Daniel Uzquiano",
                 "bio": null
             }
         },
@@ -99766,6 +99794,110 @@
                 "primary_script": null,
                 "article": null,
                 "minisite_url": null
+            },
+            "Libertinus Sans": {
+                "name": "Libertinus Sans",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Libertinus Serif": {
+                "name": "Libertinus Serif",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "hebrew",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Mozilla Headline": {
+                "name": "Mozilla Headline",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Mozilla Headline and Mozilla Text are our custom typefaces for the Mozilla brand. This typeface font family features a unique uniwidth design. It maintains standardized spacing and kerning across all weights and styles, eliminating risk of text reflow to preserve the integrity of the layout and enhance the user\u2019s experience. Read more about Mozilla\u2019s rebrand here. To contribute, see github.com/mozilla/mozilla-headline-type.",
+                "minisite_url": null
+            },
+            "Mozilla Text": {
+                "name": "Mozilla Text",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Mozilla Headline and Mozilla Text are the custom typefaces for the Mozilla brand. This typeface font family features a unique uniwidth design. It maintains standardized spacing and kerning across all weights and styles, eliminating risk of text reflow to preserve the integrity of the layout and enhance the user\u2019s experience. Read more about Mozilla\u2019s rebrand here. To contribute, see github.com/mozilla/mozilla-text-type.",
+                "minisite_url": null
+            },
+            "Nata Sans": {
+                "name": "Nata Sans",
+                "designer": [
+                    "Daniel Uzquiano"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Nata Sans is a grotesque sans-serif typeface with a subtle humanist tone, designed by Daniel Uzquiano Cruz. It was developed with user interfaces in mind, featuring a generous x-height, wide glyphs, and short ascenders and descenders that promote a relaxed and readable rhythm. Nata Sans presents a restrained yet distinct personality, making it a viable alternative to Helvetica in both digital and print contexts. The typeface includes nine predefined weights from Thin to Black, and is available as a variable font with a weight axis ranging from 100 to 900. All weights interpolate smoothly thanks to three master drawings and cover 1022 glyphs. Nata Sans supports 219 Latin-based languages spoken across 212 countries. It meets 100% of the Google Fonts Latin Plus character set, making it fully equipped for a wide range of global applications. It also supports Latin, including Vietnamese, and Cyrillic scripts, and implements 18 OpenType features, including stylistic alternates, localized forms, case-sensitive punctuation, tabular and old-style figures, fractions, superscripts, subscripts, and more. Features such as calt, ss01, locl, and kern enhance typographic flexibility across platforms. The font is released under the SIL Open Font License and is actively maintained on GitHub",
+                "minisite_url": "https://dnlzqn.xyz/nata/"
             }
         },
         "axisregistry": {
