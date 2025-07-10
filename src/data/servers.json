@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-09",
+    "last_checked": "2025-07-10",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -4324,7 +4324,7 @@
             },
             "Noto Sans Bengali": {
                 "name": "Noto Sans Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Sans Bengali UI": {
                 "name": "Noto Sans Bengali UI",
@@ -5008,7 +5008,7 @@
             },
             "Noto Serif Bengali": {
                 "name": "Noto Serif Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Serif Devanagari": {
                 "name": "Noto Serif Devanagari",
