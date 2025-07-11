@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-10",
+    "last_checked": "2025-07-11",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -3768,7 +3768,7 @@
             },
             "Matangi": {
                 "name": "Matangi",
-                "version": "Version 3.003"
+                "version": "Version 3.004"
             },
             "Mate": {
                 "name": "Mate",
@@ -4320,7 +4320,7 @@
             },
             "Noto Sans Batak": {
                 "name": "Noto Sans Batak",
-                "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.004; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Noto Sans Bengali": {
                 "name": "Noto Sans Bengali",
@@ -7933,6 +7933,10 @@
             "Google Sans Code": {
                 "name": "Google Sans Code",
                 "version": "Version 6.000"
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
             }
         },
         "designers": {
@@ -10547,6 +10551,14 @@
             "Universal Thirst": {
                 "name": "Universal Thirst",
                 "bio": "Universal Thirst is a boutique type foundry specialising in producing fonts for the Indic and Latin scripts. Set up in 2016 by designer and engineer duo Gunnar Vilhj\u00e1lmsson and Kalapi Gajjar and drawing on their contrasting visual heritage, the studio offers a unique, dual perspective on multiscript typography. Clients of note include Apple, The Ford Foundation, Frieze Art Fair, Google, Icelandair, Instagram (Meta), Manchester Museum, among other technology and culture brands. universalthirst.com"
+            },
+            "Lana Roulhac": {
+                "name": "Lana Roulhac",
+                "bio": null
+            },
+            "Ben Buysse": {
+                "name": "Ben Buysse",
+                "bio": null
             }
         },
         "metadata": {
@@ -50783,6 +50795,28 @@
                 "description": null,
                 "primary_script": null,
                 "article": "In Memory of Chris Simpkins Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project. Introducing Google Sans Code Google Sans Code is a fixed-width, geometric sans-serif typeface developed to complement Google's corporate branding fonts. Derived from our other brand fonts, this typeface has been crafted specifically for writing and reading code, and enhanced for clarity at text dimensions typically used in programming interfaces. History and design details The architecture of Google Sans Code merges geometric precision with calligraphic expression within the constraints of a fixed-width canvas. The Roman variant builds on a clean, structured sans-serif foundation, ensuring optimal readability in code and data-intensive environments. In contrast, the Italic variant draws inspiration from early Italian italics, providing a distinctive and expressive complementary style. This thoughtful pairing delivers a unique combination of technical precision, historical elegance, and personable quirkiness. Readability & legibility at small sizes The fundamental structure of shapes in the Roman design maximizes counter space in letterforms by employing gradual curve radii and straight vertical stem segments in predominantly circular letters, enhancing clarity at target sizes. Characters with idiosyncratic features like 'a', 'g', and 'Q' incorporate elements from traditional text typefaces to improve recognition in situations where conventional sans serif forms might be confused with similar characters. Symbols frequently used as lexical elements in programming languages have been refined for immediate recognition and to maintain an equal visual balance with alphanumerical components within the syntactical hierarchy at intended sizes. Expressive italics The italic style, commonly employed for code comments in syntax highlighting schemes, features a more dynamic and contrasting appearance compared to the Roman. This approach parallels Latin handwritten manuscripts where authors' annotations appeared in an italic hand, distinguishing them from the primary text set in Roman style, establishing a visual hierarchy throughout the document. The letterforms draw inspiration from Ludovico Vicentino degli Arrighi's pioneering italic typefaces. Auxiliary characters and language support The character set encompasses support for contemporary programming languages with extensions into box-drawing characters and geometric symbols. Google Sans Code also accommodates a comprehensive range of human languages that utilize the Latin writing system.",
+                "minisite_url": null
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "designer": [
+                    "Lana Roulhac",
+                    "Ben Buysse"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Story Script is a beautiful font that accurately mimics real handwriting. It is ideally suited for advertising and packaging, posters and books. To contribute, see github.com/lroulh/story-script.",
                 "minisite_url": null
             }
         },
