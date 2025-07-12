@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-11",
+    "last_checked": "2025-07-12",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -1976,7 +1976,7 @@
             },
             "Epunda Slab": {
                 "name": "Epunda Slab",
-                "version": "Version 1.102"
+                "version": "Version 1.103"
             },
             "Erica One": {
                 "name": "Erica One",
@@ -7937,6 +7937,14 @@
             "Story Script": {
                 "name": "Story Script",
                 "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "version": "Version 1.002"
+            },
+            "TikTok Sans": {
+                "name": "TikTok Sans",
+                "version": "Version 4.000"
             }
         },
         "designers": {
@@ -10559,6 +10567,18 @@
             "Ben Buysse": {
                 "name": "Ben Buysse",
                 "bio": null
+            },
+            "Grilli Type": {
+                "name": "Grilli Type",
+                "bio": "Grilli Type is an independent Swiss type foundry based in Lucerne and New York City. They offer original retail and custom typefaces\u2014high quality products with a contemporary aesthetic in the Swiss tradition. grillitype.com"
+            },
+            "Contrast Foundry": {
+                "name": "Contrast Foundry",
+                "bio": "Established in 2014, Contrast Foundry is an international team of designers based in the San Francisco Bay Area. The foundry is known for its sophisticated multilingual typefaces, including CoFo Sans, Chimera, and Cinema1909. Their work is used by clients such as BBDO, Nike, Coca-Cola, Collins, and the Strelka Institute. In addition to creating custom typefaces and wordmarks, Contrast Foundry partners with in-house teams, leads workshops, and develops designs that transition seamlessly across platforms. Committed to education and community engagement, the team supports the next generation of designers through its Type Design Workshop and global lecture initiatives. contrastfoundry.com"
+            },
+            "Type Network": {
+                "name": "Type Network",
+                "bio": "The world\u2019s best fonts. The world\u2019s best designers. Type Network represents more than 100 of the world\u2019s top foundries, with more joining every week. They make font licensing for businesses and organizations easier than ever. Their clients include AccuWeather, Adidas, Disney, MTV, Ford, HP, Microsoft, Ubuntu, The New York Times, Paramount, and The Washington Post. typenetwork.com/"
             }
         },
         "metadata": {
@@ -50818,6 +50838,52 @@
                 "primary_script": null,
                 "article": "Story Script is a beautiful font that accurately mimics real handwriting. It is ideally suited for advertising and packaging, posters and books. To contribute, see github.com/lroulh/story-script.",
                 "minisite_url": null
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "designer": [
+                    "Tamcy"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "Chiron GoRound TC is a rounded Traditional Chinese sans typeface based on Chiron Hei HK and Adobe's Source Han Sans (a.k.a. Google's Noto Sans CJK). The font aims at providing a modern, region-agnostic glyph set adopting the \"modern\" glyph style that is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese regions. In Chiron GoRound TC, glyph shapes in Source Han Sans Traditional Chinese (Hong Kong) are reviewed and adjusted for the better display effect on screen and in print. The font takes references from the glyph shapes of typefaces commonly seen in daily life to provide a set of regional agnostic, modern-style glyphs that balance standard glyph shapes and the usual stroke forms of printed typefaces. The glyph set is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese communities. To contribute, see github.com/chiron-fonts/chiron-go-round-tc.",
+                "minisite_url": null
+            },
+            "TikTok Sans": {
+                "name": "TikTok Sans",
+                "designer": [
+                    "Grilli Type",
+                    "Contrast Foundry",
+                    "Type Network"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "With its playful, fresh, and dynamic design, TikTok Sans is perfect for making your video captions stand out. You may recognize this font as the default font used in millions of TikTok videos. Bring your creations to life and amplify your voice with TikTok Sans. Supports over 460+ languages for Latin, Greek, and Cyrillic Includes variable font with Weight, Width, Slant, and Optical Size axes Offers tabular numerals, disambiguation stylistic set, character variants, and more Optimized for high-DPI mobile UI typesetting Features manual TrueType hinting To contribute, see https://github.com/tiktok/TikTokSans",
+                "minisite_url": "https://tiktok.com/font"
             }
         },
         "axisregistry": {
