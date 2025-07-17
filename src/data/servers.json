@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-16",
+    "last_checked": "2025-07-17",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -1372,7 +1372,7 @@
             },
             "Chiron Hei HK": {
                 "name": "Chiron Hei HK",
-                "version": "Version 2.525"
+                "version": "Version 2.530"
             },
             "Chiron Sung HK": {
                 "name": "Chiron Sung HK",
@@ -6320,7 +6320,7 @@
             },
             "Reem Kufi": {
                 "name": "Reem Kufi",
-                "version": "Version 1.6"
+                "version": "Version 2.000"
             },
             "Reem Kufi Fun": {
                 "name": "Reem Kufi Fun",
@@ -7945,6 +7945,10 @@
             "TikTok Sans": {
                 "name": "TikTok Sans",
                 "version": "Version 4.000"
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)"
             }
         },
         "designers": {
@@ -8722,7 +8726,7 @@
             },
             "Appaji Ambarisha Darbha": {
                 "name": "Appaji Ambarisha Darbha",
-                "bio": null
+                "bio": "Appaji Ambarisha is a seasoned type designer and digital media professional based in Hyderabad, India. With over three decades of experience in advertising, printing, and publishing, he has pioneered innovative design solutions, particularly in Telugu and Kannada Unicode fonts. His creative journey spans distinguished roles in top advertising firms across Andhra Pradesh, Telangana, and Karnataka, earning him recognition as a graphic designer of exceptional caliber. appajiambarisha.com | Instagram"
             },
             "Vicente Lam\u00f3naca": {
                 "name": "Vicente Lam\u00f3naca",
@@ -17531,7 +17535,7 @@
                 "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
-                    "chinese-hongkong",
+                    "chinese-traditional",
                     "cyrillic",
                     "cyrillic-ext",
                     "greek",
@@ -42444,7 +42448,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/alif-type/reem-kufi",
+                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/aliftype/reem-kufi",
                 "primary_script": "Arab",
                 "article": null,
                 "minisite_url": null
@@ -50884,6 +50888,26 @@
                 "primary_script": null,
                 "article": "With its playful, fresh, and dynamic design, TikTok Sans is perfect for making your video captions stand out. You may recognize this font as the default font used in millions of TikTok videos. Bring your creations to life and amplify your voice with TikTok Sans. Supports over 460+ languages for Latin, Greek, and Cyrillic Includes variable font with Weight, Width, Slant, and Optical Size axes Offers tabular numerals, disambiguation stylistic set, character variants, and more Optimized for high-DPI mobile UI typesetting Features manual TrueType hinting To contribute, see https://github.com/tiktok/TikTokSans",
                 "minisite_url": "https://tiktok.com/font"
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "designer": [
+                    "Appaji Ambarisha Darbha"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "telugu"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": "Telu",
+                "article": "Sirivennela is a script-style Telugu Unicode font. It is mainly intended for headings and subheadings, but can also be used for text at large point sizes. This font was developed and named after the late Sirivennela Seetharama Shastry, a renowned lyricist in the Telugu film industry. To contribute, please see github.com/appajid/Sirivennela.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -55457,7 +55481,7 @@
             },
             "Matangi": {
                 "name": "Matangi",
-                "version": "Version 3.003"
+                "version": "Version 3.004"
             },
             "Mate": {
                 "name": "Mate",
@@ -59394,6 +59418,10 @@
             "Nata Sans": {
                 "name": "Nata Sans",
                 "version": "Version 1.001"
+            },
+            "Google Sans Code": {
+                "name": "Google Sans Code",
+                "version": "Version 6.000"
             }
         },
         "designers": {
@@ -61992,6 +62020,10 @@
             "Daniel Uzquiano": {
                 "name": "Daniel Uzquiano",
                 "bio": null
+            },
+            "Universal Thirst": {
+                "name": "Universal Thirst",
+                "bio": "Universal Thirst is a boutique type foundry specialising in producing fonts for the Indic and Latin scripts. Set up in 2016 by designer and engineer duo Gunnar Vilhj\u00e1lmsson and Kalapi Gajjar and drawing on their contrasting visual heritage, the studio offers a unique, dual perspective on multiscript typography. Clients of note include Apple, The Ford Foundation, Frieze Art Fair, Google, Icelandair, Instagram (Meta), Manchester Museum, among other technology and culture brands."
             }
         },
         "metadata": {
@@ -99998,6 +100030,36 @@
                 "primary_script": null,
                 "article": "Nata Sans is a grotesque sans-serif typeface with a subtle humanist tone, designed by Daniel Uzquiano Cruz. It was developed with user interfaces in mind, featuring a generous x-height, wide glyphs, and short ascenders and descenders that promote a relaxed and readable rhythm. Nata Sans presents a restrained yet distinct personality, making it a viable alternative to Helvetica in both digital and print contexts. The typeface includes nine predefined weights from Thin to Black, and is available as a variable font with a weight axis ranging from 100 to 900. All weights interpolate smoothly thanks to three master drawings and cover 1022 glyphs. Nata Sans supports 219 Latin-based languages spoken across 212 countries. It meets 100% of the Google Fonts Latin Plus character set, making it fully equipped for a wide range of global applications. It also supports Latin, including Vietnamese, and Cyrillic scripts, and implements 18 OpenType features, including stylistic alternates, localized forms, case-sensitive punctuation, tabular and old-style figures, fractions, superscripts, subscripts, and more. Features such as calt, ss01, locl, and kern enhance typographic flexibility across platforms. The font is released under the SIL Open Font License and is actively maintained on GitHub",
                 "minisite_url": "https://dnlzqn.xyz/nata/"
+            },
+            "Google Sans Code": {
+                "name": "Google Sans Code",
+                "designer": [
+                    "Google",
+                    "Universal Thirst"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "adlam",
+                    "canadian-aboriginal",
+                    "cherokee",
+                    "latin",
+                    "latin-ext",
+                    "math",
+                    "old-permic",
+                    "symbols",
+                    "symbols2",
+                    "syriac",
+                    "vietnamese"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "In Memory of Chris Simpkins Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project. Introducing Google Sans Code Google Sans Code is a fixed-width, geometric sans-serif typeface developed to complement Google's corporate branding fonts. Derived from our other brand fonts, this typeface has been crafted specifically for writing and reading code, and enhanced for clarity at text dimensions typically used in programming interfaces. History and design details The architecture of Google Sans Code merges geometric precision with calligraphic expression within the constraints of a fixed-width canvas. The Roman variant builds on a clean, structured sans-serif foundation, ensuring optimal readability in code and data-intensive environments. In contrast, the Italic variant draws inspiration from early Italian italics, providing a distinctive and expressive complementary style. This thoughtful pairing delivers a unique combination of technical precision, historical elegance, and personable quirkiness. Readability & legibility at small sizes The fundamental structure of shapes in the Roman design maximizes counter space in letterforms by employing gradual curve radii and straight vertical stem segments in predominantly circular letters, enhancing clarity at target sizes. Characters with idiosyncratic features like 'a', 'g', and 'Q' incorporate elements from traditional text typefaces to improve recognition in situations where conventional sans serif forms might be confused with similar characters. Symbols frequently used as lexical elements in programming languages have been refined for immediate recognition and to maintain an equal visual balance with alphanumerical components within the syntactical hierarchy at intended sizes. Expressive italics The italic style, commonly employed for code comments in syntax highlighting schemes, features a more dynamic and contrasting appearance compared to the Roman. This approach parallels Latin handwritten manuscripts where authors' annotations appeared in an italic hand, distinguishing them from the primary text set in Roman style, establishing a visual hierarchy throughout the document. The letterforms draw inspiration from Ludovico Vicentino degli Arrighi's pioneering italic typefaces. Auxiliary characters and language support The character set encompasses support for contemporary programming languages with extensions into box-drawing characters and geometric symbols. Google Sans Code also accommodates a comprehensive range of human languages that utilize the Latin writing system.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -102031,7 +102093,7 @@
             },
             "Cactus Classical Serif": {
                 "name": "Cactus Classical Serif",
-                "version": "Version 1.001"
+                "version": "Version 1.005"
             },
             "Caesar Dressing": {
                 "name": "Caesar Dressing",
@@ -108420,6 +108482,30 @@
             "Noto Sans Sunuwar": {
                 "name": "Noto Sans Sunuwar",
                 "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Bitcount": {
+                "name": "Bitcount",
+                "version": "Version 1.0"
+            },
+            "Bitcount Grid Single": {
+                "name": "Bitcount Grid Single",
+                "version": "Version 1.0"
+            },
+            "Bitcount Prop Double": {
+                "name": "Bitcount Prop Double",
+                "version": "Version 1.0"
+            },
+            "Bitcount Prop Single": {
+                "name": "Bitcount Prop Single",
+                "version": "Version 1.0"
+            },
+            "Bitcount Single": {
+                "name": "Bitcount Single",
+                "version": "Version 1.0"
+            },
+            "Intel One Mono": {
+                "name": "Intel One Mono",
+                "version": "Version 1.005; ttfautohint (v1.8.4.7-5d5b)"
             }
         },
         "designers": {
@@ -110986,6 +111072,14 @@
             "Aleme Tadesse": {
                 "name": "Aleme Tadesse",
                 "bio": "Aleme has designed \"Menbere,\" a versatile five-weight typeface, and \"Nigus,\" which artfully mimics traditional church manuscript writing. In addition to designing typefaces he is a full-time graphic designer, printer, painter, and painting instructor. He runs his own printing and graphic design company. He also has an MA in Architecture taken in Russia. His current focus is on watercolor creations, capturing the essence of Washington, DC, through his keen eye and delicate brushwork. These watercolors have become iconic, celebrated on postcards and cherished by locals and tourists alike. dcwatercolor.com | beteseb.org"
+            },
+            "Intel Corporation": {
+                "name": "Intel Corporation",
+                "bio": null
+            },
+            "Frere-Jones Type": {
+                "name": "Frere-Jones Type",
+                "bio": null
             }
         },
         "metadata": {
@@ -148614,6 +148708,129 @@
                 "description": null,
                 "primary_script": "Sunu",
                 "article": "Noto Sans Sunuwar is an unmodulated (\u201csans serif\u201d) design for texts in the South Asian Sunuwar script. Noto Sans Sunuwar contains 85 glyphs, 1 OpenType feature, and supports 44 characters from the Unicode block Sunuwar. Supported writing systems Sunuwar Sunuwar (K\u00f5its brese) is a left-to-right South Asian writing system used for the Kiranti-K\u00f5its (Mukhia) language. The script used in Nepal and Sikkim, India. The orthographic rules in Sikkim are currently different than those in Nepal. The font supports both standards. Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
+                "minisite_url": null
+            },
+            "Bitcount": {
+                "name": "Bitcount",
+                "designer": [
+                    "Petr van Blokland"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "N/A",
+                "minisite_url": null
+            },
+            "Bitcount Grid Single": {
+                "name": "Bitcount Grid Single",
+                "designer": [
+                    "Petr van Blokland"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "N/A",
+                "minisite_url": null
+            },
+            "Bitcount Prop Double": {
+                "name": "Bitcount Prop Double",
+                "designer": [
+                    "Petr van Blokland"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "N/A",
+                "minisite_url": null
+            },
+            "Bitcount Prop Single": {
+                "name": "Bitcount Prop Single",
+                "designer": [
+                    "Petr van Blokland"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "N/A",
+                "minisite_url": null
+            },
+            "Bitcount Single": {
+                "name": "Bitcount Single",
+                "designer": [
+                    "Petr van Blokland"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "N/A",
+                "minisite_url": null
+            },
+            "Intel One Mono": {
+                "name": "Intel One Mono",
+                "designer": [
+                    "Intel Corporation",
+                    "Frere-Jones Type"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "symbols2",
+                    "vietnamese"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Introducing Intel One Mono, an expressive monospaced font family that\u2019s built with clarity, legibility, and the needs of developers in mind. Identifying the typographically underserved low-vision developer audience, Frere-Jones Type designed the Intel One Mono typeface in partnership with the Intel Brand Team and VMLY&R, for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design. Intel One Mono also covers a wide range of over 200 languages using the Latin script. The Intel One Mono fonts are provided in four weights \u2014 Light, Regular, Medium, and Bold \u2014 with matching italics, and we are happy to share both an official release of fonts ready to use as well as editable sources. To contribute, please see github.com/intel/intel-one-mono",
                 "minisite_url": null
             }
         },
