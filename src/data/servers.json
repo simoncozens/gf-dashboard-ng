@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-17",
+    "last_checked": "2025-07-18",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -268,11 +268,11 @@
             },
             "Amiri": {
                 "name": "Amiri",
-                "version": "Version 1.000"
+                "version": "Version 1.002"
             },
             "Amiri Quran": {
                 "name": "Amiri Quran",
-                "version": "0.117-H1"
+                "version": "Version 1.003"
             },
             "Amiri Quran Colored": {
                 "name": "Amiri Quran Colored",
@@ -7949,6 +7949,14 @@
             "Sirivennela": {
                 "name": "Sirivennela",
                 "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Libertinus Keyboard": {
+                "name": "Libertinus Keyboard",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Libertinus Serif Display": {
+                "name": "Libertinus Serif Display",
+                "version": "Version 7.051;RELEASE"
             }
         },
         "designers": {
@@ -11932,7 +11940,7 @@
                 ],
                 "stroke": "SERIF",
                 "classifications": [],
-                "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at www.amirifont.org To contribute, see github.com/aliftype/amiri. Updated in December 2022 to v1.000",
+                "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at aliftype.com/amiri/ To contribute, see github.com/aliftype/amiri.",
                 "primary_script": "Arab",
                 "article": null,
                 "minisite_url": null
@@ -50907,6 +50915,51 @@
                 "description": null,
                 "primary_script": "Telu",
                 "article": "Sirivennela is a script-style Telugu Unicode font. It is mainly intended for headings and subheadings, but can also be used for text at large point sizes. This font was developed and named after the late Sirivennela Seetharama Shastry, a renowned lyricist in the Telugu film industry. To contribute, please see github.com/appajid/Sirivennela.",
+                "minisite_url": null
+            },
+            "Libertinus Keyboard": {
+                "name": "Libertinus Keyboard",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Linux Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Linux Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Libertinus Serif Display": {
+                "name": "Libertinus Serif Display",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
                 "minisite_url": null
             }
         },
