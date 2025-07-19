@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-18",
+    "last_checked": "2025-07-19",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -5136,7 +5136,7 @@
             },
             "Noto Serif Tangut": {
                 "name": "Noto Serif Tangut",
-                "version": "Version 2.169; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.170; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Noto Serif Telugu": {
                 "name": "Noto Serif Telugu",
@@ -9694,7 +9694,7 @@
             },
             "Google": {
                 "name": "Google",
-                "bio": null
+                "bio": "Our mission is to organize the world\u2019s information and make it universally accessible and useful. In their first letter to shareholders, our founders highlighted Google\u2019s goal to \u201cdevelop services that significantly improve the lives of as many people as possible.\u201d This vision continues to guide all of us at Google. We believe in technology\u2019s power and potential to have a profoundly positive impact across the world. about.google"
             },
             "Ana Paula Megda": {
                 "name": "Ana Paula Megda",
