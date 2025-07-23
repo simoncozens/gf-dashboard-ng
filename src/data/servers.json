@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-22",
+    "last_checked": "2025-07-23",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -10578,7 +10578,7 @@
             },
             "Ben Buysse": {
                 "name": "Ben Buysse",
-                "bio": null
+                "bio": "Ben Buysse is an art director, designer, and artist based in Austin, Texas. His work is focused in the areas of branding, typography, and illustration. benbuysse.com"
             },
             "Grilli Type": {
                 "name": "Grilli Type",
@@ -50848,7 +50848,7 @@
                 ],
                 "description": null,
                 "primary_script": null,
-                "article": "Story Script is a beautiful font that accurately mimics real handwriting. It is ideally suited for advertising and packaging, posters and books. To contribute, see github.com/lroulh/story-script.",
+                "article": "Story Script is a handwritten typeface designed by Ben Buysse, in collaboration with Lana Roulhac, Senior Creative Director at FullStory, a digital experience intelligence platform. Story Script was designed to capture the lighthearted spirit of our culture, while using clean, intentional lines for improved readability and sophistication over traditional handwritten typefaces. When paired with a sans serif, it creates a relationship that balances humanity and clarity. The result is an honest and approachable typeface that can be used at a variety of sizes while retaining its personality and distinction. It was drawn at an angle that places reverse emphasis on strokes, giving it a non-traditional weight balance, while also upholding the characteristics that make each letterform recognizable. Tension and balance are central themes, combining the imperfection of handwriting and the precision of printed letters. Individuality is met with consistency. Unlike qualities are brought together in a harmony that makes for a unique typographic expression. With over 700 glyphs, the typeface supports 25 Latin languages and includes two sets of stylistic alternates that offer more variation. To contribute, see github.com/lroulh/story-script.",
                 "minisite_url": null
             },
             "Chiron GoRound TC": {
@@ -108559,6 +108559,10 @@
             "Intel One Mono": {
                 "name": "Intel One Mono",
                 "version": "Version 1.005; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Google Sans Code": {
+                "name": "Google Sans Code",
+                "version": "Version 6.000"
             }
         },
         "designers": {
@@ -111132,6 +111136,10 @@
             },
             "Frere-Jones Type": {
                 "name": "Frere-Jones Type",
+                "bio": null
+            },
+            "Universal Thirst": {
+                "name": "Universal Thirst",
                 "bio": null
             }
         },
@@ -148884,6 +148892,36 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Introducing Intel One Mono, an expressive monospaced font family that\u2019s built with clarity, legibility, and the needs of developers in mind. Identifying the typographically underserved low-vision developer audience, Frere-Jones Type designed the Intel One Mono typeface in partnership with the Intel Brand Team and VMLY&R, for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design. Intel One Mono also covers a wide range of over 200 languages using the Latin script. The Intel One Mono fonts are provided in four weights \u2014 Light, Regular, Medium, and Bold \u2014 with matching italics, and we are happy to share both an official release of fonts ready to use as well as editable sources. To contribute, please see github.com/intel/intel-one-mono",
+                "minisite_url": null
+            },
+            "Google Sans Code": {
+                "name": "Google Sans Code",
+                "designer": [
+                    "Google",
+                    "Universal Thirst"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "adlam",
+                    "canadian-aboriginal",
+                    "cherokee",
+                    "latin",
+                    "latin-ext",
+                    "math",
+                    "old-permic",
+                    "symbols",
+                    "symbols2",
+                    "syriac",
+                    "vietnamese"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "In Memory of Chris Simpkins Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project. Introducing Google Sans Code Google Sans Code is a fixed-width, geometric sans-serif typeface developed to complement Google's corporate branding fonts. Derived from our other brand fonts, this typeface has been crafted specifically for writing and reading code, and enhanced for clarity at text dimensions typically used in programming interfaces. History and design details The architecture of Google Sans Code merges geometric precision with calligraphic expression within the constraints of a fixed-width canvas. The Roman variant builds on a clean, structured sans-serif foundation, ensuring optimal readability in code and data-intensive environments. In contrast, the Italic variant draws inspiration from early Italian italics, providing a distinctive and expressive complementary style. This thoughtful pairing delivers a unique combination of technical precision, historical elegance, and personable quirkiness. Readability & legibility at small sizes The fundamental structure of shapes in the Roman design maximizes counter space in letterforms by employing gradual curve radii and straight vertical stem segments in predominantly circular letters, enhancing clarity at target sizes. Characters with idiosyncratic features like 'a', 'g', and 'Q' incorporate elements from traditional text typefaces to improve recognition in situations where conventional sans serif forms might be confused with similar characters. Symbols frequently used as lexical elements in programming languages have been refined for immediate recognition and to maintain an equal visual balance with alphanumerical components within the syntactical hierarchy at intended sizes. Expressive italics The italic style, commonly employed for code comments in syntax highlighting schemes, features a more dynamic and contrasting appearance compared to the Roman. This approach parallels Latin handwritten manuscripts where authors' annotations appeared in an italic hand, distinguishing them from the primary text set in Roman style, establishing a visual hierarchy throughout the document. The letterforms draw inspiration from Ludovico Vicentino degli Arrighi's pioneering italic typefaces. Auxiliary characters and language support The character set encompasses support for contemporary programming languages with extensions into box-drawing characters and geometric symbols. Google Sans Code also accommodates a comprehensive range of human languages that utilize the Latin writing system.",
                 "minisite_url": null
             }
         },
