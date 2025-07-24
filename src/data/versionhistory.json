@@ -1926,6 +1926,10 @@
       {
         "version": "Version 1.6",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 2.000",
+        "date": "2025-07-24T01:53:56.142548"
       }
     ],
     "production": [
@@ -33316,6 +33320,10 @@
       {
         "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-08-28T17:27:03.898197"
+      },
+      {
+        "version": "Version 2.004; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-07-24T01:53:55.554992"
       }
     ],
     "production": [
@@ -33524,6 +33532,10 @@
       {
         "version": "Version 2.003",
         "date": "2024-08-28T17:33:56.400744"
+      },
+      {
+        "version": "Version 3.000",
+        "date": "2025-07-24T01:53:55.682319"
       }
     ],
     "production": [
@@ -34660,6 +34672,10 @@
       {
         "version": "Version 2.003",
         "date": "2024-08-28T18:17:50.250571"
+      },
+      {
+        "version": "Version 3.000",
+        "date": "2025-07-24T01:53:55.830030"
       }
     ],
     "production": [
@@ -39384,6 +39400,12 @@
         "version": "Version 1.103",
         "date": "2025-07-12T01:53:49.623945"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.103",
+        "date": "2025-07-24T01:53:55.680133"
+      }
     ]
   },
   "Coral Pixels": {
@@ -40052,6 +40074,10 @@
       {
         "version": "Version 2.525",
         "date": "2025-06-20T12:43:39.005216"
+      },
+      {
+        "version": "Version 2.530",
+        "date": "2025-07-24T01:53:56.234615"
       }
     ],
     "production": [
@@ -40157,6 +40183,12 @@
         "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-07-11T01:53:52.199315"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-07-24T01:53:55.790110"
+      }
     ]
   },
   "TikTok Sans": {
@@ -40179,6 +40211,12 @@
         "version": "Version 1.002",
         "date": "2025-07-12T01:53:49.939132"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.002",
+        "date": "2025-07-24T01:53:55.995133"
+      }
     ]
   },
   "Sirivennela": {
@@ -40186,6 +40224,12 @@
       {
         "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-07-17T01:53:51.373104"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-07-24T01:53:56.080752"
       }
     ]
   },
@@ -40202,6 +40246,30 @@
       {
         "version": "Version 7.051;RELEASE",
         "date": "2025-07-18T01:53:59.578198"
+      }
+    ]
+  },
+  "Zalando Sans": {
+    "dev": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-07-24T01:53:55.485047"
+      }
+    ]
+  },
+  "Zalando Sans Expanded": {
+    "dev": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-07-24T01:53:55.873639"
+      }
+    ]
+  },
+  "Zalando Sans SemiExpanded": {
+    "dev": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-07-24T01:53:56.013258"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-23",
+    "last_checked": "2025-07-24",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -7957,6 +7957,18 @@
             "Libertinus Serif Display": {
                 "name": "Libertinus Serif Display",
                 "version": "Version 7.051;RELEASE"
+            },
+            "Zalando Sans": {
+                "name": "Zalando Sans",
+                "version": "Version 1.700"
+            },
+            "Zalando Sans Expanded": {
+                "name": "Zalando Sans Expanded",
+                "version": "Version 1.700"
+            },
+            "Zalando Sans SemiExpanded": {
+                "name": "Zalando Sans SemiExpanded",
+                "version": "Version 1.700"
             }
         },
         "designers": {
@@ -10591,6 +10603,18 @@
             "Type Network": {
                 "name": "Type Network",
                 "bio": "The world\u2019s best fonts. The world\u2019s best designers. Type Network represents more than 100 of the world\u2019s top foundries, with more joining every week. They make font licensing for businesses and organizations easier than ever. Their clients include AccuWeather, Adidas, Disney, MTV, Ford, HP, Microsoft, Ubuntu, The New York Times, Paramount, and The Washington Post. typenetwork.com/"
+            },
+            "Jakob Ekelund": {
+                "name": "Jakob Ekelund",
+                "bio": "Jakob Ekelund is the Type Director at Kurppa Hosk and co-founder of KH Type. He specialises in bespoke brand typography and has experience from working with major international and Swedish brands. Jakob is also the designer of retail typeface KH Giga and co-designer of KH Teka. Instagram"
+            },
+            "KH Type": {
+                "name": "KH Type",
+                "bio": "KH Type is a type foundry founded by Kurppa Hosk. We offer retail and bespoke typefaces along with other typography-related expertise, like wordmark refinements and art direction. Typography has always been intrinsically linked to the core of Kurppa Hosk\u2019s work, and with KH Type we aim to celebrate our typographic heritage by making our independently designed typefaces available to license. Instagram"
+            },
+            "Zalando": {
+                "name": "Zalando",
+                "bio": "Zalando is a publicly traded international online retailer based in Berlin which is active across Europe and specializes in shoes, fashion and beauty products. The company was founded in 2008 by David Schneider and Robert Gentz and has more than 51 million active users in 25 European markets."
             }
         },
         "metadata": {
@@ -50961,6 +50985,66 @@
                 "primary_script": null,
                 "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
                 "minisite_url": null
+            },
+            "Zalando Sans": {
+                "name": "Zalando Sans",
+                "designer": [
+                    "Jakob Ekelund",
+                    "KH Type",
+                    "Zalando"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. To contribute, see github.com/zalando/sans",
+                "minisite_url": null
+            },
+            "Zalando Sans Expanded": {
+                "name": "Zalando Sans Expanded",
+                "designer": [
+                    "Jakob Ekelund",
+                    "KH Type",
+                    "Zalando"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. This is the Expanded version, please find here the complete family Zalando Sans. To contribute, see github.com/zalando/sans",
+                "minisite_url": null
+            },
+            "Zalando Sans SemiExpanded": {
+                "name": "Zalando Sans SemiExpanded",
+                "designer": [
+                    "Jakob Ekelund",
+                    "KH Type",
+                    "Zalando"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. This is the Semi Expanded version, please find here the complete family Zalando Sans. To contribute, see github.com/zalando/sans",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -53254,7 +53338,7 @@
             },
             "Chiron Hei HK": {
                 "name": "Chiron Hei HK",
-                "version": "Version 2.525"
+                "version": "Version 2.530"
             },
             "Chiron Sung HK": {
                 "name": "Chiron Sung HK",
@@ -56046,11 +56130,11 @@
             },
             "Noto Sans Batak": {
                 "name": "Noto Sans Batak",
-                "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.004; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Noto Sans Bengali": {
                 "name": "Noto Sans Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Sans Bhaiksuki": {
                 "name": "Noto Sans Bhaiksuki",
@@ -56662,7 +56746,7 @@
             },
             "Noto Serif Bengali": {
                 "name": "Noto Serif Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Serif Devanagari": {
                 "name": "Noto Serif Devanagari",
@@ -57938,7 +58022,7 @@
             },
             "Reem Kufi": {
                 "name": "Reem Kufi",
-                "version": "Version 1.6"
+                "version": "Version 2.000"
             },
             "Reem Kufi Fun": {
                 "name": "Reem Kufi Fun",
@@ -59475,6 +59559,22 @@
             "Google Sans Code": {
                 "name": "Google Sans Code",
                 "version": "Version 6.000"
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "version": "Version 1.002"
+            },
+            "Epunda Slab": {
+                "name": "Epunda Slab",
+                "version": "Version 1.103"
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
             }
         },
         "designers": {
@@ -60232,7 +60332,7 @@
             },
             "Appaji Ambarisha Darbha": {
                 "name": "Appaji Ambarisha Darbha",
-                "bio": null
+                "bio": "Appaji Ambarisha is a seasoned type designer and digital media professional based in Hyderabad, India. With over three decades of experience in advertising, printing, and publishing, he has pioneered innovative design solutions, particularly in Telugu and Kannada Unicode fonts. His creative journey spans distinguished roles in top advertising firms across Andhra Pradesh, Telangana, and Karnataka, earning him recognition as a graphic designer of exceptional caliber. appajiambarisha.com | Instagram"
             },
             "Vicente Lam\u00f3naca": {
                 "name": "Vicente Lam\u00f3naca",
@@ -61188,7 +61288,7 @@
             },
             "Google": {
                 "name": "Google",
-                "bio": null
+                "bio": "Our mission is to organize the world\u2019s information and make it universally accessible and useful. In their first letter to shareholders, our founders highlighted Google\u2019s goal to \u201cdevelop services that significantly improve the lives of as many people as possible.\u201d This vision continues to guide all of us at Google. We believe in technology\u2019s power and potential to have a profoundly positive impact across the world. about.google"
             },
             "Ana Paula Megda": {
                 "name": "Ana Paula Megda",
@@ -62077,6 +62177,14 @@
             "Universal Thirst": {
                 "name": "Universal Thirst",
                 "bio": "Universal Thirst is a boutique type foundry specialising in producing fonts for the Indic and Latin scripts. Set up in 2016 by designer and engineer duo Gunnar Vilhj\u00e1lmsson and Kalapi Gajjar and drawing on their contrasting visual heritage, the studio offers a unique, dual perspective on multiscript typography. Clients of note include Apple, The Ford Foundation, Frieze Art Fair, Google, Icelandair, Instagram (Meta), Manchester Museum, among other technology and culture brands."
+            },
+            "Lana Roulhac": {
+                "name": "Lana Roulhac",
+                "bio": null
+            },
+            "Ben Buysse": {
+                "name": "Ben Buysse",
+                "bio": null
             }
         },
         "metadata": {
@@ -68434,7 +68542,7 @@
                 "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
-                    "chinese-hongkong",
+                    "chinese-traditional",
                     "cyrillic",
                     "cyrillic-ext",
                     "greek",
@@ -92090,7 +92198,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/alif-type/reem-kufi",
+                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/aliftype/reem-kufi",
                 "primary_script": "Arab",
                 "article": null,
                 "minisite_url": null
@@ -100112,6 +100220,88 @@
                 "description": null,
                 "primary_script": null,
                 "article": "In Memory of Chris Simpkins Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project. Introducing Google Sans Code Google Sans Code is a fixed-width, geometric sans-serif typeface developed to complement Google's corporate branding fonts. Derived from our other brand fonts, this typeface has been crafted specifically for writing and reading code, and enhanced for clarity at text dimensions typically used in programming interfaces. History and design details The architecture of Google Sans Code merges geometric precision with calligraphic expression within the constraints of a fixed-width canvas. The Roman variant builds on a clean, structured sans-serif foundation, ensuring optimal readability in code and data-intensive environments. In contrast, the Italic variant draws inspiration from early Italian italics, providing a distinctive and expressive complementary style. This thoughtful pairing delivers a unique combination of technical precision, historical elegance, and personable quirkiness. Readability & legibility at small sizes The fundamental structure of shapes in the Roman design maximizes counter space in letterforms by employing gradual curve radii and straight vertical stem segments in predominantly circular letters, enhancing clarity at target sizes. Characters with idiosyncratic features like 'a', 'g', and 'Q' incorporate elements from traditional text typefaces to improve recognition in situations where conventional sans serif forms might be confused with similar characters. Symbols frequently used as lexical elements in programming languages have been refined for immediate recognition and to maintain an equal visual balance with alphanumerical components within the syntactical hierarchy at intended sizes. Expressive italics The italic style, commonly employed for code comments in syntax highlighting schemes, features a more dynamic and contrasting appearance compared to the Roman. This approach parallels Latin handwritten manuscripts where authors' annotations appeared in an italic hand, distinguishing them from the primary text set in Roman style, establishing a visual hierarchy throughout the document. The letterforms draw inspiration from Ludovico Vicentino degli Arrighi's pioneering italic typefaces. Auxiliary characters and language support The character set encompasses support for contemporary programming languages with extensions into box-drawing characters and geometric symbols. Google Sans Code also accommodates a comprehensive range of human languages that utilize the Latin writing system.",
+                "minisite_url": null
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "designer": [
+                    "Tamcy"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "Chiron GoRound TC is a rounded Traditional Chinese sans typeface based on Chiron Hei HK and Adobe's Source Han Sans (a.k.a. Google's Noto Sans CJK). The font aims at providing a modern, region-agnostic glyph set adopting the \"modern\" glyph style that is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese regions. In Chiron GoRound TC, glyph shapes in Source Han Sans Traditional Chinese (Hong Kong) are reviewed and adjusted for the better display effect on screen and in print. The font takes references from the glyph shapes of typefaces commonly seen in daily life to provide a set of regional agnostic, modern-style glyphs that balance standard glyph shapes and the usual stroke forms of printed typefaces. The glyph set is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese communities. To contribute, see github.com/chiron-fonts/chiron-go-round-tc.",
+                "minisite_url": null
+            },
+            "Epunda Slab": {
+                "name": "Epunda Slab",
+                "designer": [
+                    "Typofactur"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Epunda Slab is the perfect companion of Epunda Sans. The sturdy, angled serifs give the font a robust and traditional look. Epundas Sans is a variable font with a weight axis that ranges from Light (300) to Black (900).",
+                "minisite_url": null
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "designer": [
+                    "Appaji Ambarisha Darbha"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "telugu"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": "Telu",
+                "article": "Sirivennela is a script-style Telugu Unicode font. It is mainly intended for headings and subheadings, but can also be used for text at large point sizes. This font was developed and named after the late Sirivennela Seetharama Shastry, a renowned lyricist in the Telugu film industry. To contribute, please see github.com/appajid/Sirivennela.",
+                "minisite_url": null
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "designer": [
+                    "Lana Roulhac",
+                    "Ben Buysse"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Story Script is a beautiful font that accurately mimics real handwriting. It is ideally suited for advertising and packaging, posters and books. To contribute, see github.com/lroulh/story-script.",
                 "minisite_url": null
             }
         },
