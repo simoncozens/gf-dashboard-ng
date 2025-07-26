@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-25",
+    "last_checked": "2025-07-26",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -7969,6 +7969,22 @@
             "Zalando Sans SemiExpanded": {
                 "name": "Zalando Sans SemiExpanded",
                 "version": "Version 1.700"
+            },
+            "Asimovian": {
+                "name": "Asimovian",
+                "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "TASA Explorer": {
+                "name": "TASA Explorer",
+                "version": "Version 2.011"
+            },
+            "TASA Orbiter": {
+                "name": "TASA Orbiter",
+                "version": "Version 2.011"
+            },
+            "Tirra": {
+                "name": "Tirra",
+                "version": "Version 4.100"
             }
         },
         "designers": {
@@ -10615,6 +10631,14 @@
             "Zalando": {
                 "name": "Zalando",
                 "bio": "Zalando is a publicly traded international online retailer based in Berlin which is active across Europe and specializes in shoes, fashion and beauty products. The company was founded in 2008 by David Schneider and Robert Gentz and has more than 51 million active users in 25 European markets."
+            },
+            "Local Remote": {
+                "name": "Local Remote",
+                "bio": "Local Remote was founded upon, and continues to be defined by, a commitment to unite brands with its people. We mix creativity with strategy, activating a chain reaction that ties together digital and spatial experiences. Through joint efforts with our clients and the backing of our cross-disciplinary team, we've cultivated an exceptionally wide array of capabilities within a boutique framework. This versatility empowers us to ideate and bring to life projects across various touch points\u2014be it physical, digital, or environmental\u2014viewing each as a valuable avenue for creativity to spark. We\u2019re a diverse group\u2014rooted locally, routed to a global stage. localremote.co/ | Instagram"
+            },
+            "Weizhong Zhang": {
+                "name": "Weizhong Zhang",
+                "bio": "Weizhong is a freelance type and graphic designer based in Taipei, Taiwan. His practice centers on bilingual typography, exploring the relationship between Latin and Hanzi scripts. He works with studios and clients to create custom typefaces, logotypes, and lettering projects. Instagram"
             }
         },
         "metadata": {
@@ -51044,6 +51068,86 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. This is the Semi Expanded version, please find here the complete family Zalando Sans. To contribute, see github.com/zalando/sans",
+                "minisite_url": null
+            },
+            "Asimovian": {
+                "name": "Asimovian",
+                "designer": [
+                    "Carolina Short"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Asimovian is a font inspired by the sleek geometry of a logotype, where letters seamlessly connect through square or circular features. Initially conceived as an uppercase typeface, it later expanded to include a set of lowercase characters, completing its alphabet. To contribute, see github.com/carolinashort/asimovian Asimovian harmoniously blends sharp edges with rounded shapes, reminiscent of Art Deco typefaces infused with a futuristic essence, echoing the narrative allure of Isaac Asimov's Foundation series. With a uniform weight and select glyphs crafted with idiosyncratic structures, Asimovian exudes character and distinctiveness, making it an ideal choice as a display font for specialized applications.",
+                "minisite_url": null
+            },
+            "TASA Explorer": {
+                "name": "TASA Explorer",
+                "designer": [
+                    "Local Remote",
+                    "Weizhong Zhang"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "TASA Explorer is part of the TASA Typeface Collection\u2014two typefaces originally commissioned by the Taiwan Space Agency (TASA) as part of its institutional rebranding, and released under the SIL Open Font License. It is accompanied by its sibling typeface, TASA Orbiter. TASA Explorer is a geometric sans-serif designed to embody the adventurous spirit of space exploration. Its vertically cut terminals and sharp-angled corners lend a bold, assertive presence that commands attention. Subtle contrast between thick and thin strokes introduces visual rhythm, preventing the geometric structure from feeling static or rigid. The original TASA typefaces (v1) were designed by Local Remote between 2022 and 2023. TASA Explorer (v1) featured five weights and was designed exclusively for display use. With an extremely large x-height and minimal optical corrections, it was optimized for high-impact performance at large sizes. In 2025, both typefaces were updated by Weizhong Zhang. The focus of the update was to preserve their core design characteristics while improving drawing precision and readability. TASA Explorer (v2) introduces a slightly reduced x-height, smoother letterforms, and more relaxed spacing, resulting in a more even texture across text blocks. It is now suitable for both display and text applications. The fonts now support the Google Fonts Core Latin character set, along with additional glyphs for Taiwanese Romanizations (T\u00e2i-l\u00f4 and POJ). To contribute, see github.com/localremotetw/TASA-Typeface-Collection.",
+                "minisite_url": null
+            },
+            "TASA Orbiter": {
+                "name": "TASA Orbiter",
+                "designer": [
+                    "Local Remote",
+                    "Weizhong Zhang"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "TASA Orbiter is part of the TASA Typeface Collection\u2014two typefaces originally commissioned by the Taiwan Space Agency (TASA) as part of its institutional rebrand, and released under the SIL Open Font License. It is accompanied by its sibling typeface, TASA Explorer. TASA Orbiter is a neo-grotesque sans-serif that reflects the technical precision of space operations. Built from a systematic vocabulary of recurring forms, it features slightly squared counters and right-angled turns, reinforcing its mechanical tone. The original TASA typefaces (v1) were designed by Local Remote between 2022 and 2023. TASA Orbiter (v1) was released in 13 styles across three optical sizes: Text and Deck each had four weights, while Display included five weights. In 2025, both typefaces were updated by Weizhong Zhang with a focus on preserving their core design characteristics while enhancing drawing precision and readability. TASA Orbiter (v2) consolidated its optical size variants, reducing the total styles from 13 to five weights\u2014streamlining the family in line with TASA Explorer. The new design is based on the former \u201cDeck\u201d optical size, with refined forms and spacing optimized for flexible use. The fonts now support the Google Fonts Core Latin character set, along with additional glyphs for Taiwanese Romanizations (T\u00e2i-l\u00f4 and POJ). To contribute, see github.com/localremotetw/TASA-Typeface-Collection.",
+                "minisite_url": null
+            },
+            "Tirra": {
+                "name": "Tirra",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "tifinagh"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": "Tfng",
+                "article": "Tirra is a Unicode font family for rendering characters in languages using the Neo-Tifinagh alphabet. This font is designed to reflect a handwriting style. It is a subset of the Akatab font family specifically for languages using Neo-Tifinagh, and has the same six weights: Regular, Medium, SemiBold, Bold, ExtraBold, and Black. To contribute, see github.com/silnrsi/font-akatab.",
                 "minisite_url": null
             }
         },
@@ -108753,6 +108857,10 @@
             "Google Sans Code": {
                 "name": "Google Sans Code",
                 "version": "Version 6.000"
+            },
+            "TikTok Sans": {
+                "name": "TikTok Sans",
+                "version": "Version 4.000"
             }
         },
         "designers": {
@@ -111331,6 +111439,18 @@
             "Universal Thirst": {
                 "name": "Universal Thirst",
                 "bio": null
+            },
+            "Contrast Foundry": {
+                "name": "Contrast Foundry",
+                "bio": "Established in 2014, Contrast Foundry is an international team of designers based in the San Francisco Bay Area. The foundry is known for its sophisticated multilingual typefaces, including CoFo Sans, Chimera, and Cinema1909. Their work is used by clients such as BBDO, Nike, Coca-Cola, Collins, and the Strelka Institute. In addition to creating custom typefaces and wordmarks, Contrast Foundry partners with in-house teams, leads workshops, and develops designs that transition seamlessly across platforms. Committed to education and community engagement, the team supports the next generation of designers through its Type Design Workshop and global lecture initiatives. contrastfoundry.com"
+            },
+            "Grilli Type": {
+                "name": "Grilli Type",
+                "bio": "Grilli Type is an independent Swiss type foundry based in Lucerne and New York City. They offer original retail and custom typefaces\u2014high quality products with a contemporary aesthetic in the Swiss tradition. grillitype.com"
+            },
+            "Type Network": {
+                "name": "Type Network",
+                "bio": "The world\u2019s best fonts. The world\u2019s best designers. Type Network represents more than 100 of the world\u2019s top foundries, with more joining every week. They make font licensing for businesses and organizations easier than ever. Their clients include AccuWeather, Adidas, Disney, MTV, Ford, HP, Microsoft, Ubuntu, The New York Times, Paramount, and The Washington Post. typenetwork.com/"
             }
         },
         "metadata": {
@@ -149113,6 +149233,30 @@
                 "primary_script": null,
                 "article": "In Memory of Chris Simpkins Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project. Introducing Google Sans Code Google Sans Code is a fixed-width, geometric sans-serif typeface developed to complement Google's corporate branding fonts. Derived from our other brand fonts, this typeface has been crafted specifically for writing and reading code, and enhanced for clarity at text dimensions typically used in programming interfaces. History and design details The architecture of Google Sans Code merges geometric precision with calligraphic expression within the constraints of a fixed-width canvas. The Roman variant builds on a clean, structured sans-serif foundation, ensuring optimal readability in code and data-intensive environments. In contrast, the Italic variant draws inspiration from early Italian italics, providing a distinctive and expressive complementary style. This thoughtful pairing delivers a unique combination of technical precision, historical elegance, and personable quirkiness. Readability & legibility at small sizes The fundamental structure of shapes in the Roman design maximizes counter space in letterforms by employing gradual curve radii and straight vertical stem segments in predominantly circular letters, enhancing clarity at target sizes. Characters with idiosyncratic features like 'a', 'g', and 'Q' incorporate elements from traditional text typefaces to improve recognition in situations where conventional sans serif forms might be confused with similar characters. Symbols frequently used as lexical elements in programming languages have been refined for immediate recognition and to maintain an equal visual balance with alphanumerical components within the syntactical hierarchy at intended sizes. Expressive italics The italic style, commonly employed for code comments in syntax highlighting schemes, features a more dynamic and contrasting appearance compared to the Roman. This approach parallels Latin handwritten manuscripts where authors' annotations appeared in an italic hand, distinguishing them from the primary text set in Roman style, establishing a visual hierarchy throughout the document. The letterforms draw inspiration from Ludovico Vicentino degli Arrighi's pioneering italic typefaces. Auxiliary characters and language support The character set encompasses support for contemporary programming languages with extensions into box-drawing characters and geometric symbols. Google Sans Code also accommodates a comprehensive range of human languages that utilize the Latin writing system.",
                 "minisite_url": null
+            },
+            "TikTok Sans": {
+                "name": "TikTok Sans",
+                "designer": [
+                    "Contrast Foundry",
+                    "Grilli Type",
+                    "Type Network"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "With its playful, fresh, and dynamic design, TikTok Sans is perfect for making your video captions stand out. You may recognize this font as the default font used in millions of TikTok videos. Bring your creations to life and amplify your voice with TikTok Sans. Supports over 460+ languages for Latin, Greek, and Cyrillic Includes variable font with Weight, Width, Slant, and Optical Size axes Offers tabular numerals, disambiguation stylistic set, character variants, and more Optimized for high-DPI mobile UI typesetting Features manual TrueType hinting To contribute, see https://github.com/tiktok/TikTokSans",
+                "minisite_url": "https://tiktok.com/font"
             }
         },
         "axisregistry": {
