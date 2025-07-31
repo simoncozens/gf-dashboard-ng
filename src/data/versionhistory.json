@@ -39307,6 +39307,10 @@
       {
         "version": "Version 1.010; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-04-10T03:30:02.028114"
+      },
+      {
+        "version": "Version 1.011",
+        "date": "2025-07-31T01:54:28.711245"
       }
     ]
   },
@@ -40103,6 +40107,12 @@
         "version": "Version 1.001",
         "date": "2025-07-08T01:53:35.689802"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-07-31T01:54:29.135042"
+      }
     ]
   },
   "Libertinus Sans": {
@@ -40116,6 +40126,12 @@
       {
         "version": "Version 7.051;RELEASE",
         "date": "2025-07-08T01:53:35.374878"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-07-31T01:54:29.128172"
       }
     ]
   },
@@ -40131,6 +40147,12 @@
         "version": "Version 7.051;RELEASE",
         "date": "2025-07-08T01:53:35.849211"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-07-31T01:54:28.852310"
+      }
     ]
   },
   "Mozilla Headline": {
@@ -40145,6 +40167,12 @@
         "version": "Version 1.000",
         "date": "2025-07-08T01:53:35.781509"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-07-31T01:54:29.068101"
+      }
     ]
   },
   "Mozilla Text": {
@@ -40158,6 +40186,12 @@
       {
         "version": "Version 1.000",
         "date": "2025-07-08T01:53:35.800072"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-07-31T01:54:28.538284"
       }
     ]
   },

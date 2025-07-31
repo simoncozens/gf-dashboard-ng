@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-07-30",
+    "last_checked": "2025-07-31",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -52183,6 +52183,30 @@
                 ],
                 "fallback_only": false,
                 "description": "Adjust the style from lighter to bolder in typographic color, by varying stroke thicknesses or other forms. This typically changes overall width, and so may be used in conjunction with axes for Width and Grade (if present)."
+            },
+            "CTRS": {
+                "tag": "CTRS",
+                "display_name": "Contrast",
+                "min_value": -100.0,
+                "default_value": 0.0,
+                "max_value": 100.0,
+                "precision": 1,
+                "fallback": [
+                    {
+                        "name": "Reversed",
+                        "value": -100.0
+                    },
+                    {
+                        "name": "None",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "High",
+                        "value": 100.0
+                    }
+                ],
+                "fallback_only": false,
+                "description": "Contrast describes the stroke width difference between the thick and thin parts of the font glyphs. A value of zero indicates no visible/apparent contrast. A positive number indicates an increase in contrast relative to the zero-contrast thickness, achieved by making the thin stroke thinner. A value of 100 indicates that the thin stroke has disappeared completely. A negative value indicates \u201creverse contrast\u201d: the strokes which would conventionally be thick in the writing system are instead made thinner. In western-language fonts this might be perceived as a 19th-century, \u201ccircus\u201d or \u201cold West\u201d effect. A value of -100 indicates that the strokes which would normally be thick have disappeared completely."
             }
         }
     },
@@ -107984,7 +108008,7 @@
             },
             "Special Gothic": {
                 "name": "Special Gothic",
-                "version": "Version 1.010; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.011"
             },
             "Special Gothic Condensed One": {
                 "name": "Special Gothic Condensed One",
@@ -108861,6 +108885,26 @@
             "TikTok Sans": {
                 "name": "TikTok Sans",
                 "version": "Version 4.000"
+            },
+            "Libertinus Sans": {
+                "name": "Libertinus Sans",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Libertinus Serif": {
+                "name": "Libertinus Serif",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Mozilla Headline": {
+                "name": "Mozilla Headline",
+                "version": "Version 1.000"
+            },
+            "Mozilla Text": {
+                "name": "Mozilla Text",
+                "version": "Version 1.000"
+            },
+            "Nata Sans": {
+                "name": "Nata Sans",
+                "version": "Version 1.001"
             }
         },
         "designers": {
@@ -111451,6 +111495,14 @@
             "Type Network": {
                 "name": "Type Network",
                 "bio": "The world\u2019s best fonts. The world\u2019s best designers. Type Network represents more than 100 of the world\u2019s top foundries, with more joining every week. They make font licensing for businesses and organizations easier than ever. Their clients include AccuWeather, Adidas, Disney, MTV, Ford, HP, Microsoft, Ubuntu, The New York Times, Paramount, and The Washington Post. typenetwork.com/"
+            },
+            "Studio DRAMA": {
+                "name": "Studio DRAMA",
+                "bio": null
+            },
+            "Daniel Uzquiano": {
+                "name": "Daniel Uzquiano",
+                "bio": null
             }
         },
         "metadata": {
@@ -149257,6 +149309,110 @@
                 "primary_script": null,
                 "article": "With its playful, fresh, and dynamic design, TikTok Sans is perfect for making your video captions stand out. You may recognize this font as the default font used in millions of TikTok videos. Bring your creations to life and amplify your voice with TikTok Sans. Supports over 460+ languages for Latin, Greek, and Cyrillic Includes variable font with Weight, Width, Slant, and Optical Size axes Offers tabular numerals, disambiguation stylistic set, character variants, and more Optimized for high-DPI mobile UI typesetting Features manual TrueType hinting To contribute, see https://github.com/tiktok/TikTokSans",
                 "minisite_url": "https://tiktok.com/font"
+            },
+            "Libertinus Sans": {
+                "name": "Libertinus Sans",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Libertinus Serif": {
+                "name": "Libertinus Serif",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "hebrew",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Mozilla Headline": {
+                "name": "Mozilla Headline",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Mozilla Headline and Mozilla Text are our custom typefaces for the Mozilla brand. This typeface font family features a unique uniwidth design. It maintains standardized spacing and kerning across all weights and styles, eliminating risk of text reflow to preserve the integrity of the layout and enhance the user\u2019s experience. Read more about Mozilla\u2019s rebrand here. To contribute, see github.com/mozilla/mozilla-headline-type.",
+                "minisite_url": null
+            },
+            "Mozilla Text": {
+                "name": "Mozilla Text",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Mozilla Headline and Mozilla Text are the custom typefaces for the Mozilla brand. This typeface font family features a unique uniwidth design. It maintains standardized spacing and kerning across all weights and styles, eliminating risk of text reflow to preserve the integrity of the layout and enhance the user\u2019s experience. Read more about Mozilla\u2019s rebrand here. To contribute, see github.com/mozilla/mozilla-text-type.",
+                "minisite_url": null
+            },
+            "Nata Sans": {
+                "name": "Nata Sans",
+                "designer": [
+                    "Daniel Uzquiano"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Nata Sans is a grotesque sans-serif typeface with a subtle humanist tone, designed by Daniel Uzquiano Cruz. It was developed with user interfaces in mind, featuring a generous x-height, wide glyphs, and short ascenders and descenders that promote a relaxed and readable rhythm. Nata Sans presents a restrained yet distinct personality, making it a viable alternative to Helvetica in both digital and print contexts. The typeface includes nine predefined weights from Thin to Black, and is available as a variable font with a weight axis ranging from 100 to 900. All weights interpolate smoothly thanks to three master drawings and cover 1022 glyphs. Nata Sans supports 219 Latin-based languages spoken across 212 countries. It meets 100% of the Google Fonts Latin Plus character set, making it fully equipped for a wide range of global applications. It also supports Latin, including Vietnamese, and Cyrillic scripts, and implements 18 OpenType features, including stylistic alternates, localized forms, case-sensitive punctuation, tabular and old-style figures, fractions, superscripts, subscripts, and more. Features such as calt, ss01, locl, and kern enhance typographic flexibility across platforms. The font is released under the SIL Open Font License and is actively maintained on GitHub",
+                "minisite_url": "https://dnlzqn.xyz/nata/"
             }
         },
         "axisregistry": {
