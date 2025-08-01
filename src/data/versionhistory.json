@@ -38948,6 +38948,12 @@
         "version": "Version 1.001",
         "date": "2025-07-15T01:54:00.168760"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-08-01T01:54:48.585047"
+      }
     ]
   },
   "Bitcount Prop Single Ink": {
@@ -38959,6 +38965,12 @@
       {
         "version": "Version 1.001",
         "date": "2025-07-15T01:54:00.271878"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-08-01T01:54:48.692408"
       }
     ]
   },
