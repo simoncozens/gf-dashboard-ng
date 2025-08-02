@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-08-01",
+    "last_checked": "2025-08-02",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -7985,6 +7985,10 @@
             "Tirra": {
                 "name": "Tirra",
                 "version": "Version 4.100"
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "version": "Version 1.611"
             }
         },
         "designers": {
@@ -10639,6 +10643,14 @@
             "Weizhong Zhang": {
                 "name": "Weizhong Zhang",
                 "bio": "Weizhong is a freelance type and graphic designer based in Taipei, Taiwan. His practice centers on bilingual typography, exploring the relationship between Latin and Hanzi scripts. He works with studios and clients to create custom typefaces, logotypes, and lettering projects. Instagram"
+            },
+            "Bloom Type Foundry": {
+                "name": "Bloom Type Foundry",
+                "bio": null
+            },
+            "Baptiste Guesnon": {
+                "name": "Baptiste Guesnon",
+                "bio": null
             }
         },
         "metadata": {
@@ -51148,6 +51160,25 @@
                 "description": null,
                 "primary_script": "Tfng",
                 "article": "Tirra is a Unicode font family for rendering characters in languages using the Neo-Tifinagh alphabet. This font is designed to reflect a handwriting style. It is a subset of the Akatab font family specifically for languages using Neo-Tifinagh, and has the same six weights: Regular, Medium, SemiBold, Bold, ExtraBold, and Black. To contribute, see github.com/silnrsi/font-akatab.",
+                "minisite_url": null
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "designer": [
+                    "Bloom Type Foundry",
+                    "Baptiste Guesnon"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Vend Sans is a sans-serif commissioned by Vend To contribute, see github.com/ktkm/Vend-Sans.",
                 "minisite_url": null
             }
         },
