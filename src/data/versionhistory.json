@@ -7836,6 +7836,10 @@
       {
         "version": "Version 1.000",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 1.002",
+        "date": "2025-08-07T01:54:34.068950"
       }
     ],
     "production": [
@@ -21122,6 +21126,10 @@
       {
         "version": "0.117-H1",
         "date": "2023-10-11T12:49:53.599906"
+      },
+      {
+        "version": "Version 1.003",
+        "date": "2025-08-07T01:54:34.216378"
       }
     ],
     "production": [
@@ -37280,6 +37288,10 @@
       {
         "version": "Version 2.169; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-08-28T19:16:15.859495"
+      },
+      {
+        "version": "Version 2.170; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-07T01:54:34.511416"
       }
     ],
     "production": [
@@ -39459,6 +39471,10 @@
       {
         "version": "Version 2.204",
         "date": "2025-05-29T02:45:19.686103"
+      },
+      {
+        "version": "Version 2.205",
+        "date": "2025-08-07T01:54:34.429279"
       }
     ]
   },
@@ -40295,6 +40311,12 @@
         "version": "Version 7.051;RELEASE",
         "date": "2025-07-18T01:53:59.369282"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-08-07T01:54:34.120702"
+      }
     ]
   },
   "Libertinus Serif Display": {
@@ -40302,6 +40324,12 @@
       {
         "version": "Version 7.051;RELEASE",
         "date": "2025-07-18T01:53:59.578198"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-08-07T01:54:34.330020"
       }
     ]
   },
@@ -40311,6 +40339,12 @@
         "version": "Version 1.700",
         "date": "2025-07-24T01:53:55.485047"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-08-07T01:54:33.972824"
+      }
     ]
   },
   "Zalando Sans Expanded": {
@@ -40318,6 +40352,12 @@
       {
         "version": "Version 1.700",
         "date": "2025-07-24T01:53:55.873639"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-08-07T01:54:34.363061"
       }
     ]
   },
@@ -40327,6 +40367,12 @@
         "version": "Version 1.700",
         "date": "2025-07-24T01:53:56.013258"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-08-07T01:54:34.502891"
+      }
     ]
   },
   "TASA Orbiter": {
@@ -40334,6 +40380,12 @@
       {
         "version": "Version 2.011",
         "date": "2025-07-26T01:54:10.463349"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 2.011",
+        "date": "2025-08-07T01:54:33.949821"
       }
     ]
   },
@@ -40343,6 +40395,12 @@
         "version": "Version 4.100",
         "date": "2025-07-26T01:54:10.775600"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 4.100",
+        "date": "2025-08-07T01:54:34.246237"
+      }
     ]
   },
   "TASA Explorer": {
@@ -40350,6 +40408,12 @@
       {
         "version": "Version 2.011",
         "date": "2025-07-26T01:54:11.157926"
+      }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 2.011",
+        "date": "2025-08-07T01:54:34.620738"
       }
     ]
   },
@@ -40359,6 +40423,12 @@
         "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-07-26T01:54:11.255892"
       }
+    ],
+    "sandbox": [
+      {
+        "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-07T01:54:34.716804"
+      }
     ]
   },
   "Vend Sans": {
@@ -40366,6 +40436,22 @@
       {
         "version": "Version 1.611",
         "date": "2025-08-02T01:53:48.428539"
+      }
+    ]
+  },
+  "Cossette Titre": {
+    "dev": [
+      {
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-07T01:54:33.942377"
+      }
+    ]
+  },
+  "Cossette Texte": {
+    "dev": [
+      {
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-07T01:54:34.081083"
       }
     ]
   }
