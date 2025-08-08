@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-08-07",
+    "last_checked": "2025-08-08",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -59826,6 +59826,18 @@
             "Zalando Sans SemiExpanded": {
                 "name": "Zalando Sans SemiExpanded",
                 "version": "Version 1.700"
+            },
+            "Cossette Texte": {
+                "name": "Cossette Texte",
+                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Cossette Titre": {
+                "name": "Cossette Titre",
+                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "version": "Version 1.611"
             }
         },
         "designers": {
@@ -62456,6 +62468,18 @@
             "Zalando": {
                 "name": "Zalando",
                 "bio": "Zalando is a publicly traded international online retailer based in Berlin which is active across Europe and specializes in shoes, fashion and beauty products. The company was founded in 2008 by David Schneider and Robert Gentz and has more than 51 million active users in 25 European markets."
+            },
+            "Cossette": {
+                "name": "Cossette",
+                "bio": null
+            },
+            "Bloom Type Foundry": {
+                "name": "Bloom Type Foundry",
+                "bio": null
+            },
+            "Baptiste Guesnon": {
+                "name": "Baptiste Guesnon",
+                "bio": null
             }
         },
         "metadata": {
@@ -100799,6 +100823,61 @@
                 "primary_script": null,
                 "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. This is the Semi Expanded version, please find here the complete family Zalando Sans. To contribute, see github.com/zalando/sans",
                 "minisite_url": null
+            },
+            "Cossette Texte": {
+                "name": "Cossette Texte",
+                "designer": [
+                    "Cossette"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "minisite_url": null
+            },
+            "Cossette Titre": {
+                "name": "Cossette Titre",
+                "designer": [
+                    "Cossette"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "minisite_url": null
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "designer": [
+                    "Bloom Type Foundry",
+                    "Baptiste Guesnon"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Vend Sans is a sans-serif commissioned by Vend To contribute, see github.com/ktkm/Vend-Sans.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -101817,6 +101896,30 @@
                 ],
                 "fallback_only": false,
                 "description": "Adjust the style from lighter to bolder in typographic color, by varying stroke weights, spacing and kerning, and other aspects of the type. This typically changes overall width, and so may be used in conjunction with Width and Grade axes."
+            },
+            "CTRS": {
+                "tag": "CTRS",
+                "display_name": "Contrast",
+                "min_value": -100.0,
+                "default_value": 0.0,
+                "max_value": 100.0,
+                "precision": 1,
+                "fallback": [
+                    {
+                        "name": "Reversed",
+                        "value": -100.0
+                    },
+                    {
+                        "name": "None",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "High",
+                        "value": 100.0
+                    }
+                ],
+                "fallback_only": false,
+                "description": "Contrast describes the stroke width difference between the thick and thin parts of the font glyphs. A value of zero indicates no visible/apparent contrast. A positive number indicates an increase in contrast relative to the zero-contrast thickness, achieved by making the thin stroke thinner. A value of 100 indicates that the thin stroke has disappeared completely. A negative value indicates \u201creverse contrast\u201d: the strokes which would conventionally be thick in the writing system are instead made thinner. In western-language fonts this might be perceived as a 19th-century, \u201ccircus\u201d or \u201cold West\u201d effect. A value of -100 indicates that the strokes which would normally be thick have disappeared completely."
             }
         }
     },
