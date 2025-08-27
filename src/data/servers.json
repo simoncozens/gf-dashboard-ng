@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-08-26",
+    "last_checked": "2025-08-27",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -102179,11 +102179,11 @@
             },
             "Amiri": {
                 "name": "Amiri",
-                "version": "Version 1.000"
+                "version": "Version 1.002"
             },
             "Amiri Quran": {
                 "name": "Amiri Quran",
-                "version": "0.117-H1"
+                "version": "Version 1.003"
             },
             "Amita": {
                 "name": "Amita",
@@ -105399,7 +105399,7 @@
             },
             "Matangi": {
                 "name": "Matangi",
-                "version": "Version 3.002"
+                "version": "Version 3.004"
             },
             "Mate": {
                 "name": "Mate",
@@ -105907,11 +105907,11 @@
             },
             "Noto Sans Batak": {
                 "name": "Noto Sans Batak",
-                "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.004; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Noto Sans Bengali": {
                 "name": "Noto Sans Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Sans Bhaiksuki": {
                 "name": "Noto Sans Bhaiksuki",
@@ -106519,7 +106519,7 @@
             },
             "Noto Serif Bengali": {
                 "name": "Noto Serif Bengali",
-                "version": "Version 2.003"
+                "version": "Version 3.000"
             },
             "Noto Serif Devanagari": {
                 "name": "Noto Serif Devanagari",
@@ -106643,7 +106643,7 @@
             },
             "Noto Serif Tangut": {
                 "name": "Noto Serif Tangut",
-                "version": "Version 2.169; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.170; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Noto Serif Telugu": {
                 "name": "Noto Serif Telugu",
@@ -107787,7 +107787,7 @@
             },
             "Reem Kufi": {
                 "name": "Reem Kufi",
-                "version": "Version 1.6"
+                "version": "Version 2.000"
             },
             "Reem Kufi Fun": {
                 "name": "Reem Kufi Fun",
@@ -109295,7 +109295,7 @@
             },
             "Chiron Hei HK": {
                 "name": "Chiron Hei HK",
-                "version": "Version 2.525"
+                "version": "Version 2.530"
             },
             "Libertinus Math": {
                 "name": "Libertinus Math",
@@ -109376,6 +109376,62 @@
             "Nata Sans": {
                 "name": "Nata Sans",
                 "version": "Version 1.001"
+            },
+            "Asimovian": {
+                "name": "Asimovian",
+                "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "version": "Version 1.002"
+            },
+            "Cossette Texte": {
+                "name": "Cossette Texte",
+                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Cossette Titre": {
+                "name": "Cossette Titre",
+                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Epunda Sans": {
+                "name": "Epunda Sans",
+                "version": "Version 2.205"
+            },
+            "Epunda Slab": {
+                "name": "Epunda Slab",
+                "version": "Version 1.103"
+            },
+            "Libertinus Keyboard": {
+                "name": "Libertinus Keyboard",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Libertinus Serif Display": {
+                "name": "Libertinus Serif Display",
+                "version": "Version 7.051;RELEASE"
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "TASA Explorer": {
+                "name": "TASA Explorer",
+                "version": "Version 2.011"
+            },
+            "TASA Orbiter": {
+                "name": "TASA Orbiter",
+                "version": "Version 2.011"
+            },
+            "Tirra": {
+                "name": "Tirra",
+                "version": "Version 4.100"
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "version": "Version 1.611"
             }
         },
         "designers": {
@@ -110129,7 +110185,7 @@
             },
             "Appaji Ambarisha Darbha": {
                 "name": "Appaji Ambarisha Darbha",
-                "bio": null
+                "bio": "Appaji Ambarisha is a seasoned type designer and digital media professional based in Hyderabad, India. With over three decades of experience in advertising, printing, and publishing, he has pioneered innovative design solutions, particularly in Telugu and Kannada Unicode fonts. His creative journey spans distinguished roles in top advertising firms across Andhra Pradesh, Telangana, and Karnataka, earning him recognition as a graphic designer of exceptional caliber. appajiambarisha.com | Instagram"
             },
             "Vicente Lam\u00f3naca": {
                 "name": "Vicente Lam\u00f3naca",
@@ -111065,7 +111121,7 @@
             },
             "Google": {
                 "name": "Google",
-                "bio": null
+                "bio": "Our mission is to organize the world\u2019s information and make it universally accessible and useful. In their first letter to shareholders, our founders highlighted Google\u2019s goal to \u201cdevelop services that significantly improve the lives of as many people as possible.\u201d This vision continues to guide all of us at Google. We believe in technology\u2019s power and potential to have a profoundly positive impact across the world. about.google"
             },
             "Ana Paula Megda": {
                 "name": "Ana Paula Megda",
@@ -111973,6 +112029,34 @@
             },
             "Daniel Uzquiano": {
                 "name": "Daniel Uzquiano",
+                "bio": null
+            },
+            "Cossette": {
+                "name": "Cossette",
+                "bio": null
+            },
+            "Lana Roulhac": {
+                "name": "Lana Roulhac",
+                "bio": null
+            },
+            "Ben Buysse": {
+                "name": "Ben Buysse",
+                "bio": "Ben Buysse is an art director, designer, and artist based in Austin, Texas. His work is focused in the areas of branding, typography, and illustration. benbuysse.com"
+            },
+            "Local Remote": {
+                "name": "Local Remote",
+                "bio": "Local Remote was founded upon, and continues to be defined by, a commitment to unite brands with its people. We mix creativity with strategy, activating a chain reaction that ties together digital and spatial experiences. Through joint efforts with our clients and the backing of our cross-disciplinary team, we've cultivated an exceptionally wide array of capabilities within a boutique framework. This versatility empowers us to ideate and bring to life projects across various touch points\u2014be it physical, digital, or environmental\u2014viewing each as a valuable avenue for creativity to spark. We\u2019re a diverse group\u2014rooted locally, routed to a global stage. localremote.co/ | Instagram"
+            },
+            "Weizhong Zhang": {
+                "name": "Weizhong Zhang",
+                "bio": "Weizhong is a freelance type and graphic designer based in Taipei, Taiwan. His practice centers on bilingual typography, exploring the relationship between Latin and Hanzi scripts. He works with studios and clients to create custom typefaces, logotypes, and lettering projects. Instagram"
+            },
+            "Bloom Type Foundry": {
+                "name": "Bloom Type Foundry",
+                "bio": null
+            },
+            "Baptiste Guesnon": {
+                "name": "Baptiste Guesnon",
                 "bio": null
             }
         },
@@ -113267,7 +113351,7 @@
                 ],
                 "stroke": "SERIF",
                 "classifications": [],
-                "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at www.amirifont.org To contribute, see github.com/aliftype/amiri. Updated in December 2022 to v1.000",
+                "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at aliftype.com/amiri/ To contribute, see github.com/aliftype/amiri.",
                 "primary_script": "Arab",
                 "article": null,
                 "minisite_url": null
@@ -141593,7 +141677,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/alif-type/reem-kufi",
+                "description": "Reem Kufi is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means \u201ca white deer,\u201d and is also the name of Khaled's daughter. To contribute, see github.com/aliftype/reem-kufi",
                 "primary_script": "Arab",
                 "article": null,
                 "minisite_url": null
@@ -149441,7 +149525,7 @@
                 "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
-                    "chinese-hongkong",
+                    "chinese-traditional",
                     "cyrillic",
                     "cyrillic-ext",
                     "greek",
@@ -149884,6 +149968,286 @@
                 "primary_script": null,
                 "article": "Nata Sans is a grotesque sans-serif typeface with a subtle humanist tone, designed by Daniel Uzquiano Cruz. It was developed with user interfaces in mind, featuring a generous x-height, wide glyphs, and short ascenders and descenders that promote a relaxed and readable rhythm. Nata Sans presents a restrained yet distinct personality, making it a viable alternative to Helvetica in both digital and print contexts. The typeface includes nine predefined weights from Thin to Black, and is available as a variable font with a weight axis ranging from 100 to 900. All weights interpolate smoothly thanks to three master drawings and cover 1022 glyphs. Nata Sans supports 219 Latin-based languages spoken across 212 countries. It meets 100% of the Google Fonts Latin Plus character set, making it fully equipped for a wide range of global applications. It also supports Latin, including Vietnamese, and Cyrillic scripts, and implements 18 OpenType features, including stylistic alternates, localized forms, case-sensitive punctuation, tabular and old-style figures, fractions, superscripts, subscripts, and more. Features such as calt, ss01, locl, and kern enhance typographic flexibility across platforms. The font is released under the SIL Open Font License and is actively maintained on GitHub",
                 "minisite_url": "https://dnlzqn.xyz/nata/"
+            },
+            "Asimovian": {
+                "name": "Asimovian",
+                "designer": [
+                    "Carolina Short"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Asimovian is a font inspired by the sleek geometry of a logotype, where letters seamlessly connect through square or circular features. Initially conceived as an uppercase typeface, it later expanded to include a set of lowercase characters, completing its alphabet. To contribute, see github.com/carolinashort/asimovian Asimovian harmoniously blends sharp edges with rounded shapes, reminiscent of Art Deco typefaces infused with a futuristic essence, echoing the narrative allure of Isaac Asimov's Foundation series. With a uniform weight and select glyphs crafted with idiosyncratic structures, Asimovian exudes character and distinctiveness, making it an ideal choice as a display font for specialized applications.",
+                "minisite_url": null
+            },
+            "Chiron GoRound TC": {
+                "name": "Chiron GoRound TC",
+                "designer": [
+                    "Tamcy"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "Chiron GoRound TC is a rounded Traditional Chinese sans typeface based on Chiron Hei HK and Adobe's Source Han Sans (a.k.a. Google's Noto Sans CJK). The font aims at providing a modern, region-agnostic glyph set adopting the \"modern\" glyph style that is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese regions. In Chiron GoRound TC, glyph shapes in Source Han Sans Traditional Chinese (Hong Kong) are reviewed and adjusted for the better display effect on screen and in print. The font takes references from the glyph shapes of typefaces commonly seen in daily life to provide a set of regional agnostic, modern-style glyphs that balance standard glyph shapes and the usual stroke forms of printed typefaces. The glyph set is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese communities. To contribute, see github.com/chiron-fonts/chiron-go-round-tc.",
+                "minisite_url": null
+            },
+            "Cossette Texte": {
+                "name": "Cossette Texte",
+                "designer": [
+                    "Cossette"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "minisite_url": null
+            },
+            "Cossette Titre": {
+                "name": "Cossette Titre",
+                "designer": [
+                    "Cossette"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "minisite_url": null
+            },
+            "Epunda Sans": {
+                "name": "Epunda Sans",
+                "designer": [
+                    "Typofactur"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Epunda Sans is a simple sans serif font. Its characteristic features are its slanted indentations. It is an unadorned but friendly font that remains easy to read even at small font sizes and on screens thanks to its high x-height and large interior spaces. Epunda Sans was originally designed by Simon Atzbach in 2007, based on the completely symmetric Epunda. In 2022 it was redesigned as a variable font. The variable font has a weight axis that ranges from Light (300) to Black (900). To contribute, see github.com/typofactur/epundasans.",
+                "minisite_url": null
+            },
+            "Epunda Slab": {
+                "name": "Epunda Slab",
+                "designer": [
+                    "Typofactur"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Epunda Slab is the perfect companion of Epunda Sans. The sturdy, angled serifs give the font a robust and traditional look. Epundas Sans is a variable font with a weight axis that ranges from Light (300) to Black (900).",
+                "minisite_url": null
+            },
+            "Libertinus Keyboard": {
+                "name": "Libertinus Keyboard",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Linux Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Linux Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Libertinus Serif Display": {
+                "name": "Libertinus Serif Display",
+                "designer": [
+                    "Philipp H. Poll"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Libertinus is a sophisticated and versatile font family that serves as a fork of the well-known Linux Libertine and Linux Biolinum fonts. Designed to provide an improved and more polished alternative, Libertinus refines the typographic details and enhances compatibility with modern typesetting systems. It includes a comprehensive range of styles, from serif to sans-serif and monospaced variations, making it suitable for a wide variety of professional and academic applications. Additionally, it features extensive Unicode coverage, including support for mathematical symbols, Greek, Cyrillic, and other scripts, making it a popular choice for scholarly publishing and technical documentation. One of the key advantages of the Libertinus font family is its emphasis on quality and open-source accessibility. Developed using modern font development tools such as FontForge and maintained by an active community, it benefits from continuous improvements in spacing, kerning, and hinting. Libertinus Serif, the most prominent style, offers a classic yet refined appearance reminiscent of traditional book typefaces, while Libertinus Sans provides a clean, contemporary counterpart. Meanwhile, Libertinus Mono serves as an elegant monospaced option for coding and terminal applications. With its broad character support and careful attention to typographic precision, Libertinus remains a highly regarded choice for users seeking a free and open-source font with professional-grade quality. Find all of the Libertinus sub-families in this overview. To contribute, see github.com/googlefonts/libertinus.",
+                "minisite_url": null
+            },
+            "Sirivennela": {
+                "name": "Sirivennela",
+                "designer": [
+                    "Appaji Ambarisha Darbha"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "telugu"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": "Telu",
+                "article": "Sirivennela is a script-style Telugu Unicode font. It is mainly intended for headings and subheadings, but can also be used for text at large point sizes. This font was developed and named after the late Sirivennela Seetharama Shastry, a renowned lyricist in the Telugu film industry. To contribute, please see github.com/appajid/Sirivennela.",
+                "minisite_url": null
+            },
+            "Story Script": {
+                "name": "Story Script",
+                "designer": [
+                    "Lana Roulhac",
+                    "Ben Buysse"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Story Script is a handwritten typeface designed by Ben Buysse, in collaboration with Lana Roulhac, Senior Creative Director at FullStory, a digital experience intelligence platform. Story Script was designed to capture the lighthearted spirit of our culture, while using clean, intentional lines for improved readability and sophistication over traditional handwritten typefaces. When paired with a sans serif, it creates a relationship that balances humanity and clarity. The result is an honest and approachable typeface that can be used at a variety of sizes while retaining its personality and distinction. It was drawn at an angle that places reverse emphasis on strokes, giving it a non-traditional weight balance, while also upholding the characteristics that make each letterform recognizable. Tension and balance are central themes, combining the imperfection of handwriting and the precision of printed letters. Individuality is met with consistency. Unlike qualities are brought together in a harmony that makes for a unique typographic expression. With over 700 glyphs, the typeface supports 25 Latin languages and includes two sets of stylistic alternates that offer more variation. To contribute, see github.com/lroulh/story-script.",
+                "minisite_url": null
+            },
+            "TASA Explorer": {
+                "name": "TASA Explorer",
+                "designer": [
+                    "Local Remote",
+                    "Weizhong Zhang"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "TASA Explorer is part of the TASA Typeface Collection\u2014two typefaces originally commissioned by the Taiwan Space Agency (TASA) as part of its institutional rebranding, and released under the SIL Open Font License. It is accompanied by its sibling typeface, TASA Orbiter. TASA Explorer is a geometric sans-serif designed to embody the adventurous spirit of space exploration. Its vertically cut terminals and sharp-angled corners lend a bold, assertive presence that commands attention. Subtle contrast between thick and thin strokes introduces visual rhythm, preventing the geometric structure from feeling static or rigid. The original TASA typefaces (v1) were designed by Local Remote between 2022 and 2023. TASA Explorer (v1) featured five weights and was designed exclusively for display use. With an extremely large x-height and minimal optical corrections, it was optimized for high-impact performance at large sizes. In 2025, both typefaces were updated by Weizhong Zhang. The focus of the update was to preserve their core design characteristics while improving drawing precision and readability. TASA Explorer (v2) introduces a slightly reduced x-height, smoother letterforms, and more relaxed spacing, resulting in a more even texture across text blocks. It is now suitable for both display and text applications. The fonts now support the Google Fonts Core Latin character set, along with additional glyphs for Taiwanese Romanizations (T\u00e2i-l\u00f4 and POJ). To contribute, see github.com/localremotetw/TASA-Typeface-Collection.",
+                "minisite_url": null
+            },
+            "TASA Orbiter": {
+                "name": "TASA Orbiter",
+                "designer": [
+                    "Local Remote",
+                    "Weizhong Zhang"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "TASA Orbiter is part of the TASA Typeface Collection\u2014two typefaces originally commissioned by the Taiwan Space Agency (TASA) as part of its institutional rebrand, and released under the SIL Open Font License. It is accompanied by its sibling typeface, TASA Explorer. TASA Orbiter is a neo-grotesque sans-serif that reflects the technical precision of space operations. Built from a systematic vocabulary of recurring forms, it features slightly squared counters and right-angled turns, reinforcing its mechanical tone. The original TASA typefaces (v1) were designed by Local Remote between 2022 and 2023. TASA Orbiter (v1) was released in 13 styles across three optical sizes: Text and Deck each had four weights, while Display included five weights. In 2025, both typefaces were updated by Weizhong Zhang with a focus on preserving their core design characteristics while enhancing drawing precision and readability. TASA Orbiter (v2) consolidated its optical size variants, reducing the total styles from 13 to five weights\u2014streamlining the family in line with TASA Explorer. The new design is based on the former \u201cDeck\u201d optical size, with refined forms and spacing optimized for flexible use. The fonts now support the Google Fonts Core Latin character set, along with additional glyphs for Taiwanese Romanizations (T\u00e2i-l\u00f4 and POJ). To contribute, see github.com/localremotetw/TASA-Typeface-Collection.",
+                "minisite_url": null
+            },
+            "Tirra": {
+                "name": "Tirra",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "tifinagh"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": "Tfng",
+                "article": "Tirra is a Unicode font family for rendering characters in languages using the Neo-Tifinagh alphabet. This font is designed to reflect a handwriting style. It is a subset of the Akatab font family specifically for languages using Neo-Tifinagh, and has the same six weights: Regular, Medium, SemiBold, Bold, ExtraBold, and Black. To contribute, see github.com/silnrsi/font-akatab.",
+                "minisite_url": null
+            },
+            "Vend Sans": {
+                "name": "Vend Sans",
+                "designer": [
+                    "Bloom Type Foundry",
+                    "Baptiste Guesnon"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Vend Sans is a sans-serif commissioned by Vend To contribute, see github.com/ktkm/Vend-Sans.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -150890,6 +151254,30 @@
                 ],
                 "fallback_only": false,
                 "description": "Adjust the style from lighter to bolder in typographic color, by varying stroke weights, spacing and kerning, and other aspects of the type. This typically changes overall width, and so may be used in conjunction with Width and Grade axes."
+            },
+            "CTRS": {
+                "tag": "CTRS",
+                "display_name": "Contrast",
+                "min_value": -100.0,
+                "default_value": 0.0,
+                "max_value": 100.0,
+                "precision": 1,
+                "fallback": [
+                    {
+                        "name": "Reversed",
+                        "value": -100.0
+                    },
+                    {
+                        "name": "None",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "High",
+                        "value": 100.0
+                    }
+                ],
+                "fallback_only": false,
+                "description": "Contrast describes the stroke width difference between the thick and thin parts of the font glyphs. A value of zero indicates no visible/apparent contrast. A positive number indicates an increase in contrast relative to the zero-contrast thickness, achieved by making the thin stroke thinner. A value of 100 indicates that the thin stroke has disappeared completely. A negative value indicates \u201creverse contrast\u201d: the strokes which would conventionally be thick in the writing system are instead made thinner. In western-language fonts this might be perceived as a 19th-century, \u201ccircus\u201d or \u201cold West\u201d effect. A value of -100 indicates that the strokes which would normally be thick have disappeared completely."
             }
         }
     },

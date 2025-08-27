@@ -1936,6 +1936,10 @@
       {
         "version": "Version 1.6",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 2.000",
+        "date": "2025-08-27T01:53:30.531960"
       }
     ]
   },
@@ -7846,6 +7850,10 @@
       {
         "version": "Version 1.000",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 1.002",
+        "date": "2025-08-27T01:53:30.591660"
       }
     ]
   },
@@ -21140,6 +21148,10 @@
       {
         "version": "0.117-H1",
         "date": "2023-10-26T08:52:01.747541"
+      },
+      {
+        "version": "Version 1.003",
+        "date": "2025-08-27T01:53:30.719559"
       }
     ]
   },
@@ -33338,6 +33350,10 @@
       {
         "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-08-28T17:27:03.898203"
+      },
+      {
+        "version": "Version 2.004; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.531532"
       }
     ]
   },
@@ -33550,6 +33566,10 @@
       {
         "version": "Version 2.003",
         "date": "2024-08-28T17:33:56.400749"
+      },
+      {
+        "version": "Version 3.000",
+        "date": "2025-08-27T01:53:30.424507"
       }
     ]
   },
@@ -34694,6 +34714,10 @@
       {
         "version": "Version 2.003",
         "date": "2024-08-28T18:17:50.250576"
+      },
+      {
+        "version": "Version 3.000",
+        "date": "2025-08-27T01:53:30.463120"
       }
     ]
   },
@@ -37302,6 +37326,10 @@
       {
         "version": "Version 2.169; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-08-28T19:16:15.859500"
+      },
+      {
+        "version": "Version 2.170; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.532437"
       }
     ]
   },
@@ -39438,6 +39466,12 @@
         "version": "Version 1.103",
         "date": "2025-07-24T01:53:55.680133"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.103",
+        "date": "2025-08-27T01:53:30.314314"
+      }
     ]
   },
   "Coral Pixels": {
@@ -39479,6 +39513,12 @@
       {
         "version": "Version 2.205",
         "date": "2025-08-07T01:54:34.429279"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 2.205",
+        "date": "2025-08-27T01:53:30.837778"
       }
     ]
   },
@@ -39844,6 +39884,10 @@
       {
         "version": "Version 3.002",
         "date": "2025-06-20T12:43:38.788815"
+      },
+      {
+        "version": "Version 3.004",
+        "date": "2025-08-27T01:53:30.836138"
       }
     ]
   },
@@ -40124,6 +40168,10 @@
       {
         "version": "Version 2.525",
         "date": "2025-06-26T01:54:00.876466"
+      },
+      {
+        "version": "Version 2.530",
+        "date": "2025-08-27T01:53:30.740400"
       }
     ]
   },
@@ -40259,6 +40307,12 @@
         "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-07-24T01:53:55.790110"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.695808"
+      }
     ]
   },
   "TikTok Sans": {
@@ -40293,6 +40347,12 @@
         "version": "Version 1.002",
         "date": "2025-07-24T01:53:55.995133"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.002",
+        "date": "2025-08-27T01:53:30.899207"
+      }
     ]
   },
   "Sirivennela": {
@@ -40306,6 +40366,12 @@
       {
         "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-07-24T01:53:56.080752"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.00; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.749199"
       }
     ]
   },
@@ -40321,6 +40387,12 @@
         "version": "Version 7.051;RELEASE",
         "date": "2025-08-07T01:54:34.120702"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-08-27T01:53:30.595597"
+      }
     ]
   },
   "Libertinus Serif Display": {
@@ -40334,6 +40406,12 @@
       {
         "version": "Version 7.051;RELEASE",
         "date": "2025-08-07T01:54:34.330020"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 7.051;RELEASE",
+        "date": "2025-08-27T01:53:30.344748"
       }
     ]
   },
@@ -40391,6 +40469,12 @@
         "version": "Version 2.011",
         "date": "2025-08-07T01:54:33.949821"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 2.011",
+        "date": "2025-08-27T01:53:30.906906"
+      }
     ]
   },
   "Tirra": {
@@ -40404,6 +40488,12 @@
       {
         "version": "Version 4.100",
         "date": "2025-08-07T01:54:34.246237"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 4.100",
+        "date": "2025-08-27T01:53:30.041386"
       }
     ]
   },
@@ -40419,6 +40509,12 @@
         "version": "Version 2.011",
         "date": "2025-08-07T01:54:34.620738"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 2.011",
+        "date": "2025-08-27T01:53:30.846604"
+      }
     ]
   },
   "Asimovian": {
@@ -40432,6 +40528,12 @@
       {
         "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-08-07T01:54:34.716804"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 3.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.220363"
       }
     ]
   },
@@ -40447,6 +40549,12 @@
         "version": "Version 1.611",
         "date": "2025-08-08T01:54:29.945978"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.611",
+        "date": "2025-08-27T01:53:30.608949"
+      }
     ]
   },
   "Cossette Titre": {
@@ -40461,6 +40569,12 @@
         "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-08-08T01:54:29.192532"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.271387"
+      }
     ]
   },
   "Cossette Texte": {
@@ -40474,6 +40588,12 @@
       {
         "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-08-08T01:54:29.330099"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-08-27T01:53:30.586217"
       }
     ]
   }
