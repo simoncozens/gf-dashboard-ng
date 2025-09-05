@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-09-04",
+    "last_checked": "2025-09-05",
     "dev": {
         "name": "dev",
         "url": "https://fonts-dev.sandbox.google.com/metadata/fonts",
@@ -56269,7 +56269,7 @@
             },
             "Noto Color Emoji": {
                 "name": "Noto Color Emoji",
-                "version": "Version 2.048;GOOG;noto-emoji:20250612:c7a259fc809502bcb45d983f6a78f94dfceb1fbe"
+                "version": "Version 2.051;GOOG;noto-emoji:20250818:e92753bfa55fd449e427d4d325f9c8c40408c74e"
             },
             "Noto Emoji": {
                 "name": "Noto Emoji",
@@ -105383,11 +105383,11 @@
             },
             "Martel": {
                 "name": "Martel",
-                "version": "Version 1.001; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -"
+                "version": "Version 1.001; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -f none -w gGD -W -c"
             },
             "Martel Sans": {
                 "name": "Martel Sans",
-                "version": "Version 1.002; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -"
+                "version": "Version 1.002; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -f none -w gGD -W -c"
             },
             "Martian Mono": {
                 "name": "Martian Mono",
