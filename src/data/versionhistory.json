@@ -4325,6 +4325,10 @@
       {
         "version": "Version 4.300",
         "date": "2024-12-05T03:20:50.511737"
+      },
+      {
+        "version": "Version 4.400",
+        "date": "2025-09-26T01:52:48.833079"
       }
     ]
   },
@@ -4745,6 +4749,10 @@
       {
         "version": "Version 4.300",
         "date": "2024-11-21T03:24:10.179203"
+      },
+      {
+        "version": "Version 4.400",
+        "date": "2025-09-26T01:52:48.406694"
       }
     ]
   },
@@ -21500,6 +21508,10 @@
       {
         "version": "Version 4.300",
         "date": "2024-11-21T01:58:28.787602"
+      },
+      {
+        "version": "Version 4.400",
+        "date": "2025-09-26T01:52:48.732336"
       }
     ]
   },
@@ -32808,6 +32820,10 @@
       {
         "version": "Version 1.000",
         "date": "2024-08-29T03:31:54.725396"
+      },
+      {
+        "version": "Version 2.001",
+        "date": "2025-09-26T01:52:48.571247"
       }
     ],
     "sandbox": [
@@ -39058,6 +39074,12 @@
         "version": "Version 1.002",
         "date": "2025-09-12T01:53:09.223283"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.002",
+        "date": "2025-09-26T01:52:48.741806"
+      }
     ]
   },
   "Bitcount Prop Single Ink": {
@@ -39083,6 +39105,12 @@
       {
         "version": "Version 1.002",
         "date": "2025-09-12T01:53:08.991631"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.002",
+        "date": "2025-09-26T01:52:48.442558"
       }
     ]
   },
@@ -40368,6 +40396,10 @@
       {
         "version": "Version 6.000",
         "date": "2025-07-23T01:54:02.212220"
+      },
+      {
+        "version": "Version 6.001",
+        "date": "2025-09-26T01:52:48.778252"
       }
     ]
   },
@@ -40503,6 +40535,12 @@
         "version": "Version 1.700",
         "date": "2025-08-07T01:54:33.972824"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-09-26T01:52:48.852602"
+      }
     ]
   },
   "Zalando Sans Expanded": {
@@ -40517,6 +40555,12 @@
         "version": "Version 1.700",
         "date": "2025-08-07T01:54:34.363061"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-09-26T01:52:48.980754"
+      }
     ]
   },
   "Zalando Sans SemiExpanded": {
@@ -40530,6 +40574,12 @@
       {
         "version": "Version 1.700",
         "date": "2025-08-07T01:54:34.502891"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.700",
+        "date": "2025-09-26T01:52:48.333798"
       }
     ]
   },
@@ -40685,6 +40735,12 @@
         "version": "Version 1.001",
         "date": "2025-09-11T01:53:36.102902"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-09-26T01:52:48.309141"
+      }
     ]
   },
   "Bitcount Ink": {
@@ -40698,6 +40754,12 @@
       {
         "version": "Version 1.001",
         "date": "2025-09-11T01:53:36.145463"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-09-26T01:52:48.468535"
       }
     ]
   },
@@ -40713,6 +40775,12 @@
         "version": "Version 1.001",
         "date": "2025-09-11T01:53:36.382470"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-09-26T01:52:48.278676"
+      }
     ]
   },
   "Bitcount Prop Double Ink": {
@@ -40726,6 +40794,12 @@
       {
         "version": "Version 1.001",
         "date": "2025-09-11T01:53:36.417063"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001",
+        "date": "2025-09-26T01:52:48.577558"
       }
     ]
   },
@@ -40741,6 +40815,12 @@
         "version": "Version 2.001",
         "date": "2025-09-12T01:53:08.553529"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 2.001",
+        "date": "2025-09-26T01:52:48.929872"
+      }
     ]
   },
   "Alan Sans": {
@@ -40755,6 +40835,15 @@
         "version": "Version 1.000",
         "date": "2025-09-12T01:53:08.971216"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-09-26T01:52:48.475702"
+      }
     ]
-  }
+  },
+  "BBH Sans Bogle": {},
+  "BBH Sans Bartle": {},
+  "BBH Sans Hegarty": {}
 }
