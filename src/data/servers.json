@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-09-26",
+    "last_checked": "2025-10-08",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7540,11 +7540,11 @@
             },
             "Cossette Texte": {
                 "name": "Cossette Texte",
-                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Cossette Titre": {
                 "name": "Cossette Titre",
-                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Vend Sans": {
                 "name": "Vend Sans",
@@ -7573,6 +7573,38 @@
             "SUSE Mono": {
                 "name": "SUSE Mono",
                 "version": "Version 2.001"
+            },
+            "BBH Sans Bartle": {
+                "name": "BBH Sans Bartle",
+                "version": "Version 1.000"
+            },
+            "BBH Sans Bogle": {
+                "name": "BBH Sans Bogle",
+                "version": "Version 1.000"
+            },
+            "BBH Sans Hegarty": {
+                "name": "BBH Sans Hegarty",
+                "version": "Version 1.000"
+            },
+            "Kedebideri": {
+                "name": "Kedebideri",
+                "version": "Version 3.001"
+            },
+            "Momo Signature": {
+                "name": "Momo Signature",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Momo Trust Display": {
+                "name": "Momo Trust Display",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Momo Trust Sans": {
+                "name": "Momo Trust Sans",
+                "version": "Version 1.000"
+            },
+            "Noto Sans Syriac Western": {
+                "name": "Noto Sans Syriac Western",
+                "version": "Version 3.001"
             }
         },
         "designers": {
@@ -10166,7 +10198,7 @@
             },
             "Studio DRAMA": {
                 "name": "Studio DRAMA",
-                "bio": null
+                "bio": "Studio DRAMA believes typography is one of the most powerful yet underappreciated tools in branding. Its mission is to change that. Type-led, brand-first and always crafted with precision. Studio DRAMA combines the crafted storytelling of a branding agency with the technical excellence of a type foundry. The studio plugs into the world\u2019s best creative teams as type directors, collaborating on custom type concepts through to delivery. With brand agency experience, it also supports client service teams in building a compelling case for custom type. Based in London, with a global mindset, Studio DRAMA partners with forward-thinking brand owners across a broad range of sectors. Projects span strategic thinking and clear concepts to custom typefaces and unified design systems, bringing brands to life by shining the spotlight on type. The studio chooses simplicity over complexity, accessibility over elitism, and a positive, collaborative approach. It offers big agency experience with small studio agility, creativity made with genuine passion, and a tight-knit team that never conforms to type. studio-drama.com/"
             },
             "Daniel Uzquiano": {
                 "name": "Daniel Uzquiano",
@@ -10219,6 +10251,26 @@
             "Rapha\u00ebl Ronot": {
                 "name": "Rapha\u00ebl Ronot",
                 "bio": "Paris-based designer Rapha\u00ebl Ronot has spent nearly a decade working across product and brand design, alongside a quieter practice in type design. With Alan Sans, these two worlds converge in his first corporate typeface, done fully in-house for the French startup Alan. raphaelronot.com"
+            },
+            "Type Associates": {
+                "name": "Type Associates",
+                "bio": "Type Associates is the type design studio within M \u2014 N Associates in Ho Chi Minh City, founded by Duy Nguyen and Lan Mai to advance custom typography in Southeast Asia. The studio has become a leader in developing distinctive typefaces since 2014 that define brand identities and cultural projects. Major works include Guta Caf\u00e9, MoMo, Biti\u2019s Hunter, custom type for Dentsu Redder Vietnam, and bespoke letterforms for Quang San Art Museum and B\u00e1t Tr\u00e0ng Museum. Type Associates creates retail and corporate typefaces that elevate Vietnamese design internationally. type.associates, | Instagram: | @type.associates"
+            },
+            "TYPE Associates": {
+                "name": "TYPE Associates",
+                "bio": null
+            },
+            "DuyN": {
+                "name": "DuyN",
+                "bio": null
+            },
+            "Phuc Tran": {
+                "name": "Phuc Tran",
+                "bio": null
+            },
+            "Bao Truong": {
+                "name": "Bao Truong",
+                "bio": null
             }
         },
         "metadata": {
@@ -48577,7 +48629,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": null,
-                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions \u2014 Cossette Titre and this Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/googlefonts/cossette-fonts",
                 "minisite_url": null
             },
             "Cossette Titre": {
@@ -48595,7 +48647,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": null,
-                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions \u2014 this Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/googlefonts/cossette-fonts",
                 "minisite_url": null
             },
             "Vend Sans": {
@@ -48732,6 +48784,157 @@
                 "description": null,
                 "primary_script": null,
                 "article": "SUSE was created to reflect the innovative and open-source spirit of the SUSE company. It provides clarity and legibility, making it ideal for both digital and print media. The hybrid design combines geometric precision with monospaced stability, ensuring a modern and efficient aesthetic. To contribute, see github.com/SUSE/suse-font. SUSE is a sans serif typeface designed by Ren\u00e9 Bieder, embodying a unique hybrid between geometric and monospaced features. It captures the essence of SUSE, a company renowned for its open-source solutions. This versatile typeface family includes the following styles: Thin, ExtraLight, Light, Regular, Medium, SemiBold, Bold, and ExtraBold. It stands out with its distinctive design, perfect for modern, open-source, and tech-focused projects. Its variety of weights allows for flexibility in design, from headlines to body text, ensuring consistency and harmony across different use cases. SUSE supports over 200 Latin-based languages",
+                "minisite_url": null
+            },
+            "BBH Sans Bartle": {
+                "name": "BBH Sans Bartle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "BBH Sans Bogle": {
+                "name": "BBH Sans Bogle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "BBH Sans Hegarty": {
+                "name": "BBH Sans Hegarty",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "Kedebideri": {
+                "name": "Kedebideri",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Berf",
+                "article": "The Beria Erfe script is built around a sampling of the traditional animal brands seen on livestock, rocks of the desert, and in caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa. The script is now encoded in Unicode 17.0. The font name, Kedebideri, means \"Let's write!\" in the Zaghawa Beria language. To contribute, see github.com/silnrsi/font-kedebideri.",
+                "minisite_url": null
+            },
+            "Momo Signature": {
+                "name": "Momo Signature",
+                "designer": [
+                    "Type Associates"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Signature, inspired by handwritten signatures, adds a personal touch that reinforces trust and individuality. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoSignature. Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag.",
+                "minisite_url": null
+            },
+            "Momo Trust Display": {
+                "name": "Momo Trust Display",
+                "designer": [
+                    "Type Associates"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Trust Display draws inspiration from the MoMo logotype, incorporating subtle cues from the rounded, approachable forms that define the brand\u2019s core look. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoTrustSans.",
+                "minisite_url": null
+            },
+            "Momo Trust Sans": {
+                "name": "Momo Trust Sans",
+                "designer": [
+                    "TYPE Associates",
+                    "DuyN",
+                    "Phuc Tran",
+                    "Bao Truong"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Trust Sans draws inspiration from the MoMo logotype, incorporating subtle cues from the rounded, approachable forms that define the brand\u2019s core look. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoTrustSans. Your browser does not support the video tag. Your browser does not support the video tag.",
+                "minisite_url": null
+            },
+            "Noto Sans Syriac Western": {
+                "name": "Noto Sans Syriac Western",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "syriac"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Syrc",
+                "article": "Noto Sans Syriac Western is an unmodulated (\u201csans serif\u201d) Western (Ser\u1e6d\u0101) design for texts in the Middle Eastern Syriac script. Noto Sans Syriac Western contains 296 glyphs, 19 OpenType features, and supports 150 characters from 5 Unicode blocks: Syriac, Arabic, Basic Latin, Combining Diacritical Marks, Latin-1 Supplement. Supported writing systems Syriac Syriac (\u0710\u0720\u0726 \u0712\u071d\u072c \u0723\u0718\u072a\u071d\u071d\u0710) is a Middle Eastern abjad, written right-to-left. Was used in West Asia for Syriac (now only used in the Syrian church), and also Aramaic, Neo-Aramaic, Turoyo/Surayt. Attested in 6 CE. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
                 "minisite_url": null
             }
         },
@@ -57331,6 +57534,18 @@
             "Zalando Sans SemiExpanded": {
                 "name": "Zalando Sans SemiExpanded",
                 "version": "Version 1.700"
+            },
+            "BBH Sans Bartle": {
+                "name": "BBH Sans Bartle",
+                "version": "Version 1.000"
+            },
+            "BBH Sans Bogle": {
+                "name": "BBH Sans Bogle",
+                "version": "Version 1.000"
+            },
+            "BBH Sans Hegarty": {
+                "name": "BBH Sans Hegarty",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -59924,7 +60139,7 @@
             },
             "Studio DRAMA": {
                 "name": "Studio DRAMA",
-                "bio": null
+                "bio": "Studio DRAMA believes typography is one of the most powerful yet underappreciated tools in branding. Its mission is to change that. Type-led, brand-first and always crafted with precision. Studio DRAMA combines the crafted storytelling of a branding agency with the technical excellence of a type foundry. The studio plugs into the world\u2019s best creative teams as type directors, collaborating on custom type concepts through to delivery. With brand agency experience, it also supports client service teams in building a compelling case for custom type. Based in London, with a global mindset, Studio DRAMA partners with forward-thinking brand owners across a broad range of sectors. Projects span strategic thinking and clear concepts to custom typefaces and unified design systems, bringing brands to life by shining the spotlight on type. The studio chooses simplicity over complexity, accessibility over elitism, and a positive, collaborative approach. It offers big agency experience with small studio agility, creativity made with genuine passion, and a tight-knit team that never conforms to type. studio-drama.com/"
             },
             "Daniel Uzquiano": {
                 "name": "Daniel Uzquiano",
@@ -98380,6 +98595,57 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Zalando Sans is a bespoke sans serif typeface, developed as a cornerstone of the Zalando brand identity. Designed with flexibility and accessibility at the heart, it meets the diverse needs of the Zalando eco-system. The typeface offers exceptional adaptability through its variable font technology: A weight axis ranging from ExtraLight to Black A width axis ranging from Condensed to Expanded Matching italics This flexibility allows for a wide range of expressive possibilities while maintaining a cohesive brand presence. Rooted in a sans serif \u201cgrotesque\u201d style, the typeface aims to balance clean simplicity with attitude, combining clarity with subtle moments of personality. Its clean lines and modern aesthetic reflect Zalando's forward-thinking approach to fashion and lifestyle. Staying true to Zalando\u2019s personality\u2014Bold, Fun, and Welcoming\u2014Zalando Sans elevates every design it inhabits. When used effectively, it becomes a powerful design element, showcasing Zalando\u2019s commitment to helping people feel confident in their style. Zalando Sans was designed by Jakob Ekelund of KH Type, Stockholm in 2025 in collaboration with the Zalando brand and product design teams in Berlin. This is the Semi Expanded version, please find here the complete family Zalando Sans. To contribute, see github.com/zalando/sans",
+                "minisite_url": null
+            },
+            "BBH Sans Bartle": {
+                "name": "BBH Sans Bartle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "BBH Sans Bogle": {
+                "name": "BBH Sans Bogle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "BBH Sans Hegarty": {
+                "name": "BBH Sans Hegarty",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
                 "minisite_url": null
             }
         },
