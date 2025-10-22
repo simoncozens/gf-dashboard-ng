@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-10-21",
+    "last_checked": "2025-10-22",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -3996,7 +3996,7 @@
             },
             "Noto Naskh Arabic": {
                 "name": "Noto Naskh Arabic",
-                "version": "Version 2.018"
+                "version": "Version 2.020"
             },
             "Noto Nastaliq Urdu": {
                 "name": "Noto Nastaliq Urdu",
@@ -7396,7 +7396,7 @@
             },
             "Zain": {
                 "name": "Zain",
-                "version": "Version 1.51; ttfautohint (v1.8.4)"
+                "version": "Version 2.000; ttfautohint (v1.8.4)"
             },
             "Zen Antique": {
                 "name": "Zen Antique",
@@ -7605,6 +7605,14 @@
             "Noto Sans Syriac Western": {
                 "name": "Noto Sans Syriac Western",
                 "version": "Version 3.001"
+            },
+            "Stack Sans Headline": {
+                "name": "Stack Sans Headline",
+                "version": "Version 1.000"
+            },
+            "Stack Sans Text": {
+                "name": "Stack Sans Text",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -10271,6 +10279,10 @@
             "Bao Truong": {
                 "name": "Bao Truong",
                 "bio": null
+            },
+            "Koto": {
+                "name": "Koto",
+                "bio": "Koto is a brand and digital agency with studios in Berlin, London, Los Angeles, New York, and Sydney. We bring optimism, craft and rigor to every brief; collaborating with today\u2019s most impactful companies and the founders defining a better tomorrow to unlock the true potential of their brands. Founded in 2015 by Caroline Matthews (COO), James Greenfield (CEO), and Jowey Roden (CCO), we have shaped some of the world's leading brands, including Airbnb, Amazon Music, Discord, Fiverr, Glassdoor, Pleo, Qonto, Skyscanner, Sonos, Uber Eats, Venmo, and WhatsApp. koto.studio"
             }
         },
         "metadata": {
@@ -48935,6 +48947,42 @@
                 "description": null,
                 "primary_script": "Syrc",
                 "article": "Noto Sans Syriac Western is an unmodulated (\u201csans serif\u201d) Western (Ser\u1e6d\u0101) design for texts in the Middle Eastern Syriac script. Noto Sans Syriac Western contains 296 glyphs, 19 OpenType features, and supports 150 characters from 5 Unicode blocks: Syriac, Arabic, Basic Latin, Combining Diacritical Marks, Latin-1 Supplement. Supported writing systems Syriac Syriac (\u0710\u0720\u0726 \u0712\u071d\u072c \u0723\u0718\u072a\u071d\u071d\u0710) is a Middle Eastern abjad, written right-to-left. Was used in West Asia for Syriac (now only used in the Syrian church), and also Aramaic, Neo-Aramaic, Turoyo/Surayt. Attested in 6 CE. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
+                "minisite_url": null
+            },
+            "Stack Sans Headline": {
+                "name": "Stack Sans Headline",
+                "designer": [
+                    "Koto"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Stack Sans is a sans serif font family rooted in modernist inspiration, striking a balance between timelessness and innovation. Its distinctive notched detailing, inspired by the building process, creates a recognizable signature that is unique to Stack Sans. Crafted uniquely for Stack Overflow, Stack Sans has both a hedline and text style that allow for typographic expression regardless of scale. To contribute, see github.com/DylanYoungKoto/Stack-Sans.",
+                "minisite_url": null
+            },
+            "Stack Sans Text": {
+                "name": "Stack Sans Text",
+                "designer": [
+                    "Koto"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Stack Sans is a sans serif font family rooted in modernist inspiration, striking a balance between timelessness and innovation. Its distinctive notched detailing, inspired by the building process, creates a recognizable signature that is unique to Stack Sans. Crafted uniquely for Stack Overflow, Stack Sans has both a hedline and text style that allow for typographic expression regardless of scale. To contribute, see github.com/DylanYoungKoto/Stack-Sans.",
                 "minisite_url": null
             }
         },

@@ -31920,6 +31920,10 @@
       {
         "version": "Version 1.51; ttfautohint (v1.8.4)",
         "date": "2024-11-15T03:17:31.640896"
+      },
+      {
+        "version": "Version 2.000; ttfautohint (v1.8.4)",
+        "date": "2025-10-22T01:53:43.204699"
       }
     ],
     "production": [
@@ -33980,6 +33984,10 @@
       {
         "version": "Version 2.018",
         "date": "2024-08-28T17:44:14.064563"
+      },
+      {
+        "version": "Version 2.020",
+        "date": "2025-10-22T01:53:42.912537"
       }
     ],
     "production": [
@@ -40893,7 +40901,14 @@
       }
     ]
   },
-  "Stack Sans Text": {},
+  "Stack Sans Text": {
+    "sandbox": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-10-22T01:53:42.639945"
+      }
+    ]
+  },
   "Momo Signature": {
     "sandbox": [
       {
@@ -40934,6 +40949,13 @@
       }
     ]
   },
-  "Stack Sans Headline": {},
+  "Stack Sans Headline": {
+    "sandbox": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-10-22T01:53:43.484021"
+      }
+    ]
+  },
   "Elms Sans": {}
 }
