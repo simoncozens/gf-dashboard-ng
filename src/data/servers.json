@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-10-29",
+    "last_checked": "2025-10-30",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -54051,7 +54051,7 @@
             },
             "Noto Naskh Arabic": {
                 "name": "Noto Naskh Arabic",
-                "version": "Version 2.018"
+                "version": "Version 2.020"
             },
             "Noto Nastaliq Urdu": {
                 "name": "Noto Nastaliq Urdu",
@@ -57427,7 +57427,7 @@
             },
             "Zain": {
                 "name": "Zain",
-                "version": "Version 1.51; ttfautohint (v1.8.4)"
+                "version": "Version 2.000; ttfautohint (v1.8.4)"
             },
             "Zen Antique": {
                 "name": "Zen Antique",
@@ -57583,11 +57583,11 @@
             },
             "Cossette Texte": {
                 "name": "Cossette Texte",
-                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Cossette Titre": {
                 "name": "Cossette Titre",
-                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
             },
             "Epunda Sans": {
                 "name": "Epunda Sans",
@@ -57684,6 +57684,22 @@
             "BBH Sans Hegarty": {
                 "name": "BBH Sans Hegarty",
                 "version": "Version 1.000"
+            },
+            "Momo Signature": {
+                "name": "Momo Signature",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Momo Trust Display": {
+                "name": "Momo Trust Display",
+                "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Momo Trust Sans": {
+                "name": "Momo Trust Sans",
+                "version": "Version 1.000"
+            },
+            "Noto Sans Syriac Western": {
+                "name": "Noto Sans Syriac Western",
+                "version": "Version 3.001"
             }
         },
         "designers": {
@@ -60326,6 +60342,26 @@
             "Zalando": {
                 "name": "Zalando",
                 "bio": "Zalando is a publicly traded international online retailer based in Berlin which is active across Europe and specializes in shoes, fashion and beauty products. The company was founded in 2008 by David Schneider and Robert Gentz and has more than 51 million active users in 25 European markets."
+            },
+            "Type Associates": {
+                "name": "Type Associates",
+                "bio": "Type Associates is the type design studio within M \u2014 N Associates in Ho Chi Minh City, founded by Duy Nguyen and Lan Mai to advance custom typography in Southeast Asia. The studio has become a leader in developing distinctive typefaces since 2014 that define brand identities and cultural projects. Major works include Guta Caf\u00e9, MoMo, Biti\u2019s Hunter, custom type for Dentsu Redder Vietnam, and bespoke letterforms for Quang San Art Museum and B\u00e1t Tr\u00e0ng Museum. Type Associates creates retail and corporate typefaces that elevate Vietnamese design internationally. type.associates, | Instagram: | @type.associates"
+            },
+            "TYPE Associates": {
+                "name": "TYPE Associates",
+                "bio": null
+            },
+            "DuyN": {
+                "name": "DuyN",
+                "bio": null
+            },
+            "Phuc Tran": {
+                "name": "Phuc Tran",
+                "bio": null
+            },
+            "Bao Truong": {
+                "name": "Bao Truong",
+                "bio": null
             }
         },
         "metadata": {
@@ -98296,7 +98332,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": null,
-                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions \u2014 Cossette Titre and this Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/googlefonts/cossette-fonts",
                 "minisite_url": null
             },
             "Cossette Titre": {
@@ -98314,7 +98350,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": null,
-                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions\u2014Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/cossette/cossette-fonts.",
+                "article": "The Cossette font family is a classic in the making, building on a legacy of everyday graphics. Based on the foundations of the Cossette brand, it combines typical grotesque design with a subtle inverted contrast to create a distinct visual voice that feels both familiar and unexpected. The fonts are currently available in two versions \u2014 this Cossette Titre and Cossette Texte\u2014designed to pair beautifully together. Cossette Titre is more condensed to maximize impact in any given space, while Cossette Texte is wider set to maximize sentence legibility. To contribute, see github.com/googlefonts/cossette-fonts",
                 "minisite_url": null
             },
             "Epunda Sans": {
@@ -98784,6 +98820,89 @@
                 "description": null,
                 "primary_script": null,
                 "article": "The BBH Sans family is a clean and versatile sans-serif available in three widths: BBH Sans Bogle (condensed), BBH Sans Hegarty (normal), and BBH Sans Bartle (expanded). You can explore them here:. BBH Sans Bogle BBH Sans Hegarty BBH Sans Bartle To contribute, see github.com/Studio-DRAMA/BBHSans.",
+                "minisite_url": null
+            },
+            "Momo Signature": {
+                "name": "Momo Signature",
+                "designer": [
+                    "Type Associates"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Signature, inspired by handwritten signatures, adds a personal touch that reinforces trust and individuality. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoSignature. Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag.",
+                "minisite_url": null
+            },
+            "Momo Trust Display": {
+                "name": "Momo Trust Display",
+                "designer": [
+                    "Type Associates"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Trust Display draws inspiration from the MoMo logotype, incorporating subtle cues from the rounded, approachable forms that define the brand\u2019s core look. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoTrustSans.",
+                "minisite_url": null
+            },
+            "Momo Trust Sans": {
+                "name": "Momo Trust Sans",
+                "designer": [
+                    "TYPE Associates",
+                    "DuyN",
+                    "Phuc Tran",
+                    "Bao Truong"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "MoMo Trust Sans draws inspiration from the MoMo logotype, incorporating subtle cues from the rounded, approachable forms that define the brand\u2019s core look. It is one of the custom typefaces designed in 2024 by M \u2014 N Associates for the Vietnamese e-wallet app MoMo. To contribute, see github.com/typeassociates/MomoTrustSans. Your browser does not support the video tag. Your browser does not support the video tag.",
+                "minisite_url": null
+            },
+            "Noto Sans Syriac Western": {
+                "name": "Noto Sans Syriac Western",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "syriac"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Syrc",
+                "article": "Noto Sans Syriac Western is an unmodulated (\u201csans serif\u201d) Western (Ser\u1e6d\u0101) design for texts in the Middle Eastern Syriac script. Noto Sans Syriac Western contains 296 glyphs, 19 OpenType features, and supports 150 characters from 5 Unicode blocks: Syriac, Arabic, Basic Latin, Combining Diacritical Marks, Latin-1 Supplement. Supported writing systems Syriac Syriac (\u0710\u0720\u0726 \u0712\u071d\u072c \u0723\u0718\u072a\u071d\u071d\u0710) is a Middle Eastern abjad, written right-to-left. Was used in West Asia for Syriac (now only used in the Syrian church), and also Aramaic, Neo-Aramaic, Turoyo/Surayt. Attested in 6 CE. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
                 "minisite_url": null
             }
         },

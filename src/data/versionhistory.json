@@ -31942,6 +31942,10 @@
       {
         "version": "Version 1.51; ttfautohint (v1.8.4)",
         "date": "2024-11-21T03:11:55.608132"
+      },
+      {
+        "version": "Version 2.000; ttfautohint (v1.8.4)",
+        "date": "2025-10-30T01:53:36.315829"
       }
     ]
   },
@@ -34002,6 +34006,10 @@
       {
         "version": "Version 2.018",
         "date": "2024-08-28T17:44:14.064567"
+      },
+      {
+        "version": "Version 2.020",
+        "date": "2025-10-30T01:53:36.022119"
       }
     ]
   },
@@ -40720,6 +40728,10 @@
       {
         "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-08-27T01:53:30.271387"
+      },
+      {
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-10-30T01:53:36.135723"
       }
     ]
   },
@@ -40744,6 +40756,10 @@
       {
         "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-08-27T01:53:30.586217"
+      },
+      {
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-10-30T01:53:36.199139"
       }
     ]
   },
@@ -40923,6 +40939,12 @@
         "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-10-08T01:53:10.784710"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-10-30T01:53:36.074233"
+      }
     ]
   },
   "Momo Trust Sans": {
@@ -40930,6 +40952,12 @@
       {
         "version": "Version 1.000",
         "date": "2025-10-08T01:53:10.879299"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-10-30T01:53:36.166931"
       }
     ]
   },
@@ -40947,6 +40975,12 @@
         "version": "Version 3.001",
         "date": "2025-10-08T01:53:10.997271"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 3.001",
+        "date": "2025-10-30T01:53:36.282544"
+      }
     ]
   },
   "Momo Trust Display": {
@@ -40954,6 +40988,12 @@
       {
         "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-10-08T01:53:11.040450"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-10-30T01:53:36.324680"
       }
     ]
   },
