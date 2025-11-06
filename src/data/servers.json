@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-11-05",
+    "last_checked": "2025-11-06",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -50099,7 +50099,7 @@
                 "min_value": -100.0,
                 "default_value": 0.0,
                 "max_value": 100.0,
-                "precision": 1,
+                "precision": 0,
                 "fallback": [
                     {
                         "name": "Reversed",
