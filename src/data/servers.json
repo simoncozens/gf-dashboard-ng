@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-11-12",
+    "last_checked": "2025-11-13",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7625,6 +7625,10 @@
             "Stack Sans Notch": {
                 "name": "Stack Sans Notch",
                 "version": "Version 1.000"
+            },
+            "Google Sans Flex": {
+                "name": "Google Sans Flex",
+                "version": "Version 3.007;[58cd9cb9b]"
             }
         },
         "designers": {
@@ -49073,6 +49077,32 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Stack Sans is a sans serif font family rooted in modernist inspiration, striking a balance between timelessness and innovation. Its distinctive notched detailing, inspired by the building process, creates a recognizable signature that is unique to Stack Sans. Crafted uniquely for Stack Overflow, Stack Sans has both a headline and text style that allow for typographic expression regardless of scale. To contribute, see github.com/DylanYoungKoto/Stack-Sans.",
+                "minisite_url": null
+            },
+            "Google Sans Flex": {
+                "name": "Google Sans Flex",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "canadian-aboriginal",
+                    "cherokee",
+                    "latin",
+                    "latin-ext",
+                    "math",
+                    "nushu",
+                    "symbols",
+                    "syriac",
+                    "tifinagh",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Google Sans Flex is the next generation of Google\u2019s brand typeface. Designed as an extremely flexible variable font, it introduces variable axes for weight, width, optical size, slant, as well as an axis for rounded terminals.",
                 "minisite_url": null
             }
         },
