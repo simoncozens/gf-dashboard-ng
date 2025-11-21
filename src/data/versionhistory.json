@@ -27684,6 +27684,10 @@
       {
         "version": "Version 1.051; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-04-24T03:15:17.419349"
+      },
+      {
+        "version": "Version 2.005",
+        "date": "2025-11-21T01:53:56.540565"
       }
     ]
   },
@@ -40977,6 +40981,12 @@
         "version": "Version 3.001",
         "date": "2025-10-08T01:53:10.903612"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 3.001",
+        "date": "2025-11-21T01:53:56.907110"
+      }
     ]
   },
   "Noto Sans Syriac Western": {
@@ -41041,6 +41051,12 @@
         "version": "Version 1.035",
         "date": "2025-10-28T01:53:52.528888"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.035",
+        "date": "2025-11-21T01:53:56.930890"
+      }
     ]
   },
   "Stack Sans Notch": {
@@ -41056,5 +41072,8 @@
         "date": "2025-11-05T01:53:47.725412"
       }
     ]
-  }
+  },
+  "Amarna": {},
+  "Gveret Levin": {},
+  "Geom": {}
 }

@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-11-20",
+    "last_checked": "2025-11-21",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -53333,7 +53333,7 @@
             },
             "Libre Baskerville": {
                 "name": "Libre Baskerville",
-                "version": "Version 1.051; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.005"
             },
             "Libre Bodoni": {
                 "name": "Libre Bodoni",
@@ -57750,6 +57750,14 @@
             "Google Sans Flex": {
                 "name": "Google Sans Flex",
                 "version": "Version 3.007;[58cd9cb9b]"
+            },
+            "Kedebideri": {
+                "name": "Kedebideri",
+                "version": "Version 3.001"
+            },
+            "Science Gothic": {
+                "name": "Science Gothic",
+                "version": "Version 1.035"
             }
         },
         "designers": {
@@ -60420,6 +60428,18 @@
             "Koto": {
                 "name": "Koto",
                 "bio": "Koto is a brand and digital agency with studios in Berlin, London, Los Angeles, New York, and Sydney. We bring optimism, craft and rigor to every brief; collaborating with today\u2019s most impactful companies and the founders defining a better tomorrow to unlock the true potential of their brands. Founded in 2015 by Caroline Matthews (COO), James Greenfield (CEO), and Jowey Roden (CCO), we have shaped some of the world's leading brands, including Airbnb, Amazon Music, Discord, Fiverr, Glassdoor, Pleo, Qonto, Skyscanner, Sonos, Uber Eats, Venmo, and WhatsApp. koto.studio"
+            },
+            "Thomas Phinney": {
+                "name": "Thomas Phinney",
+                "bio": "Thomas Phinney was born in the USA, grew up in Canada, and lives on the west coast of the USA\u2014since 2009 in Portland. He has an MS in typography and design from RIT, an MBA from UC Berkeley, and four patents. Phinney is the former president of ATypI and its longest-serving board member. He has worked at Adobe, Extensis and as CEO of FontLab. Phinney has designed typefaces for Adobe, Google and others. He is a fonts and typography consultant, and the world\u2019s only font detective, doing forensic typography on issues such as forged documents and point size requirements. thefontdetective.com | thomasphinney.com"
+            },
+            "Vassil Kateliev": {
+                "name": "Vassil Kateliev",
+                "bio": "Vassil Kateliev is a type and graphic designer, and software developer, based in Varna, Bulgaria. With over 15 years in type design, he has created notable type families such as Basil, for which he received an award at GRANSHAN 2014, and co-authored Bolyar for FontMaker, which has now become a staple in the package and labeling industry. Kateliev has collaborated on major projects such as Science Gothic and Material Symbols for Google. His approach blends creativity and technical proficiency. Skilled in type design, engineering and workflow automation, Kateliev often develops his own tools to enhance the design process. kateliev.com/"
+            },
+            "Brandon Buerkle": {
+                "name": "Brandon Buerkle",
+                "bio": "After earning two undergraduate degrees in art and design, practicing graphic design for over 20 years, and designing a few fonts, Brandon Buerkle now teaches design to undergraduates while working on a graduate degree in typeface design. Their small Oregon-based foundry, Society of Fonts, occasionally produces typefaces, which they hope will make the world just a little better. societyoffonts.com"
             }
         },
         "metadata": {
@@ -99063,6 +99083,46 @@
                 "primary_script": null,
                 "article": "Google Sans Flex is the next generation of Google\u2019s brand typeface. Designed as an extremely flexible variable font, it introduces variable axes for weight, width, optical size, slant, as well as an axis for rounded terminals.",
                 "minisite_url": null
+            },
+            "Kedebideri": {
+                "name": "Kedebideri",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Berf",
+                "article": "The Beria Erfe script is built around a sampling of the traditional animal brands seen on livestock, rocks of the desert, and in caves of North Darfur and eastern Chad. The script was first introduced by a school teacher named Adam Tajir, and it was further developed by Siddick Adam Issa. The script is now encoded in Unicode 17.0. The font name, Kedebideri, means \"Let's write!\" in the Zaghawa Beria language. To contribute, see github.com/silnrsi/font-kedebideri.",
+                "minisite_url": null
+            },
+            "Science Gothic": {
+                "name": "Science Gothic",
+                "designer": [
+                    "Thomas Phinney",
+                    "Vassil Kateliev",
+                    "Brandon Buerkle"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Science Gothic is a 4-axis variable font with a wide design range, allowing it to take on many different looks and uses, from superheroes, action and pulp detectives to business and banking, from science fiction and technology to cosmetics. The basic design is closely modeled on Morris Fuller Benton\u2019s Bank Gothic (1930\u201334) for American Type Founders. But where Bank Gothic was an all-caps typeface with moderate variation in weight and width, Science Gothic adds a lowercase, true small caps, extensive language coverage (extended Latin and extended Cyrillic), and four design axes: extreme weight and width axes, plus contrast, and slant. Science Gothic is a team effort, by Thomas Phinney, Vassil Kateliev and Brandon Buerkle. Special thanks to Igor Freiberger for his early contributions. To comment, give feedback or contribute to Science Gothic, visit https:, visit github.com/googlefonts/science-gothic Your browser does not support the video tag.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
@@ -100076,7 +100136,7 @@
                 "min_value": -100.0,
                 "default_value": 0.0,
                 "max_value": 100.0,
-                "precision": 1,
+                "precision": 0,
                 "fallback": [
                     {
                         "name": "Reversed",
