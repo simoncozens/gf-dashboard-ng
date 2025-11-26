@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-11-25",
+    "last_checked": "2025-11-26",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7629,6 +7629,10 @@
             "Google Sans Flex": {
                 "name": "Google Sans Flex",
                 "version": "Version 3.007;[58cd9cb9b]"
+            },
+            "Google Sans": {
+                "name": "Google Sans",
+                "version": "Version 12.001;[9b76f496a]"
             }
         },
         "designers": {
@@ -49103,6 +49107,47 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Google Sans Flex is the next generation of Google\u2019s brand typeface. Designed as an extremely flexible variable font, it introduces variable axes for weight, width, optical size, slant, as well as an axis for rounded terminals.",
+                "minisite_url": null
+            },
+            "Google Sans": {
+                "name": "Google Sans",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "armenian",
+                    "bengali",
+                    "canadian-aboriginal",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "devanagari",
+                    "ethiopic",
+                    "georgian",
+                    "greek",
+                    "greek-ext",
+                    "gujarati",
+                    "gurmukhi",
+                    "hebrew",
+                    "khmer",
+                    "lao",
+                    "latin",
+                    "latin-ext",
+                    "malayalam",
+                    "oriya",
+                    "sinhala",
+                    "symbols",
+                    "tamil",
+                    "telugu",
+                    "thai",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "One font, two axes Google Sans is now available as a variable font, containing a continuous range of styles in a single font. Google Sans VF contains two axes for adjustment: weight and optical size. Note: Italic styles are delivered as a separate VF font and mirror the same weight and optical size range. Google Sans and GS Text as static fonts GS VF includes the entire design range Weight Axis The weight axis provides a full, continuous range of weights between Regular (400) and Bold (700). Weight axis Full weight range of Google Sans VF Weight range Beyond what was originally offered within the Google Sans family, the weight axis now offers the ability to use incremental weights, like Semi-Bold (600). Optical Size Axis The optical size axis acts like a toggle between the maximum optical size (18pt and larger) and the minimum optical size (17pt and smaller). Optical Size axis While we\u2019re launching with only two axes, we\u2019re not stopping there. We're always looking at ways to improve our approach to typography and anticipate a product and marketing need. Grade axis We\u2019re exploring a grade axis, which is optically similar to weight, but much more nuanced. With a grade axis, letters are adjusted to render lighter or darker, yet still occupy the same horizontal space and avoid reflow of text. Grade Axis A grade adjustment gives the text better optical parity between light and dark themes, which means that although the letterforms in the two examples are different, they\u2019re more compatible in terms of appearance and legibility. As dark themes become commonplace, or even the default, in our products, these micro adjustments at a global scale are important in delivering a refined experience. Grade adjustments made to light text on dark surfaces.",
                 "minisite_url": null
             }
         },
