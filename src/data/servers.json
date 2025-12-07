@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-12-06",
+    "last_checked": "2025-12-07",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7669,6 +7669,10 @@
             "Sekuya": {
                 "name": "Sekuya",
                 "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Cause": {
+                "name": "Cause",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -49404,6 +49408,26 @@
                 "description": null,
                 "primary_script": null,
                 "article": "SEKUYA is a serif all-uppercase typeface that give a strong impression to your design. The main goal was to bring a boldness and modern feel to serif font by reworking the curves also corners and balance of modern serif font families. This font is a great choice for main text / header text on a website or layout design. SEKUYA font originally created for SEKUYA game that has anime epic fantasy vibes. To contribute, see github.com/kevinnseptian/SEKUYA.",
+                "minisite_url": null
+            },
+            "Cause": {
+                "name": "Cause",
+                "designer": [
+                    "Saurabh Sharma"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "'Cause' is a semi-casual, optimistic sans-serif typeface crafted to support the communication needs of non-profit organizations, educational institutions, environmental initiatives, and learning-focused applications. The design follows a clean monolinear construction with gently rounded terminals, offering a balance of warmth and clarity. It was created to address a recurring design need: a typeface that feels friendly and approachable without drifting into a comic or overly playful tone\u2014capable of delivering serious messages with comfort and ease. This makes it particularly suitable for projects in education, social impact, food and lifestyle blogging, environmental advocacy, and various forms of children\u2019s communication materials. To contribute, see github.com/xconsau/Cause.",
                 "minisite_url": null
             }
         },
