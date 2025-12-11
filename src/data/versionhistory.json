@@ -33154,6 +33154,10 @@
       {
         "version": "Version 2.002; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-08-28T17:13:49.772450"
+      },
+      {
+        "version": "Version 2.003; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2025-12-11T01:55:32.673589"
       }
     ]
   },
@@ -41083,6 +41087,12 @@
         "version": "Version 1.003",
         "date": "2025-12-05T01:54:23.589536"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.003",
+        "date": "2025-12-11T01:55:32.715190"
+      }
     ]
   },
   "Gveret Levin": {
@@ -41099,6 +41109,12 @@
         "version": "Version 1.102",
         "date": "2025-12-05T01:54:24.243240"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.102",
+        "date": "2025-12-11T01:55:33.376441"
+      }
     ]
   },
   "Sekuya": {
@@ -41106,6 +41122,12 @@
       {
         "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-12-05T01:54:23.570383"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2025-12-11T01:55:32.695951"
       }
     ]
   },
@@ -41123,6 +41145,12 @@
         "version": "Version 2.621",
         "date": "2025-12-05T01:54:24.168570"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 2.621",
+        "date": "2025-12-11T01:55:33.300322"
+      }
     ]
   },
   "BBH Bartle": {
@@ -41130,6 +41158,12 @@
       {
         "version": "Version 1.000",
         "date": "2025-12-05T01:54:23.997930"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-12-11T01:55:33.125957"
       }
     ]
   },
@@ -41139,6 +41173,12 @@
         "version": "Version 1.000",
         "date": "2025-12-05T01:54:24.103000"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-12-11T01:55:33.233487"
+      }
     ]
   },
   "BBH Bogle": {
@@ -41147,6 +41187,12 @@
         "version": "Version 1.000",
         "date": "2025-12-05T01:54:24.181785"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-12-11T01:55:33.313739"
+      }
     ]
   },
   "Cause": {
@@ -41154,6 +41200,12 @@
       {
         "version": "Version 1.000",
         "date": "2025-12-07T01:55:05.539643"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2025-12-11T01:55:32.760631"
       }
     ]
   }

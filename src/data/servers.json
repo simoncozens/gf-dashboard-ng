@@ -1,5 +1,5 @@
 {
-    "last_checked": "2025-12-10",
+    "last_checked": "2025-12-11",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -54886,7 +54886,7 @@
             },
             "Noto Sans Rejang": {
                 "name": "Noto Sans Rejang",
-                "version": "Version 2.002; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 2.003; ttfautohint (v1.8.4.16-eb64)"
             },
             "Noto Sans Runic": {
                 "name": "Noto Sans Runic",
@@ -58083,6 +58083,42 @@
             "Science Gothic": {
                 "name": "Science Gothic",
                 "version": "Version 1.035"
+            },
+            "Amarna": {
+                "name": "Amarna",
+                "version": "Version 1.003"
+            },
+            "BBH Bartle": {
+                "name": "BBH Bartle",
+                "version": "Version 1.000"
+            },
+            "BBH Bogle": {
+                "name": "BBH Bogle",
+                "version": "Version 1.000"
+            },
+            "BBH Hegarty": {
+                "name": "BBH Hegarty",
+                "version": "Version 1.000"
+            },
+            "Cause": {
+                "name": "Cause",
+                "version": "Version 1.000"
+            },
+            "Geom": {
+                "name": "Geom",
+                "version": "Version 1.102"
+            },
+            "Google Sans": {
+                "name": "Google Sans",
+                "version": "Version 12.001;[9b76f496a]"
+            },
+            "Lilex": {
+                "name": "Lilex",
+                "version": "Version 2.621"
+            },
+            "Sekuya": {
+                "name": "Sekuya",
+                "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
             }
         },
         "designers": {
@@ -60765,6 +60801,30 @@
             "Brandon Buerkle": {
                 "name": "Brandon Buerkle",
                 "bio": "After earning two undergraduate degrees in art and design, practicing graphic design for over 20 years, and designing a few fonts, Brandon Buerkle now teaches design to undergraduates while working on a graduate degree in typeface design. Their small Oregon-based foundry, Society of Fonts, occasionally produces typefaces, which they hope will make the world just a little better. societyoffonts.com"
+            },
+            "Ishtar van Looy": {
+                "name": "Ishtar van Looy",
+                "bio": null
+            },
+            "Thanos Poulakidas": {
+                "name": "Thanos Poulakidas",
+                "bio": "Athens-based designer Thanos Poulakidas (b. 1995) works at the intersection of graphic design, type design, and UI/UX. Interested in how typography shapes user experience, he explores type across different scripts and cultural contexts, seeking new possibilities for form and function. His work reflects a curiosity for multilingual design systems and the evolving role of type in both print and digital spaces. Instagram"
+            },
+            "Paul van der Laan": {
+                "name": "Paul van der Laan",
+                "bio": null
+            },
+            "Pieter van Rosmalen": {
+                "name": "Pieter van Rosmalen",
+                "bio": null
+            },
+            "Mikhael Khrustik": {
+                "name": "Mikhael Khrustik",
+                "bio": null
+            },
+            "SEKUYA": {
+                "name": "SEKUYA",
+                "bio": null
             }
         },
         "metadata": {
@@ -99447,6 +99507,203 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Science Gothic is a 4-axis variable font with a wide design range, allowing it to take on many different looks and uses, from superheroes, action and pulp detectives to business and banking, from science fiction and technology to cosmetics. The basic design is closely modeled on Morris Fuller Benton\u2019s Bank Gothic (1930\u201334) for American Type Founders. But where Bank Gothic was an all-caps typeface with moderate variation in weight and width, Science Gothic adds a lowercase, true small caps, extensive language coverage (extended Latin and extended Cyrillic), and four design axes: extreme weight and width axes, plus contrast, and slant. Science Gothic is a team effort, by Thomas Phinney, Vassil Kateliev and Brandon Buerkle. Special thanks to Igor Freiberger for his early contributions. To comment, give feedback or contribute to Science Gothic, visit https:, visit github.com/googlefonts/science-gothic Your browser does not support the video tag.",
+                "minisite_url": null
+            },
+            "Amarna": {
+                "name": "Amarna",
+                "designer": [
+                    "Ishtar van Looy"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Amarna is a semi-glyphic humanist sans-serif typeface, taking inspiration from the cold sophistication of early humanist sans- and glyphic serifs such as Gill Sans or Albertus, while attempting to bring the traits which define those typefaces in line with the principles of modern sans-serif type design. Amarna is amicable and easy to read in small sizes, but takes on a much more glyphic, naturalistic quality when rendered in larger sizes, at lighter weights and especially in all-caps text. Amarna is a variable-weight font, with weights currently ranging from 100 (Hairline) to 700 (Bold). To contribute, see github.com/ijvanl/Amarna.",
+                "minisite_url": null
+            },
+            "BBH Bartle": {
+                "name": "BBH Bartle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH family is a clean and versatile sans-serif available in three widths: BBH Bogle (condensed), BBH Hegarty (normal), and BBH Bartle (expanded). You can explore them here:. BBH Bogle BBH Hegarty BBH Bartle To contribute, see github.com/Studio-DRAMA/BBH.",
+                "minisite_url": null
+            },
+            "BBH Bogle": {
+                "name": "BBH Bogle",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH family is a clean and versatile sans-serif available in three widths: BBH Bogle (condensed), BBH Hegarty (normal), and BBH Bartle (expanded). You can explore them here:. BBH Bogle BBH Hegarty BBH Bartle To contribute, see github.com/Studio-DRAMA/BBH.",
+                "minisite_url": null
+            },
+            "BBH Hegarty": {
+                "name": "BBH Hegarty",
+                "designer": [
+                    "Studio DRAMA"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "The BBH family is a clean and versatile sans-serif available in three widths: BBH Bogle (condensed), BBH Hegarty (normal), and BBH Bartle (expanded). You can explore them here:. BBH Bogle BBH Hegarty BBH Bartle To contribute, see github.com/Studio-DRAMA/BBH.",
+                "minisite_url": null
+            },
+            "Cause": {
+                "name": "Cause",
+                "designer": [
+                    "Saurabh Sharma"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "'Cause' is a semi-casual, optimistic sans-serif typeface crafted to support the communication needs of non-profit organizations, educational institutions, environmental initiatives, and learning-focused applications. The design follows a clean monolinear construction with gently rounded terminals, offering a balance of warmth and clarity. It was created to address a recurring design need: a typeface that feels friendly and approachable without drifting into a comic or overly playful tone\u2014capable of delivering serious messages with comfort and ease. This makes it particularly suitable for projects in education, social impact, food and lifestyle blogging, environmental advocacy, and various forms of children\u2019s communication materials. To contribute, see github.com/xconsau/Cause.",
+                "minisite_url": null
+            },
+            "Geom": {
+                "name": "Geom",
+                "designer": [
+                    "Thanos Poulakidas"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "greek",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Geom is a contemporary geometric sans-serif typeface designed with a balance between precision and expressiveness. While it draws inspiration from the classic geometric tradition, it introduces subtle dynamic elements that bring rhythm and energy to the letterforms. These details make Geom more than a strictly geometric construction \u2014 they lend it character and movement, setting it apart from similar typefaces. Geom comes in seven weights, ranging from Light to Black, each with its own carefully adjusted proportions to maintain consistency and readability across the entire family. True italics accompany every upright weight, extending the typeface\u2019s versatility and allowing for clear typographic hierarchy and emphasis. The typeface is also available as a variable font, providing designers with seamless control over weight transitions. Although Geom was conceived primarily for display purposes \u2014 in titles, branding, and large headlines \u2014 it performs equally well in smaller text sizes. Its geometric clarity ensures excellent legibility, while its subtle deviations from pure geometry make it visually engaging even in extended reading. By combining geometric precision with refined dynamism, Geom stands as a contemporary sans-serif that balances structure and liveliness \u2014 a typeface that feels both timeless and distinctly modern. To contribute, see github.com/ThanosPoulakidas/Geom.",
+                "minisite_url": null
+            },
+            "Google Sans": {
+                "name": "Google Sans",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "armenian",
+                    "bengali",
+                    "canadian-aboriginal",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "devanagari",
+                    "ethiopic",
+                    "georgian",
+                    "greek",
+                    "greek-ext",
+                    "gujarati",
+                    "gurmukhi",
+                    "hebrew",
+                    "khmer",
+                    "lao",
+                    "latin",
+                    "latin-ext",
+                    "malayalam",
+                    "oriya",
+                    "sinhala",
+                    "symbols",
+                    "tamil",
+                    "telugu",
+                    "thai",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Google Sans is the current generation of Google\u2019s brand typeface, with wide language support. Variable fonts Google Sans is available as a variable font with axes for weight, grade and optical size, across Roman and Italic styles. Note: Italic styles are in a separate VF font file, that contains the same axes. Previous static font families, Google Sans and Google Sans Text Google Sans now includes the entire design range as a variable font Weight axis The weight axis provides a full, continuous range of weights between Regular (400) and Bold (700). Weight axis Full weight range of Google Sans Weight range Beyond what was originally offered within the Google Sans static fonts, the weight axis now offers the ability to use incremental weights, like Semi-Bold (600). Optical size axis Optical Size axis The optical size axis acts like a toggle between the maximum optical size (18pt and larger) and the minimum optical size (17pt and smaller) that was originally offered as the Google Sans Text static fonts. Grade axis The grade axis is optically similar to weight, but much more nuanced. With a grade axis, letters are adjusted to render lighter or darker, yet still occupy the same horizontal space and avoid reflow of text. Grade axis shown effecting just one glyph A grade adjustment can give your text better optical parity between light and dark themes, which means that although the letterforms in the two examples are different, they\u2019re more compatible in terms of appearance and legibility. With dark UI themes, these micro adjustments at a global scale can deliver a more refined experience. Grade adjustments made to light text on dark surfaces.",
+                "minisite_url": null
+            },
+            "Lilex": {
+                "name": "Lilex",
+                "designer": [
+                    "Mike Abbink",
+                    "Paul van der Laan",
+                    "Pieter van Rosmalen",
+                    "Mikhael Khrustik"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "latin",
+                    "latin-ext",
+                    "symbols2",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Lilex is an extended font on top of IBM Plex Mono designed for developers. It contains ligatures, special characters (e.g. PowerLine), Greek and exists in a variable format. Ligatures is just a font rendering feature: underlying code remains ASCII-compatible. This makes it easier to read and understand the code. In some cases, the ligatures connect closely related characters (==, ---), while in others they optically align the glyphs (.., ??). To contribute, see github.com/mishamyrt/Lilex. There are 5 font weights available in Lilex, ranging from Thin to Bold. In addition, a variable font is available. Lilex comes with a full set of italics: all weights, ligatures, PowerLine. Lilex Italic can do everything that Lilex does. The font has support for Latin, Cyrillic and Greek. It also includes ligatures and powerline symbols. The font has additional styles for some characters, so it can be configured to better fit your needs. Instructions on how to activate OpenType features in your IDE can be found on the internet, or build your own variation of the font with forced features Some ligatures also have additional options. For example, certain arrows are initially switched off to avoid conflicts with logical operations. Lilex uses generated ligatures for arrows, so they can be infinite. Combine that to assemble your unique arrows. There is also a full set of single-character arrows (\u2191, \u2193, etc.) in the font.",
+                "minisite_url": null
+            },
+            "Sekuya": {
+                "name": "Sekuya",
+                "designer": [
+                    "SEKUYA"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "SEKUYA is a serif all-uppercase typeface that give a strong impression to your design. The main goal was to bring a boldness and modern feel to serif font by reworking the curves also corners and balance of modern serif font families. This font is a great choice for main text / header text on a website or layout design. SEKUYA font originally created for SEKUYA game that has anime epic fantasy vibes. To contribute, see github.com/kevinnseptian/SEKUYA.",
                 "minisite_url": null
             }
         },
