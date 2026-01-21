@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-01-20",
+    "last_checked": "2026-01-21",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -54808,7 +54808,7 @@
             },
             "Noto Sans Myanmar": {
                 "name": "Noto Sans Myanmar",
-                "version": "Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D mymr -f none -a qsq -X \"\""
+                "version": "Version 2.107"
             },
             "Noto Sans NKo": {
                 "name": "Noto Sans NKo",
@@ -82688,12 +82688,14 @@
                 "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
+                    "latin",
+                    "latin-ext",
                     "myanmar"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
                 "description": null,
-                "primary_script": null,
+                "primary_script": "Mymr",
                 "article": "Noto Sans Myanmar is an unmodulated (\u201csans serif\u201d) design for texts in the Southeast Asian Myanmar script. Noto Sans Myanmar contains 610 glyphs, 7 OpenType features, and supports 239 characters from 4 Unicode blocks: Myanmar, Myanmar Extended-A, Myanmar Extended-B, General Punctuation. Supported writing systems Myanmar Myanmar (Burmese, \u1019\u103c\u1014\u103a\u1019\u102c) is a Southeast Asian abugida, written left-to-right (40 million users). Used since c. 1000 CE in Myanmar for the Burmese and Mon languages. Also used for some Karen languages. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
                 "minisite_url": null
             },
