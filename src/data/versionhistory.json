@@ -31420,6 +31420,10 @@
       {
         "version": "Version 1.003",
         "date": "2025-01-28T02:41:23.179743"
+      },
+      {
+        "version": "Version 1.004",
+        "date": "2026-01-23T01:54:25.958185"
       }
     ],
     "production": [
@@ -38172,6 +38176,10 @@
       {
         "version": "Version 1.003",
         "date": "2024-12-03T02:32:23.203660"
+      },
+      {
+        "version": "Version 1.004",
+        "date": "2026-01-23T01:54:25.552625"
       }
     ],
     "production": [
@@ -41149,6 +41157,12 @@
         "version": "Version 1.008",
         "date": "2025-12-05T01:54:23.862896"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.008",
+        "date": "2026-01-23T01:54:25.680723"
+      }
     ]
   },
   "Lilex": {
@@ -41229,6 +41243,20 @@
       }
     ]
   },
-  "Playwrite NZ Basic": {},
-  "Playwrite NZ Basic Guides": {}
+  "Playwrite NZ Basic": {
+    "sandbox": [
+      {
+        "version": "Version 1.004",
+        "date": "2026-01-23T01:54:25.667841"
+      }
+    ]
+  },
+  "Playwrite NZ Basic Guides": {
+    "sandbox": [
+      {
+        "version": "Version 1.004",
+        "date": "2026-01-23T01:54:25.691034"
+      }
+    ]
+  }
 }
