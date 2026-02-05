@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-04",
+    "last_checked": "2026-02-05",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -3412,7 +3412,7 @@
             },
             "Ma Shan Zheng": {
                 "name": "Ma Shan Zheng",
-                "version": "Version 2.001"
+                "version": "Version 2.002"
             },
             "Macondo": {
                 "name": "Macondo",
@@ -27843,7 +27843,7 @@
                 "classifications": [
                     "handwriting"
                 ],
-                "description": "This script is reminiscent of fonts used to display \"yinglian,\" the short poems and blessings traditionally posted on either side of the entryway to a home or temple. MaShanZheng is heavy and majestic, vital and expansive.",
+                "description": "This script is reminiscent of fonts used to display \"yinglian,\" the short poems and blessings traditionally posted on either side of the entryway to a home or temple. MaShanZheng is heavy and majestic, vital and expansive. To contribute, please visit github.com/googlefonts/mashanzheng.",
                 "primary_script": "Hans",
                 "article": null,
                 "minisite_url": null
