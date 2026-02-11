@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-10",
+    "last_checked": "2026-02-11",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -5992,7 +5992,7 @@
             },
             "Roboto": {
                 "name": "Roboto",
-                "version": "Version 3.011; 2025"
+                "version": "Version 3.015; 2026"
             },
             "Roboto Condensed": {
                 "name": "Roboto Condensed",
@@ -7384,7 +7384,7 @@
             },
             "ZCOOL KuaiLe": {
                 "name": "ZCOOL KuaiLe",
-                "version": "Version 2.000"
+                "version": "Version 2.001"
             },
             "ZCOOL QingKe HuangYou": {
                 "name": "ZCOOL QingKe HuangYou",
@@ -9858,7 +9858,7 @@
             },
             "Christian Robertson": {
                 "name": "Christian Robertson",
-                "bio": null
+                "bio": "Christian Robertson is a type designer and visual designer based in the San Francisco Bay Area who works at Google. He is best known for creating Roboto, the default font family for Android and a core part of Google's Material Design system. Robertson joined Google in 2011 and has been instrumental in developing the typographic identity across Android and various Google products.In addition to Roboto, Robertson has designed other notable typefaces including Roboto Slab, Roboto Mono, and Roboto Flex, a variable font version. Before joining Google, he created the Ubuntu font family for Canonical Ltd. His work focuses on creating highly legible typefaces optimized for digital screens and user interfaces. Twitter"
             },
             "Font Bureau": {
                 "name": "Font Bureau",
@@ -47979,7 +47979,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "ZCool Kuaile was created by a team of font design trainees under the leadership of typographer Liu Bingke. First, Liu created the character shape framework and design standards; then, a group of over 100 typography apprentices participated in building out the character set. Finally, Liu and other designers from his workshop, including Yang Kang and Wu Shaojie, edited and adjusted the characters to unify the design.",
+                "description": "ZCool Kuaile was created by a team of font design trainees under the leadership of typographer Liu Bingke. First, Liu created the character shape framework and design standards; then, a group of over 100 typography apprentices participated in building out the character set. Finally, Liu and other designers from his workshop, including Yang Kang and Wu Shaojie, edited and adjusted the characters to unify the design. To contribute to the ZCool Kuaile project, please visit github.com/googlefonts/zcool-kuaile.",
                 "primary_script": "Hans",
                 "article": null,
                 "minisite_url": null
