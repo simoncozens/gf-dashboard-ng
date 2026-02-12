@@ -41305,13 +41305,65 @@
       }
     ]
   },
-  "Betania Patmos In": {},
-  "Idiqlat": {},
+  "Betania Patmos In": {
+    "sandbox": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-12T01:55:50.539895"
+      }
+    ]
+  },
+  "Idiqlat": {
+    "sandbox": [
+      {
+        "version": "Version 2.000",
+        "date": "2026-02-12T01:55:50.722757"
+      }
+    ]
+  },
   "Betania Patmos Guide Line": {},
-  "Betania Patmos In GDL": {},
-  "Ramsina": {},
-  "Betania Patmos GDL": {},
-  "Betania Patmos": {},
+  "Betania Patmos In GDL": {
+    "sandbox": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-12T01:55:50.866511"
+      }
+    ]
+  },
+  "Ramsina": {
+    "sandbox": [
+      {
+        "version": "Version 2.000",
+        "date": "2026-02-12T01:55:50.953560"
+      }
+    ]
+  },
+  "Betania Patmos GDL": {
+    "sandbox": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-12T01:55:51.226500"
+      }
+    ]
+  },
+  "Betania Patmos": {
+    "sandbox": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-12T01:55:51.393972"
+      }
+    ]
+  },
   "Alyamama": {},
-  "Allkin": {}
+  "Allkin": {
+    "sandbox": [
+      {
+        "version": "Version 1.010",
+        "date": "2026-02-12T01:55:50.841726"
+      }
+    ]
+  },
+  "Bpmf Zihi Kai Std": {},
+  "Bpmf Iansui": {},
+  "Bpmf Huninn": {}
 }
