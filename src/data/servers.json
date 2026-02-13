@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-12",
+    "last_checked": "2026-02-13",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -4440,7 +4440,7 @@
             },
             "Noto Sans Oriya": {
                 "name": "Noto Sans Oriya",
-                "version": "Version 2.006"
+                "version": "Version 2.007"
             },
             "Noto Sans Osage": {
                 "name": "Noto Sans Osage",
@@ -7713,6 +7713,22 @@
             "Ramsina": {
                 "name": "Ramsina",
                 "version": "Version 2.000"
+            },
+            "Alyamama": {
+                "name": "Alyamama",
+                "version": "Version 1.213"
+            },
+            "Bpmf Huninn": {
+                "name": "Bpmf Huninn",
+                "version": "Version 1.610"
+            },
+            "Bpmf Iansui": {
+                "name": "Bpmf Iansui",
+                "version": "Version 1.610"
+            },
+            "Bpmf Zihi Kai Std": {
+                "name": "Bpmf Zihi Kai Std",
+                "version": "Version 1.610"
             }
         },
         "designers": {
@@ -10447,6 +10463,14 @@
             "Supernotes": {
                 "name": "Supernotes",
                 "bio": "Supernotes is the London-based company behind SN Pro, an open-source rounded humanist sans. The company focuses on building an intuitive short-form notes app, emphasizing readability, simplicity, and digital usability. In 2023, Tobias Whetton at Supernotes began developing SN Pro to address typographic challenges in Markdown-heavy environments. Drawing from Nunito, the family was reimagined with refined spacing, carefully adjusted proportions, improved ligature behavior, and expanded support for a wide range of digital contexts. SN Pro reflects Supernotes\u2019 commitment to open-source design and practical, user-focused typography. supernotes.app"
+            },
+            "Yazeed Omar": {
+                "name": "Yazeed Omar",
+                "bio": "Based in Saudi Arabia, he is a Saudi type designer and calligrapher, and the founder of Mestara Type Foundry. A lifelong calligrapher, he designed his first Arabic font at the age of fifteen and has since focused on advancing the quality, craft, and visibility of Arabic typography. Alongside Mestara, he has launched multiple creative ventures, including an educational platform for teaching Arabic calligraphy and an e-commerce initiative providing tools and resources for calligraphers. His work is driven by a commitment to expanding Arabic type culture and enriching the limited ecosystem of high-quality Arabic fonts. mestara.com"
+            },
+            "justfont": {
+                "name": "justfont",
+                "bio": "Established in 2010, justfont is a Taiwan-based new-generation type design and typography education business. Renowned works include the world's first crowdfunded Chinese font Jin Xuan. They also supports various independent type designers in Taiwan, with prominent cases such as Cream Font, Burn Font, Tears Font, and Taiwan Road Font. To promote a better understanding of typography, justfont communicates with their audience through articles, events, lessons, free fonts, and more. They released an open-source character set, jf 7000, to help with the production of Traditional Chinese fonts. Homepage | Blog | Instagram"
             }
         },
         "metadata": {
@@ -32979,7 +33003,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": "Orya",
-                "article": "Noto Sans Oriya is an unmodulated (\u201csans serif\u201d) design for texts in the Indic Odia (Oriya) script. Noto Sans Oriya contains 513 glyphs, 19 OpenType features, and supports 150 characters from 3 Unicode blocks: Oriya, Basic Latin, General Punctuation. Supported writing systems Odia (Oriya) Odia (Oriya, \u0b09\u0b24\u0b4d\u0b15\u0b33 ) is an Indic abugida, written left-to-right (21 million users). Used since the c. 14th century in India for the Odia language (state language of Orissa). Also used for Dravidian and Munda languages. Needs software support for complex text layout (shaping). Read more on ScriptSource , Unicode , Wikipedia , Wiktionary , r12a .",
+                "article": "Noto Sans Oriya is an unmodulated (\u201csans serif\u201d) design for texts in the Indic Odia (Oriya) script. Noto Sans Oriya contains 513 glyphs, 19 OpenType features, and supports 150 characters from 3 Unicode blocks: Oriya, Basic Latin, General Punctuation. Supported writing systems Odia (Oriya) Odia (Oriya, \u0b09\u0b24\u0b4d\u0b15\u0b33) is an Indic abugida, written left-to-right (21 million users). Used since the c. 14th century in India for the Odia language (state language of Orissa). Also used for Dravidian and Munda languages. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
                 "minisite_url": null
             },
             "Noto Sans Osage": {
@@ -49669,6 +49693,86 @@
                 "description": null,
                 "primary_script": "Syrc",
                 "article": "Ramsina is a font family for the East Syriac script. The font was designed as a close revival, or facsimile, of metal type cut in India from around 1920. To contribute, see github.com/silnrsi/font-ramsina.",
+                "minisite_url": null
+            },
+            "Alyamama": {
+                "name": "Alyamama",
+                "designer": [
+                    "Yazeed Omar"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "arabic",
+                    "greek",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Arab",
+                "article": "Alyamama, is a variable Arabic typeface with a classic Naskh design with sharp, simple strokes that provide clarity and refined contrast, making it suitable for advertising, signage, and for both headlines and body text. The Latin glyphs are based on the open-source typeface UNAL Anc\u00edzar. Alyamama project is led by Mestara Type a type foundry specialized in creating and designing Arabic typefaces. Founded by a professional calligrapher and designer, Mestara aims to reflect the beauty, and modernity while respecting traditional calligraphic principles. To contribute, see github.com/MestaraType/AlYamama.",
+                "minisite_url": null
+            },
+            "Bpmf Huninn": {
+                "name": "Bpmf Huninn",
+                "designer": [
+                    "But Ko",
+                    "justfont"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
+                "minisite_url": null
+            },
+            "Bpmf Iansui": {
+                "name": "Bpmf Iansui",
+                "designer": [
+                    "But Ko"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
+                "minisite_url": null
+            },
+            "Bpmf Zihi Kai Std": {
+                "name": "Bpmf Zihi Kai Std",
+                "designer": [
+                    "But Ko"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
                 "minisite_url": null
             }
         },
