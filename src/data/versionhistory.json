@@ -6114,6 +6114,10 @@
       {
         "version": "Version 2.001",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 2.002",
+        "date": "2026-02-18T01:55:38.720758"
       }
     ]
   },
@@ -15420,6 +15424,10 @@
       {
         "version": "Version 2.000",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 2.001",
+        "date": "2026-02-18T01:55:38.440472"
       }
     ]
   },
@@ -41153,6 +41161,12 @@
         "version": "Version 2.000; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2025-12-05T01:54:24.080635"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 2.000; ttfautohint (v1.8.4.7-5d5b)",
+        "date": "2026-02-18T01:55:39.320866"
+      }
     ]
   },
   "Geom": {
@@ -41315,6 +41329,12 @@
         "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-02-12T01:55:50.539895"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-18T01:55:38.492380"
+      }
     ]
   },
   "Idiqlat": {
@@ -41322,6 +41342,12 @@
       {
         "version": "Version 2.000",
         "date": "2026-02-12T01:55:50.722757"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 2.000",
+        "date": "2026-02-18T01:55:39.250127"
       }
     ]
   },
@@ -41332,6 +41358,12 @@
         "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-02-12T01:55:50.866511"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-18T01:55:39.009038"
+      }
     ]
   },
   "Ramsina": {
@@ -41339,6 +41371,12 @@
       {
         "version": "Version 2.000",
         "date": "2026-02-12T01:55:50.953560"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 2.000",
+        "date": "2026-02-18T01:55:39.065859"
       }
     ]
   },
@@ -41348,6 +41386,12 @@
         "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-02-12T01:55:51.226500"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-18T01:55:38.655220"
+      }
     ]
   },
   "Betania Patmos": {
@@ -41355,6 +41399,12 @@
       {
         "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-02-12T01:55:51.393972"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-02-18T01:55:38.666952"
       }
     ]
   },

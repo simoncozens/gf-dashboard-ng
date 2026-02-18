@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-17",
+    "last_checked": "2026-02-18",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -54175,7 +54175,7 @@
             },
             "Ma Shan Zheng": {
                 "name": "Ma Shan Zheng",
-                "version": "Version 2.001"
+                "version": "Version 2.002"
             },
             "Macondo": {
                 "name": "Macondo",
@@ -58115,7 +58115,7 @@
             },
             "ZCOOL KuaiLe": {
                 "name": "ZCOOL KuaiLe",
-                "version": "Version 2.000"
+                "version": "Version 2.001"
             },
             "ZCOOL QingKe HuangYou": {
                 "name": "ZCOOL QingKe HuangYou",
@@ -58480,6 +58480,34 @@
             "SN Pro": {
                 "name": "SN Pro",
                 "version": "Version 1.005"
+            },
+            "Betania Patmos": {
+                "name": "Betania Patmos",
+                "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Betania Patmos GDL": {
+                "name": "Betania Patmos GDL",
+                "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Betania Patmos In": {
+                "name": "Betania Patmos In",
+                "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Betania Patmos In GDL": {
+                "name": "Betania Patmos In GDL",
+                "version": "Version 11.002; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Gveret Levin": {
+                "name": "Gveret Levin",
+                "version": "Version 2.000; ttfautohint (v1.8.4.7-5d5b)"
+            },
+            "Idiqlat": {
+                "name": "Idiqlat",
+                "version": "Version 2.000"
+            },
+            "Ramsina": {
+                "name": "Ramsina",
+                "version": "Version 2.000"
             }
         },
         "designers": {
@@ -61206,6 +61234,10 @@
             "Supernotes": {
                 "name": "Supernotes",
                 "bio": "Supernotes is the London-based company behind SN Pro, an open-source rounded humanist sans. The company focuses on building an intuitive short-form notes app, emphasizing readability, simplicity, and digital usability. In 2023, Tobias Whetton at Supernotes began developing SN Pro to address typographic challenges in Markdown-heavy environments. Drawing from Nunito, the family was reimagined with refined spacing, carefully adjusted proportions, improved ligature behavior, and expanded support for a wide range of digital contexts. SN Pro reflects Supernotes\u2019 commitment to open-source design and practical, user-focused typography. supernotes.app"
+            },
+            "AlefAlefAlef": {
+                "name": "AlefAlefAlef",
+                "bio": "Based in Tel Aviv, AlefAlefAlef is a leading Hebrew type foundry and design collective founded by Avraham Cornfeld. Since 2012, AlefAlefAlef has shaped contemporary Hebrew visual culture through original typefaces, editorial projects, and community initiatives. Their typefaces are used across major Israeli institutions, cultural organizations, tech companies, and global brands working in Hebrew and Latin. alefalefalef.co.il"
             }
         },
         "metadata": {
@@ -78341,7 +78373,7 @@
                 "classifications": [
                     "handwriting"
                 ],
-                "description": "This script is reminiscent of fonts used to display \"yinglian,\" the short poems and blessings traditionally posted on either side of the entryway to a home or temple. MaShanZheng is heavy and majestic, vital and expansive.",
+                "description": "This script is reminiscent of fonts used to display \"yinglian,\" the short poems and blessings traditionally posted on either side of the entryway to a home or temple. MaShanZheng is heavy and majestic, vital and expansive. To contribute, please visit github.com/googlefonts/mashanzheng.",
                 "primary_script": "Hans",
                 "article": null,
                 "minisite_url": null
@@ -98304,7 +98336,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "ZCool Kuaile was created by a team of font design trainees under the leadership of typographer Liu Bingke. First, Liu created the character shape framework and design standards; then, a group of over 100 typography apprentices participated in building out the character set. Finally, Liu and other designers from his workshop, including Yang Kang and Wu Shaojie, edited and adjusted the characters to unify the design.",
+                "description": "ZCool Kuaile was created by a team of font design trainees under the leadership of typographer Liu Bingke. First, Liu created the character shape framework and design standards; then, a group of over 100 typography apprentices participated in building out the character set. Finally, Liu and other designers from his workshop, including Yang Kang and Wu Shaojie, edited and adjusted the characters to unify the design. To contribute to the ZCool Kuaile project, please visit github.com/googlefonts/zcool-kuaile.",
                 "primary_script": "Hans",
                 "article": null,
                 "minisite_url": null
@@ -100170,6 +100202,143 @@
                 "description": null,
                 "primary_script": null,
                 "article": "SN Pro is a friendly sans serif typeface optimized for use with Markdown. It is based on Nunito by Vernon Adams, and each character has been re-worked to improve readability and usability within a Markdown context. Originally designed by and for Supernotes. To contribute, see github.com/supernotes/sn-pro",
+                "minisite_url": null
+            },
+            "Betania Patmos": {
+                "name": "Betania Patmos",
+                "designer": [
+                    "Carolina Giovagnoli"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Betania Patmos is a contemporary handwriting model designed specifically for literacy education. Its austere morphology emphasizes the essential ductus of each letter, reducing visual ambiguity and supporting clear recognition rather than decorative expression. Conceived as a practical teaching tool rather than a display typeface, BP is built for simplicity and accessibility: its OpenType features rely on contextual alternates inspired by Rosalie Wagner\u2019s Borel, ensuring full compatibility with common word-processing software such as LibreOffice, Microsoft Office, or basic text editors. Developed through an interdisciplinary collaboration with teachers, pedagogues, and educational technology specialists, BP reflects the needs of both educators and learners. Its slightly condensed proportions enhance reading efficiency by improving word density per line and page. To contribute, see github.com/huertatipografica/betania-patmos.",
+                "minisite_url": null
+            },
+            "Betania Patmos GDL": {
+                "name": "Betania Patmos GDL",
+                "designer": [
+                    "Carolina Giovagnoli"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Betania Patmos is a contemporary handwriting model designed specifically for literacy education. Its austere morphology emphasizes the essential ductus of each letter, reducing visual ambiguity and supporting clear recognition rather than decorative expression. Conceived as a practical teaching tool rather than a display typeface, BP is built for simplicity and accessibility: its OpenType features rely on contextual alternates inspired by Rosalie Wagner\u2019s Borel, ensuring full compatibility with common word-processing software such as LibreOffice, Microsoft Office, or basic text editors. Developed through an interdisciplinary collaboration with teachers, pedagogues, and educational technology specialists, BP reflects the needs of both educators and learners. Its slightly condensed proportions enhance reading efficiency by improving word density per line and page. Betania Patmos Guideline is the version of Betania Patmos with lines designed to support handwriting practice. To contribute, see github.com/huertatipografica/betania-patmos.",
+                "minisite_url": null
+            },
+            "Betania Patmos In": {
+                "name": "Betania Patmos In",
+                "designer": [
+                    "Carolina Giovagnoli"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Betania Patmos is a contemporary handwriting model designed specifically for literacy education. Its austere morphology emphasizes the essential ductus of each letter, reducing visual ambiguity and supporting clear recognition rather than decorative expression. Conceived as a practical teaching tool rather than a display typeface, BP is built for simplicity and accessibility: its OpenType features rely on contextual alternates inspired by Rosalie Wagner\u2019s Borel, ensuring full compatibility with common word-processing software such as LibreOffice, Microsoft Office, or basic text editors. Developed through an interdisciplinary collaboration with teachers, pedagogues, and educational technology specialists, BP reflects the needs of both educators and learners. Its slightly condensed proportions enhance reading efficiency by improving word density per line and page. Betania Patmos In is the version of Betania Patmos with some alternatives (the round letters a, c, d, g, q have an entry stroke at the init or when isolated). To contribute, see github.com/huertatipografica/betania-patmos.",
+                "minisite_url": null
+            },
+            "Betania Patmos In GDL": {
+                "name": "Betania Patmos In GDL",
+                "designer": [
+                    "Carolina Giovagnoli"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Betania Patmos is a contemporary handwriting model designed specifically for literacy education. Its austere morphology emphasizes the essential ductus of each letter, reducing visual ambiguity and supporting clear recognition rather than decorative expression. Conceived as a practical teaching tool rather than a display typeface, BP is built for simplicity and accessibility: its OpenType features rely on contextual alternates inspired by Rosalie Wagner\u2019s Borel, ensuring full compatibility with common word-processing software such as LibreOffice, Microsoft Office, or basic text editors. Developed through an interdisciplinary collaboration with teachers, pedagogues, and educational technology specialists, BP reflects the needs of both educators and learners. Its slightly condensed proportions enhance reading efficiency by improving word density per line and page. Betania Patmos Guideline In is the version of Betania Patmos with lines designed to support handwriting practice. To contribute, see github.com/huertatipografica/betania-patmos.",
+                "minisite_url": null
+            },
+            "Gveret Levin": {
+                "name": "Gveret Levin",
+                "designer": [
+                    "AlefAlefAlef"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "hebrew",
+                    "latin"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting",
+                    "display"
+                ],
+                "description": null,
+                "primary_script": "Hebr",
+                "article": "A smooth and elegant Hebrew handwriting font by AlefAlefAlef, inspired by Gili Levin's natural, flowing penmanship. Digitized with precision by Shavit Yaakov and Avraham Cornfeld, the font features Hebrew characters, numerals, and essential symbols, making it both versatile and delightful to use. To contribute, see github.com/AlefAlefAlef/gveret-levin.",
+                "minisite_url": null
+            },
+            "Idiqlat": {
+                "name": "Idiqlat",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "latin",
+                    "syriac"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Syrc",
+                "article": "The Idiqlat font supports the East Syriac style of the Syriac script. The font has support for glyph alternates, ligatures, and diacritics that the East Syriac style requires. The design of the font is a resized and modernized revival of metal type cut in India from around 1920. The font name, Idiqlat, means \u201cTigris River\u201d in ancient Akkadian/Assyrian. The emphasis is on the first syllable: EE-dee-klat. The East Syriac style is used primarily by the Assyrians (Church of the East) and Chaldeans. It is also used by the Syrian Orthodox in headings of texts. To contribute, see github.com/silnrsi/font-idiqlat.",
+                "minisite_url": null
+            },
+            "Ramsina": {
+                "name": "Ramsina",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "latin",
+                    "syriac"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Syrc",
+                "article": "Ramsina is a font family for the East Syriac script. The font was designed as a close revival, or facsimile, of metal type cut in India from around 1920. To contribute, see github.com/silnrsi/font-ramsina.",
                 "minisite_url": null
             }
         },
