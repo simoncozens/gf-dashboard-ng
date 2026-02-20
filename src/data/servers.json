@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-19",
+    "last_checked": "2026-02-20",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -55195,7 +55195,7 @@
             },
             "Noto Sans Oriya": {
                 "name": "Noto Sans Oriya",
-                "version": "Version 2.006"
+                "version": "Version 2.007"
             },
             "Noto Sans Osage": {
                 "name": "Noto Sans Osage",
@@ -56735,7 +56735,7 @@
             },
             "Roboto": {
                 "name": "Roboto",
-                "version": "Version 3.009; 2024"
+                "version": "Version 3.015; 2026"
             },
             "Roboto Condensed": {
                 "name": "Roboto Condensed",
@@ -58508,6 +58508,26 @@
             "Ramsina": {
                 "name": "Ramsina",
                 "version": "Version 2.000"
+            },
+            "Allkin": {
+                "name": "Allkin",
+                "version": "Version 1.010"
+            },
+            "Alyamama": {
+                "name": "Alyamama",
+                "version": "Version 1.213"
+            },
+            "Bpmf Huninn": {
+                "name": "Bpmf Huninn",
+                "version": "Version 1.610"
+            },
+            "Bpmf Iansui": {
+                "name": "Bpmf Iansui",
+                "version": "Version 1.610"
+            },
+            "Bpmf Zihi Kai Std": {
+                "name": "Bpmf Zihi Kai Std",
+                "version": "Version 1.610"
             }
         },
         "designers": {
@@ -59409,7 +59429,7 @@
             },
             "Monotype Imaging Inc.": {
                 "name": "Monotype Imaging Inc.",
-                "bio": null
+                "bio": "Monotype Imaging Inc. is a leader in the field of type design and technology across the globe. Monotype specializes in the design, development, licensing, and management of typefaces and font technologies for creative professionals and businesses. www.monotype.com"
             },
             "Meir Sadan": {
                 "name": "Meir Sadan",
@@ -61238,6 +61258,14 @@
             "AlefAlefAlef": {
                 "name": "AlefAlefAlef",
                 "bio": "Based in Tel Aviv, AlefAlefAlef is a leading Hebrew type foundry and design collective founded by Avraham Cornfeld. Since 2012, AlefAlefAlef has shaped contemporary Hebrew visual culture through original typefaces, editorial projects, and community initiatives. Their typefaces are used across major Israeli institutions, cultural organizations, tech companies, and global brands working in Hebrew and Latin. alefalefalef.co.il"
+            },
+            "Yazeed Omar": {
+                "name": "Yazeed Omar",
+                "bio": "Based in Saudi Arabia, he is a Saudi type designer and calligrapher, and the founder of Mestara Type Foundry. A lifelong calligrapher, he designed his first Arabic font at the age of fifteen and has since focused on advancing the quality, craft, and visibility of Arabic typography. Alongside Mestara, he has launched multiple creative ventures, including an educational platform for teaching Arabic calligraphy and an e-commerce initiative providing tools and resources for calligraphers. His work is driven by a commitment to expanding Arabic type culture and enriching the limited ecosystem of high-quality Arabic fonts. mestara.com"
+            },
+            "justfont": {
+                "name": "justfont",
+                "bio": "Established in 2010, justfont is a Taiwan-based new-generation type design and typography education business. Renowned works include the world's first crowdfunded Chinese font Jin Xuan. They also supports various independent type designers in Taiwan, with prominent cases such as Cream Font, Burn Font, Tears Font, and Taiwan Road Font. To promote a better understanding of typography, justfont communicates with their audience through articles, events, lessons, free fonts, and more. They released an open-source character set, jf 7000, to help with the production of Traditional Chinese fonts. Homepage | Blog | Instagram"
             }
         },
         "metadata": {
@@ -83437,7 +83465,7 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": "Orya",
-                "article": "Noto Sans Oriya is an unmodulated (\u201csans serif\u201d) design for texts in the Indic Odia (Oriya) script. Noto Sans Oriya contains 513 glyphs, 19 OpenType features, and supports 150 characters from 3 Unicode blocks: Oriya, Basic Latin, General Punctuation. Supported writing systems Odia (Oriya) Odia (Oriya, \u0b09\u0b24\u0b4d\u0b15\u0b33 ) is an Indic abugida, written left-to-right (21 million users). Used since the c. 14th century in India for the Odia language (state language of Orissa). Also used for Dravidian and Munda languages. Needs software support for complex text layout (shaping). Read more on ScriptSource , Unicode , Wikipedia , Wiktionary , r12a .",
+                "article": "Noto Sans Oriya is an unmodulated (\u201csans serif\u201d) design for texts in the Indic Odia (Oriya) script. Noto Sans Oriya contains 513 glyphs, 19 OpenType features, and supports 150 characters from 3 Unicode blocks: Oriya, Basic Latin, General Punctuation. Supported writing systems Odia (Oriya) Odia (Oriya, \u0b09\u0b24\u0b4d\u0b15\u0b33) is an Indic abugida, written left-to-right (21 million users). Used since the c. 14th century in India for the Odia language (state language of Orissa). Also used for Dravidian and Munda languages. Needs software support for complex text layout (shaping). Read more on ScriptSource, Unicode, Wikipedia, Wiktionary, r12a.",
                 "minisite_url": null
             },
             "Noto Sans Osage": {
@@ -91113,7 +91141,7 @@
                 "name": "Roboto",
                 "designer": [
                     "Christian Robertson",
-                    "Paratype",
+                    "ParaType",
                     "Font Bureau"
                 ],
                 "license": "ofl",
@@ -100339,6 +100367,103 @@
                 "description": null,
                 "primary_script": "Syrc",
                 "article": "Ramsina is a font family for the East Syriac script. The font was designed as a close revival, or facsimile, of metal type cut in India from around 1920. To contribute, see github.com/silnrsi/font-ramsina.",
+                "minisite_url": null
+            },
+            "Allkin": {
+                "name": "Allkin",
+                "designer": [
+                    "Monotype Imaging Inc."
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [],
+                "stroke": null,
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Allkin is a free, open-source hand-based symbol language, available as artwork via The Noun Project and as a font via Google Fonts and Monotype Fonts. Allkin means all human connection. To contribute, see github.com/googlefonts/allkin. The system contains 195 hand gestures \u2014 aligned to the 193 UN member states plus two observer states. Symbols are organised into categories: fundamental needs, social signs, emotional indicators, and conflict and peace advisories. Combined, they enable expressive, purpose-driven communication that informs and encourages peaceful resolution. Creating a universal system is no small task \u2014 and yes, a risky one. A gesture in one culture may mean something else entirely in another. Allkin embraces these differences, offering multiple gestures for shared meanings. We ask you to use the tool respectfully \u2014 and to contribute. As an open-source project, Allkin invites collaboration and dialogue. Access the GitHub repository (link) and expand the design space. Cultivate the differences that make our world so rich, and our nations so unique. Sizing icons. Icons are optimized for visual efficiency, employing minimal detail to ensure strong recognition and impact. For optimal legibility and emphasis, they should be displayed at a relatively large scale\u2014ideally approximating the physical dimensions of a human hand. Key features. Although certain hand gestures are uniquely illustrated to convey specific meanings, the icon set functions as a cohesive system, crafted with the same rigor as a typeface. Parameters such as finger thickness, white line gaps between fingers, and overall hand proportions have been meticulously standardized across all icons. The design achieves a precise balance between geometric simplification and anthropomorphic fidelity. This human quality is preserved by maintaining proportions\u2014fingers, palm, and gestures\u2014close to real hands, avoiding caricature or excessive abstraction Expressing messages. Each icon carries an individual semantic value while belonging to a defined category within the system. Certain icons are reused but convey different messages, reflecting the way hand gestures function in real-life communication. For example, the \u2018Yes\u2019, \u2018Thank you\u2019 and \u2018One\u2019 gestures share the same base form: a thumbs-up. Additionally, icons can be combined to construct composite messages, such as those symbolizing peace, as shown in the following pages. Symbol. This symbol is a stand against conflict. A signal to the world: I will not engage in violence. Wear it. Share it. Post it. Whatever the situation, it declares: I stand for peace and resolution through collaboration.",
+                "minisite_url": "https://typetrends.monotype.com/fr/peace-conflict"
+            },
+            "Alyamama": {
+                "name": "Alyamama",
+                "designer": [
+                    "Yazeed Omar"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "arabic",
+                    "greek",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Arab",
+                "article": "Alyamama, is a variable Arabic typeface with a classic Naskh design with sharp, simple strokes that provide clarity and refined contrast, making it suitable for advertising, signage, and for both headlines and body text. The Latin glyphs are based on the open-source typeface UNAL Anc\u00edzar. Alyamama project is led by Mestara Type a type foundry specialized in creating and designing Arabic typefaces. Founded by a professional calligrapher and designer, Mestara aims to reflect the beauty, and modernity while respecting traditional calligraphic principles. To contribute, see github.com/MestaraType/AlYamama.",
+                "minisite_url": null
+            },
+            "Bpmf Huninn": {
+                "name": "Bpmf Huninn",
+                "designer": [
+                    "But Ko",
+                    "justfont"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
+                "minisite_url": null
+            },
+            "Bpmf Iansui": {
+                "name": "Bpmf Iansui",
+                "designer": [
+                    "But Ko"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "handwriting"
+                ],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
+                "minisite_url": null
+            },
+            "Bpmf Zihi Kai Std": {
+                "name": "Bpmf Zihi Kai Std",
+                "designer": [
+                    "But Ko"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "chinese-traditional",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Hant",
+                "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
                 "minisite_url": null
             }
         },
