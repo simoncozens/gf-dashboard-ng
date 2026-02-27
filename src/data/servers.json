@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-26",
+    "last_checked": "2026-02-27",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -4228,7 +4228,7 @@
             },
             "Noto Sans Kannada": {
                 "name": "Noto Sans Kannada",
-                "version": "Version 2.005"
+                "version": "Version 2.006"
             },
             "Noto Sans Kawi": {
                 "name": "Noto Sans Kawi",
@@ -7729,6 +7729,10 @@
             "Bpmf Zihi Kai Std": {
                 "name": "Bpmf Zihi Kai Std",
                 "version": "Version 1.610"
+            },
+            "Datatype": {
+                "name": "Datatype",
+                "version": "Version 1.202"
             }
         },
         "designers": {
@@ -10471,6 +10475,10 @@
             "justfont": {
                 "name": "justfont",
                 "bio": "Established in 2010, justfont is a Taiwan-based new-generation type design and typography education business. Renowned works include the world's first crowdfunded Chinese font Jin Xuan. They also supports various independent type designers in Taiwan, with prominent cases such as Cream Font, Burn Font, Tears Font, and Taiwan Road Font. To promote a better understanding of typography, justfont communicates with their audience through articles, events, lessons, free fonts, and more. They released an open-source character set, jf 7000, to help with the production of Traditional Chinese fonts. Homepage | Blog | Instagram"
+            },
+            "Frank Tisellano": {
+                "name": "Frank Tisellano",
+                "bio": null
             }
         },
         "metadata": {
@@ -49774,6 +49782,26 @@
                 "primary_script": "Hant",
                 "article": "This project provides Bopomofo (Zhuyin) enabled variants of Traditional Chinese typefaces, implementing the Bopomofo IVS Font Specification (bpmfvs) developed by ButTaiwan and particularly intended for use with buttaiwan.github.io/bpmfvs/. Unlike traditional Bopomofo fonts that require separate font files for different pronunciations, these fonts utilize Ideographic Variation Sequences (IVS) and GSUB features to support polyphonic characters within a single font file. This allows users to seamlessly add pronunciation guides while maintaining the same typeface. To contribute to this project, please visit github.com/ButTaiwan/bpmfvs",
                 "minisite_url": null
+            },
+            "Datatype": {
+                "name": "Datatype",
+                "designer": [
+                    "Frank Tisellano"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "- in progress- This font includes glyphs from IBM Plex\u2122 Mono: Copyright 2017 IBM Corp. with Reserved Font Name \"Plex\" To contribute, see github.com/franktisellano/datatype.",
+                "minisite_url": "https://franktisellano.github.io/datatype"
             }
         },
         "axisregistry": {
