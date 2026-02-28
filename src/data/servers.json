@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-02-27",
+    "last_checked": "2026-02-28",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -1296,7 +1296,7 @@
             },
             "Climate Crisis": {
                 "name": "Climate Crisis",
-                "version": "Version 1.003"
+                "version": "Version 1.007"
             },
             "Coda": {
                 "name": "Coda",
@@ -7733,6 +7733,18 @@
             "Datatype": {
                 "name": "Datatype",
                 "version": "Version 1.202"
+            },
+            "Crispy": {
+                "name": "Crispy",
+                "version": "Version 1.100"
+            },
+            "Iosevka Charon": {
+                "name": "Iosevka Charon",
+                "version": "Version 34.100"
+            },
+            "Iosevka Charon Mono": {
+                "name": "Iosevka Charon Mono",
+                "version": "Version 34.100"
             }
         },
         "designers": {
@@ -10479,6 +10491,14 @@
             "Frank Tisellano": {
                 "name": "Frank Tisellano",
                 "bio": null
+            },
+            "UNKNOWN": {
+                "name": "UNKNOWN",
+                "bio": null
+            },
+            "Juliette Pluto": {
+                "name": "Juliette Pluto",
+                "bio": "Based in New York City, Juliette is a researcher at Google DeepMind specializing in machine learning adversarial robustness. Typography is a primary passion project for her, serving as a creative extension of her technical background. Her work in type design explores the intersection of functional aesthetics and the rigorous precision required for modern computing environments. jul.sh"
             }
         },
         "metadata": {
@@ -17049,6 +17069,8 @@
                 "license": "ofl",
                 "category": "DISPLAY",
                 "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
                     "latin",
                     "latin-ext"
                 ],
@@ -49802,6 +49824,83 @@
                 "primary_script": null,
                 "article": "- in progress- This font includes glyphs from IBM Plex\u2122 Mono: Copyright 2017 IBM Corp. with Reserved Font Name \"Plex\" To contribute, see github.com/franktisellano/datatype.",
                 "minisite_url": "https://franktisellano.github.io/datatype"
+            },
+            "Crispy": {
+                "name": "Crispy",
+                "designer": [
+                    "UNKNOWN"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": "N/A",
+                "primary_script": null,
+                "article": null,
+                "minisite_url": null
+            },
+            "Iosevka Charon": {
+                "name": "Iosevka Charon",
+                "designer": [
+                    "Juliette Pluto"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "armenian",
+                    "braille",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "math",
+                    "symbols",
+                    "symbols2",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Iosevka Charon is a quasi-proportional font excellent for technical writing and dense UI. Iosevka Charon Mono is a true monospace font tuned for coding and terminal use. These font families are unique derivatives of Iosevka (an open source font project) by be5invis; built in a manner that makes the resulting fonts Google Fonts compliant. To contribute, please see github.com/jul-sh/iosevka-charon.",
+                "minisite_url": null
+            },
+            "Iosevka Charon Mono": {
+                "name": "Iosevka Charon Mono",
+                "designer": [
+                    "Juliette Pluto"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "armenian",
+                    "braille",
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "math",
+                    "symbols",
+                    "symbols2",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Iosevka Charon is a quasi-proportional font excellent for technical writing and dense UI. Iosevka Charon Mono is a true monospace font tuned for coding and terminal use. These font families are unique derivatives of Iosevka (an open source font project) by be5invis; built in a manner that makes the resulting fonts Google Fonts compliant. To contribute, please see github.com/jul-sh/iosevka-charon.",
+                "minisite_url": null
             }
         },
         "axisregistry": {
