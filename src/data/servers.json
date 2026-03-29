@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-03-28",
+    "last_checked": "2026-03-29",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -1424,7 +1424,7 @@
             },
             "Coustard": {
                 "name": "Coustard",
-                "version": "Version 1.001"
+                "version": "Version 1.100; ttfautohint (v1.8.4.16-eb64)"
             },
             "Covered By Your Grace": {
                 "name": "Covered By Your Grace",
@@ -7628,7 +7628,7 @@
             },
             "Google Sans Flex": {
                 "name": "Google Sans Flex",
-                "version": "Version 4.001;[ce99e77f6]"
+                "version": "Version 4.004;[ec96fb33c]"
             },
             "Google Sans": {
                 "name": "Google Sans",
@@ -7749,6 +7749,10 @@
             "Miranda Sans": {
                 "name": "Miranda Sans",
                 "version": "Version 1.000"
+            },
+            "Saira Stencil": {
+                "name": "Saira Stencil",
+                "version": "Version 1.101"
             }
         },
         "designers": {
@@ -17741,7 +17745,8 @@
                 "license": "ofl",
                 "category": "SERIF",
                 "subsets": [
-                    "latin"
+                    "latin",
+                    "latin-ext"
                 ],
                 "stroke": "SERIF",
                 "classifications": [],
@@ -49926,6 +49931,28 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Miranda Sans is a contemporary sans serif typeface designed with a clear focus on readability on screens. It is built for text that needs to be read, not noticed, with calm proportions, open shapes, and carefully balanced spacing that holds up across sizes, weights, and long passages of content. To contribute, see github.com/maxthunberg/miranda-sans. The design avoids unnecessary stylistic gestures and instead concentrates on clarity, rhythm, and consistency. Each letter is shaped to work as part of a system, supporting words and sentences rather than drawing attention to itself. The result is a typeface that feels stable, neutral, and dependable, particularly in digital environments where legibility matters most. Miranda Sans was developed with variable font technology in mind, allowing it to adapt smoothly across weights while maintaining a consistent visual voice. The typeface is named after the designer's favorite person in the world, his sister Miranda. What words sometimes fail to express, letters might. The family currently includes multiple weights from Regular to Bold, with matching italics, and is designed to perform consistently across both screen and print environments.",
+                "minisite_url": null
+            },
+            "Saira Stencil": {
+                "name": "Saira Stencil",
+                "designer": [
+                    "Hector Gatti",
+                    "Omnibus-Type"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Saira Stencil is the cut variant of the Saira typeface family. It retains the core structure of its predecessor but is defined by the strategic addition of precise cuts\u2014some logically placed, others deliberately offbeat. This intervention creates a typeface that is both sharp and visually striking, making it an optimal choice for titles, branding, and logotypes where a bold, memorable impression is required. It was designed by H\u00e9ctor Gatti and developed by the Omnibus-Type Team. Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by H\u00e9ctor Gatti. The character sets were later completed by the Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira.",
                 "minisite_url": null
             }
         },
