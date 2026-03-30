@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-03-29",
+    "last_checked": "2026-03-30",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -2304,7 +2304,7 @@
             },
             "Grenze": {
                 "name": "Grenze",
-                "version": "Version 1.002; ttfautohint (v1.8)"
+                "version": "Version 1.003"
             },
             "Grenze Gotisch": {
                 "name": "Grenze Gotisch",
@@ -3652,7 +3652,7 @@
             },
             "Mingzat": {
                 "name": "Mingzat",
-                "version": "Version 1.100"
+                "version": "Version 1.200"
             },
             "Miniver": {
                 "name": "Miniver",
@@ -7528,15 +7528,15 @@
             },
             "Zalando Sans": {
                 "name": "Zalando Sans",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "Zalando Sans Expanded": {
                 "name": "Zalando Sans Expanded",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "Zalando Sans SemiExpanded": {
                 "name": "Zalando Sans SemiExpanded",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "Cossette Texte": {
                 "name": "Cossette Texte",
@@ -7753,6 +7753,10 @@
             "Saira Stencil": {
                 "name": "Saira Stencil",
                 "version": "Version 1.101"
+            },
+            "BJ Cree": {
+                "name": "BJ Cree",
+                "version": "Version 7.000"
             }
         },
         "designers": {
@@ -48808,7 +48812,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -48828,7 +48833,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -48848,7 +48854,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -49953,6 +49960,24 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Saira Stencil is the cut variant of the Saira typeface family. It retains the core structure of its predecessor but is defined by the strategic addition of precise cuts\u2014some logically placed, others deliberately offbeat. This intervention creates a typeface that is both sharp and visually striking, making it an optimal choice for titles, branding, and logotypes where a bold, memorable impression is required. It was designed by H\u00e9ctor Gatti and developed by the Omnibus-Type Team. Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by H\u00e9ctor Gatti. The character sets were later completed by the Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira.",
+                "minisite_url": null
+            },
+            "BJ Cree": {
+                "name": "BJ Cree",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "canadian-aboriginal",
+                    "latin"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Cans",
+                "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
                 "minisite_url": null
             }
         },
