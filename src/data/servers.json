@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-04-02",
+    "last_checked": "2026-04-03",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -52416,7 +52416,7 @@
             },
             "Coustard": {
                 "name": "Coustard",
-                "version": "Version 1.001"
+                "version": "Version 1.100; ttfautohint (v1.8.4.16-eb64)"
             },
             "Covered By Your Grace": {
                 "name": "Covered By Your Grace",
@@ -53284,7 +53284,7 @@
             },
             "Grenze": {
                 "name": "Grenze",
-                "version": "Version 1.002; ttfautohint (v1.8)"
+                "version": "Version 1.003"
             },
             "Grenze Gotisch": {
                 "name": "Grenze Gotisch",
@@ -54612,7 +54612,7 @@
             },
             "Mingzat": {
                 "name": "Mingzat",
-                "version": "Version 1.100"
+                "version": "Version 1.200"
             },
             "Miniver": {
                 "name": "Miniver",
@@ -58568,15 +58568,15 @@
             },
             "Zalando Sans": {
                 "name": "Zalando Sans",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "Zalando Sans Expanded": {
                 "name": "Zalando Sans Expanded",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "Zalando Sans SemiExpanded": {
                 "name": "Zalando Sans SemiExpanded",
-                "version": "Version 1.700"
+                "version": "Version 1.800"
             },
             "BBH Sans Bartle": {
                 "name": "BBH Sans Bartle",
@@ -58624,7 +58624,7 @@
             },
             "Google Sans Flex": {
                 "name": "Google Sans Flex",
-                "version": "Version 3.007;[58cd9cb9b]"
+                "version": "Version 4.004;[ec96fb33c]"
             },
             "Kedebideri": {
                 "name": "Kedebideri",
@@ -58745,6 +58745,18 @@
             "Iosevka Charon Mono": {
                 "name": "Iosevka Charon Mono",
                 "version": "Version 34.100"
+            },
+            "BJ Cree": {
+                "name": "BJ Cree",
+                "version": "Version 7.000"
+            },
+            "Miranda Sans": {
+                "name": "Miranda Sans",
+                "version": "Version 1.000"
+            },
+            "Saira Stencil": {
+                "name": "Saira Stencil",
+                "version": "Version 1.101"
             }
         },
         "designers": {
@@ -61491,6 +61503,10 @@
             "Juliette Pluto": {
                 "name": "Juliette Pluto",
                 "bio": "Based in New York City, Juliette is a researcher at Google DeepMind specializing in machine learning adversarial robustness. Typography is a primary passion project for her, serving as a creative extension of her technical background. Her work in type design explores the intersection of functional aesthetics and the rigorous precision required for modern computing environments. jul.sh"
+            },
+            "Max Thunberg": {
+                "name": "Max Thunberg",
+                "bio": "Max Thunberg is a type designer and UX design lead based in Gothenburg, Sweden. His work focuses on creating functional, readable typefaces for digital environments, with an emphasis on clarity, consistency and usability. Alongside his type design practice, he has worked in user-centered design on complex digital products, shaping systems and interfaces since 2018. maxthunberg.com"
             }
         },
         "metadata": {
@@ -68559,7 +68575,8 @@
                 "license": "ofl",
                 "category": "SERIF",
                 "subsets": [
-                    "latin"
+                    "latin",
+                    "latin-ext"
                 ],
                 "stroke": "SERIF",
                 "classifications": [],
@@ -99855,7 +99872,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -99875,7 +99893,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -99895,7 +99914,8 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -100771,6 +100791,64 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Iosevka Charon is a quasi-proportional font excellent for technical writing and dense UI. Iosevka Charon Mono is a true monospace font tuned for coding and terminal use. These font families are unique derivatives of Iosevka (an open source font project) by be5invis; built in a manner that makes the resulting fonts Google Fonts compliant. To contribute, please see github.com/jul-sh/iosevka-charon.",
+                "minisite_url": null
+            },
+            "BJ Cree": {
+                "name": "BJ Cree",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "canadian-aboriginal",
+                    "latin"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Cans",
+                "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
+                "minisite_url": null
+            },
+            "Miranda Sans": {
+                "name": "Miranda Sans",
+                "designer": [
+                    "Max Thunberg"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Miranda Sans is a contemporary sans serif typeface designed with a clear focus on readability on screens. It is built for text that needs to be read, not noticed, with calm proportions, open shapes, and carefully balanced spacing that holds up across sizes, weights, and long passages of content. To contribute, see github.com/maxthunberg/miranda-sans. The design avoids unnecessary stylistic gestures and instead concentrates on clarity, rhythm, and consistency. Each letter is shaped to work as part of a system, supporting words and sentences rather than drawing attention to itself. The result is a typeface that feels stable, neutral, and dependable, particularly in digital environments where legibility matters most. Miranda Sans was developed with variable font technology in mind, allowing it to adapt smoothly across weights while maintaining a consistent visual voice. The typeface is named after the designer's favorite person in the world, his sister Miranda. What words sometimes fail to express, letters might. The family currently includes multiple weights from Regular to Bold, with matching italics, and is designed to perform consistently across both screen and print environments.",
+                "minisite_url": null
+            },
+            "Saira Stencil": {
+                "name": "Saira Stencil",
+                "designer": [
+                    "Hector Gatti",
+                    "Omnibus-Type"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Saira Stencil is the cut variant of the Saira typeface family. It retains the core structure of its predecessor but is defined by the strategic addition of precise cuts\u2014some logically placed, others deliberately offbeat. This intervention creates a typeface that is both sharp and visually striking, making it an optimal choice for titles, branding, and logotypes where a bold, memorable impression is required. It was designed by H\u00e9ctor Gatti and developed by the Omnibus-Type Team. Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by H\u00e9ctor Gatti. The character sets were later completed by the Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira.",
                 "minisite_url": null
             }
         },
