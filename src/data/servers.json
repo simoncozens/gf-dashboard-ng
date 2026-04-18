@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-04-17",
+    "last_checked": "2026-04-18",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -2132,11 +2132,11 @@
             },
             "Geist": {
                 "name": "Geist",
-                "version": "Version 1.401"
+                "version": "Version 1.800"
             },
             "Geist Mono": {
                 "name": "Geist Mono",
-                "version": "Version 1.401"
+                "version": "Version 1.700"
             },
             "Gelasio": {
                 "name": "Gelasio",
@@ -7757,6 +7757,18 @@
             "BJ Cree": {
                 "name": "BJ Cree",
                 "version": "Version 7.000"
+            },
+            "BJCree": {
+                "name": "BJCree",
+                "version": "Version 7.000"
+            },
+            "Estedad": {
+                "name": "Estedad",
+                "version": "Version 8.5"
+            },
+            "Strichpunkt Sans": {
+                "name": "Strichpunkt Sans",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -10010,7 +10022,7 @@
             },
             "Ren\u00e9 Bieder": {
                 "name": "Ren\u00e9 Bieder",
-                "bio": "Ren\u00e9 Bieder is a trained Graphic designer, Art Director, and self-taught type designer. Before setting up his own studio as a type designer in 2012, he was employed in various small and large advertising agencies. Today, you can find his retail typefaces all around the world. From the Nemo Science Museum in Amsterdam to the University of Florida. Next to his retail releases, Bieder has worked with various national and international clients, such as industry giants such as Volkswagen, to create impactful custom brand fonts. renebieder.com/ | Instagram"
+                "bio": "Ren\u00e9 Bieder is an award-winning type designer and founder of his Berlin-based type foundry, creating tailor-made custom fonts and high-quality typefaces that help brands communicate with clarity, character and confidence. He specialises in bespoke brand typography, developing custom typefaces and wordmarks for national and international clients across a diverse range of industries\u2014including automotive, sports, software, entertainment and food. His work focuses on shaping distinctive typographic voices that define and strengthen brand identity. renebieder.com | Instagram"
             },
             "Hector Gatti": {
                 "name": "Hector Gatti",
@@ -10515,6 +10527,14 @@
             "Max Thunberg": {
                 "name": "Max Thunberg",
                 "bio": "Max Thunberg is a type designer and UX design lead based in Gothenburg, Sweden. His work focuses on creating functional, readable typefaces for digital environments, with an emphasis on clarity, consistency and usability. Alongside his type design practice, he has worked in user-centered design on complex digital products, shaping systems and interfaces since 2018. maxthunberg.com"
+            },
+            "Amin Abedi": {
+                "name": "Amin Abedi",
+                "bio": "Amin Abedi was born in Tabriz, Iran. He is a self-taught type designer and font developer. He is the founder and director of fontamin, a digital type foundry and online store dedicated to serving the needs of Persian typography users. His notable typeface projects include Estedad, Pinar, Kahroba, and Mahoor. fontamin.com | Github"
+            },
+            "Fontamin": {
+                "name": "Fontamin",
+                "bio": "Fontamin is an independent digital type foundry founded in March 2020 by Amin Abedi. Based in Iran, it focuses on designing and distributing high-quality Persian fonts. The platform offers a growing collection of original typefaces, combining contemporary aesthetics with careful attention to readability and functionality. Alongside its commercial library, Fontamin also shares insights and resources through its blog, contributing to the development of Persian typography and design culture. fontamin.com | Github"
             }
         },
         "metadata": {
@@ -21376,8 +21396,10 @@
                 "category": "SANS_SERIF",
                 "subsets": [
                     "cyrillic",
+                    "cyrillic-ext",
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
@@ -21400,8 +21422,11 @@
                 "category": "MONOSPACE",
                 "subsets": [
                     "cyrillic",
+                    "cyrillic-ext",
                     "latin",
-                    "latin-ext"
+                    "latin-ext",
+                    "symbols2",
+                    "vietnamese"
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [
@@ -49978,6 +50003,62 @@
                 "description": null,
                 "primary_script": "Cans",
                 "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
+                "minisite_url": null
+            },
+            "BJCree": {
+                "name": "BJCree",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "canadian-aboriginal",
+                    "latin"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Cans",
+                "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
+                "minisite_url": null
+            },
+            "Estedad": {
+                "name": "Estedad",
+                "designer": [
+                    "Amin Abedi",
+                    "Fontamin"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Arab",
+                "article": "Estedad (/~este~dAd/, meaning \u201cTalent\u201d in Persian) is an Arabic\u2013Latin sans-serif typeface family available in 9 standard weights, along with a variable font (wght axis). Estedad supports a wide range of Arabic and Latin codepoints, covering most use cases for both writing systems.The design is simple, smooth, and compact, with low contrast and a relatively small optical size (slightly increased in bold and heavier weights). The typeface is optimized for screen and web-oriented environments. To contribute, see github.com/aminabedi68/Estedad.",
+                "minisite_url": null
+            },
+            "Strichpunkt Sans": {
+                "name": "Strichpunkt Sans",
+                "designer": [
+                    "Ren\u00e9 Bieder"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Strichpunkt Sans is a hyper-modern sans serif that reinterprets the spirit of early grotesque typefaces through a contemporary lens. The family comprises eighteen styles across three widths (Normal, Wide, and Expanded) ranging from Regular to Black. While the Expanded styles make a confident statement in headlines, the Normal width is optimized for continuous reading and editorial clarity. All styles support Latin Extended and are available in static formats as well as a variable font. To contribute, see github.com/strichpunkt-design/Strichpunkt_Sans. Distinctive details shape its character: rounded forms meet sharp, angular features in unexpected ways: most notably in the leg of the R, the tails of a and l, and the construction of t. The sharply tapered joins of letters such as a, n, b, d and q create a dynamic interplay between soft curves and crisp edges. This balance between tradition and forward-looking expression gives the typeface both authority and warmth. Developed as part of the Strichpunkt brand, the typeface translates the studio\u2019s visual identity into a typographic system that embodies the Strichpunkt values: Passionate, Curious, Responsible, Open. Releasing the typeface as an open-source Google font family reflects a shared commitment to making high-quality contemporary typography accessible to everyone.",
                 "minisite_url": null
             }
         },
