@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-04-20",
+    "last_checked": "2026-04-21",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -58838,6 +58838,10 @@
             "Saira Stencil": {
                 "name": "Saira Stencil",
                 "version": "Version 1.101"
+            },
+            "BJCree": {
+                "name": "BJCree",
+                "version": "Version 7.000"
             }
         },
         "designers": {
@@ -100930,6 +100934,24 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Saira Stencil is the cut variant of the Saira typeface family. It retains the core structure of its predecessor but is defined by the strategic addition of precise cuts\u2014some logically placed, others deliberately offbeat. This intervention creates a typeface that is both sharp and visually striking, making it an optimal choice for titles, branding, and logotypes where a bold, memorable impression is required. It was designed by H\u00e9ctor Gatti and developed by the Omnibus-Type Team. Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by H\u00e9ctor Gatti. The character sets were later completed by the Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira.",
+                "minisite_url": null
+            },
+            "BJCree": {
+                "name": "BJCree",
+                "designer": [
+                    "SIL International"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [
+                    "canadian-aboriginal",
+                    "latin"
+                ],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Cans",
+                "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
                 "minisite_url": null
             }
         },
