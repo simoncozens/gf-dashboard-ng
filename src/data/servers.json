@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-04-30",
+    "last_checked": "2026-05-01",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -428,7 +428,7 @@
             },
             "Arimo": {
                 "name": "Arimo",
-                "version": "Version 1.33"
+                "version": "Version 1.341"
             },
             "Arizonia": {
                 "name": "Arizonia",
@@ -1420,7 +1420,7 @@
             },
             "Cousine": {
                 "name": "Cousine",
-                "version": "Version 1.21"
+                "version": "Version 1.240; ttfautohint (v1.8.4.16-eb64)"
             },
             "Coustard": {
                 "name": "Coustard",
@@ -6920,7 +6920,7 @@
             },
             "Tinos": {
                 "name": "Tinos",
-                "version": "Version 1.23"
+                "version": "Version 1.340; ttfautohint (v1.8.4.16-eb64)"
             },
             "Tiny5": {
                 "name": "Tiny5",
@@ -7708,11 +7708,11 @@
             },
             "Idiqlat": {
                 "name": "Idiqlat",
-                "version": "Version 2.000"
+                "version": "Version 2.100"
             },
             "Ramsina": {
                 "name": "Ramsina",
-                "version": "Version 2.000"
+                "version": "Version 2.100"
             },
             "Alyamama": {
                 "name": "Alyamama",
@@ -7768,6 +7768,22 @@
             },
             "Strichpunkt Sans": {
                 "name": "Strichpunkt Sans",
+                "version": "Version 1.000"
+            },
+            "Akt": {
+                "name": "Akt",
+                "version": "Version 1.100"
+            },
+            "Finlandica Headline": {
+                "name": "Finlandica Headline",
+                "version": "Version 3.103"
+            },
+            "Finlandica Text": {
+                "name": "Finlandica Text",
+                "version": "Version 3.103"
+            },
+            "M PLUS U": {
+                "name": "M PLUS U",
                 "version": "Version 1.000"
             }
         },
@@ -10535,6 +10551,10 @@
             "Fontamin": {
                 "name": "Fontamin",
                 "bio": "Fontamin is an independent digital type foundry founded in March 2020 by Amin Abedi. Based in Iran, it focuses on designing and distributing high-quality Persian fonts. The platform offers a growing collection of original typefaces, combining contemporary aesthetics with careful attention to readability and functionality. Alongside its commercial library, Fontamin also shares insights and resources through its blog, contributing to the development of Persian typography and design culture. fontamin.com | Github"
+            },
+            "Dima Grenev": {
+                "name": "Dima Grenev",
+                "bio": null
             }
         },
         "metadata": {
@@ -12675,7 +12695,7 @@
                 "designer": [
                     "Steve Matteson"
                 ],
-                "license": "apache2",
+                "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
                     "cyrillic",
@@ -12689,7 +12709,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "Arimo was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial\u2122. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in May 2013 with improved hinting and released under the Apache 2.0 license.",
+                "description": "Arimo was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial\u2122. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in April 2026 and re-released under the OFL. To contribute, see github.com/googlefonts/arimo",
                 "primary_script": null,
                 "article": null,
                 "minisite_url": null
@@ -17740,7 +17760,7 @@
                 "designer": [
                     "Steve Matteson"
                 ],
-                "license": "apache2",
+                "license": "ofl",
                 "category": "MONOSPACE",
                 "subsets": [
                     "cyrillic",
@@ -45667,7 +45687,7 @@
                 "designer": [
                     "Steve Matteson"
                 ],
-                "license": "apache2",
+                "license": "ofl",
                 "category": "SERIF",
                 "subsets": [
                     "cyrillic",
@@ -50059,6 +50079,98 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Strichpunkt Sans is a hyper-modern sans serif that reinterprets the spirit of early grotesque typefaces through a contemporary lens. The family comprises eighteen styles across three widths (Normal, Wide, and Expanded) ranging from Regular to Black. While the Expanded styles make a confident statement in headlines, the Normal width is optimized for continuous reading and editorial clarity. All styles support Latin Extended and are available in static formats as well as a variable font. To contribute, see github.com/strichpunkt-design/Strichpunkt_Sans. Distinctive details shape its character: rounded forms meet sharp, angular features in unexpected ways: most notably in the leg of the R, the tails of a and l, and the construction of t. The sharply tapered joins of letters such as a, n, b, d and q create a dynamic interplay between soft curves and crisp edges. This balance between tradition and forward-looking expression gives the typeface both authority and warmth. Developed as part of the Strichpunkt brand, the typeface translates the studio\u2019s visual identity into a typographic system that embodies the Strichpunkt values: Passionate, Curious, Responsible, Open. Releasing the typeface as an open-source Google font family reflects a shared commitment to making high-quality contemporary typography accessible to everyone.",
+                "minisite_url": null
+            },
+            "Akt": {
+                "name": "Akt",
+                "designer": [
+                    "Dima Grenev"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Akt is a contemporary sans-serif typeface crafted for clarity and precision in modern digital design. Built with an interface-first approach, it ensures consistent behavior across layouts, components, and viewports \u2014 a dependable foundation for UI and design systems. Each weight is designed with intent: mid-range weights support comfortable reading, while heavier ones add focus and structure to titles and key visual elements.Balancing rational geometry with refined optical details, Akt offers the precision developers need and the flexibility designers expect \u2014 a unified typographic system for modern interfaces and branding. Designed by Dima Grenev. The variable font axis allows fine-tuning weight to match your layout needs. The family covers basic Latin and Cyrillic scripts and includes essential punctuation and symbols. Vertical metrics are set for balanced line spacing across platforms. Design highlights include compact counters, open apertures, and a steady rhythm that works well from small UI labels to longer paragraphs. The typographic color remains consistent through the optical weight range, making it reliable for product design, dashboards, and editorial interfaces. To contribute, see github.com/dimgrenev/akt.",
+                "minisite_url": null
+            },
+            "Finlandica Headline": {
+                "name": "Finlandica Headline",
+                "designer": [
+                    "Helsinki Type Studio",
+                    "Niklas Ekholm",
+                    "Juho Hiilivirta",
+                    "Jaakko Suomalainen"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Finlandica is the official typeface of Finland, commissioned by the Prime Minister\u2018s Office, and free to use by everyone in the spirit of Jokaisenoikeus. Finlandica Headline has strong and compressed shapes reflecting a distinctly Finnish sense of honest and resilient determination \u2014 Sisu. Counter shapes like cuts from a blunt axe improve clarity at small sizes while adding character at headline scale. The companion typeface Finlandica Text is designed to complement the unique character of Headline with quiet clarity for body text. Finlandica supports a wide range of Latin and Cyrillic scripts. To contribute, see github.com/HelsinkiTypeStudio/FinlandicaHeadline.",
+                "minisite_url": null
+            },
+            "Finlandica Text": {
+                "name": "Finlandica Text",
+                "designer": [
+                    "Helsinki Type Studio",
+                    "Niklas Ekholm",
+                    "Juho Hiilivirta",
+                    "Jaakko Suomalainen"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Finlandica is the official typeface of Finland, commissioned by the Prime Minister\u2018s Office, and free to use by everyone in the spirit of Jokaisenoikeus. Finlandica Text has generous proportions and open aperture for optimal legibility, reflecting a Finnish sense of trust and calm functionality. Subtle ink traps and carefully engineered details ensure reliability across sizes and media without losing its character. The companion typeface Finlandica Headline is designed to complement the quiet clarity of Text, with unique character. Finlandica supports a wide range of Latin and Cyrillic scripts. To contribute, see github.com/HelsinkiTypeStudio/FinlandicaText.",
+                "minisite_url": null
+            },
+            "M PLUS U": {
+                "name": "M PLUS U",
+                "designer": [
+                    "Coji Morishita"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "japanese",
+                    "latin",
+                    "latin-ext",
+                    "symbols2",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus U is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. To further enhance visibility, legibility, and readability, the internal spaces of the glyphs are designed to be wider and maximize the size of the voiced/semi-voiced sound mark on the kana characters. This font is intended for use in UIs, and as an accessible/readability font (UD font). As a side effect, this font has a very cute appearance :-) To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
+                "primary_script": "Jpan",
+                "article": null,
                 "minisite_url": null
             }
         },
