@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-05-01",
+    "last_checked": "2026-05-02",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -3388,11 +3388,11 @@
             },
             "M PLUS 1": {
                 "name": "M PLUS 1",
-                "version": "Version 1.001"
+                "version": "Version 1.100"
             },
             "M PLUS 1 Code": {
                 "name": "M PLUS 1 Code",
-                "version": "Version 1.005"
+                "version": "Version 1.100"
             },
             "M PLUS 1p": {
                 "name": "M PLUS 1p",
@@ -3400,11 +3400,11 @@
             },
             "M PLUS 2": {
                 "name": "M PLUS 2",
-                "version": "Version 1.001"
+                "version": "Version 1.100"
             },
             "M PLUS Code Latin": {
                 "name": "M PLUS Code Latin",
-                "version": "Version 1.005; ttfautohint (v1.8.3)"
+                "version": "Version 1.100"
             },
             "M PLUS Rounded 1c": {
                 "name": "M PLUS Rounded 1c",
@@ -6328,7 +6328,7 @@
             },
             "Scheherazade New": {
                 "name": "Scheherazade New",
-                "version": "Version 4.400"
+                "version": "Version 4.500"
             },
             "Schibsted Grotesk": {
                 "name": "Schibsted Grotesk",
@@ -7785,6 +7785,10 @@
             "M PLUS U": {
                 "name": "M PLUS U",
                 "version": "Version 1.000"
+            },
+            "Alien Block": {
+                "name": "Alien Block",
+                "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
             }
         },
         "designers": {
@@ -9506,7 +9510,7 @@
             },
             "Coji Morishita": {
                 "name": "Coji Morishita",
-                "bio": null
+                "bio": "Graphic designer, based between Tokyo and Nagano. underforest.com"
             },
             "M+ Fonts Project": {
                 "name": "M+ Fonts Project",
@@ -10554,6 +10558,10 @@
             },
             "Dima Grenev": {
                 "name": "Dima Grenev",
+                "bio": null
+            },
+            "Kensuke Uchida": {
+                "name": "Kensuke Uchida",
                 "bio": null
             }
         },
@@ -27852,7 +27860,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 1 is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. With the harmony of comfortable curves and straight lines, this font gives modern and generous impression, suiting for any occasions including small texts to big titles. To contribute to the project, visit https://github.com/coz-m/MPLUS_FONTS",
+                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 1 is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. With the harmony of comfortable curves and straight lines, this font gives modern and generous impression, suiting for any occasions including small texts to big titles. To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
                 "primary_script": "Jpan",
                 "article": null,
                 "minisite_url": null
@@ -27874,7 +27882,7 @@
                 "classifications": [
                     "monospace"
                 ],
-                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 1 Code is a Sans Serif font with seven weights from Thin to Bold, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. Because this font is for programming usage, it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible. This font is a combination of Mplus 1 full-width Japanese with new half-width monospaced Latin alphabet and figures. To contribute to the project, visit https://github.com/coz-m/MPLUS_FONTS",
+                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 1 Code is a Sans Serif font with seven weights from Thin to Bold, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. Because this font is for programming usage, it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible. This font is a combination of Mplus 1 full-width Japanese with new half-width monospaced Latin alphabet and figures. To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
                 "primary_script": "Jpan",
                 "article": null,
                 "minisite_url": null
@@ -27920,7 +27928,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 2 is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. With the somewhat classic letterforms, this font pursues new standard of classic modern. To contribute to the project, visit https://github.com/coz-m/MPLUS_FONTS",
+                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus 2 is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. With the somewhat classic letterforms, this font pursues new standard of classic modern. To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
                 "primary_script": "Jpan",
                 "article": null,
                 "minisite_url": null
@@ -27941,7 +27949,7 @@
                 "classifications": [
                     "monospace"
                 ],
-                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus Code Latin is a Sans Serif font with seven weights from Thin to Bold, supporting GF Latin Plus. Because this font is for programming usage, it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible. There are two styles\u2014Mplus Code Latin 50 and Mplus Code Latin 60, each having 50% and 60% character width. To contribute to the project, visit https://github.com/coz-m/MPLUS_FONTS",
+                "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus Code Latin is a Sans Serif font with seven weights from Thin to Bold, supporting GF Latin Plus. Because this font is for programming usage, it has high readability even in small sizes, and letterforms are designed to avoid misreadings as much as possible. There are two styles\u2014Mplus Code Latin 50 and Mplus Code Latin 60, each having 50% and 60% character width. To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
                 "primary_script": null,
                 "article": null,
                 "minisite_url": null
@@ -50171,6 +50179,26 @@
                 "description": "M+ FONTS is a little nifty font family for everyday usage. Mplus U is a Sans Serif font with nine weights from Thin to Black, supporting 5,700+ Kanjis for Japanese with GF Latin Plus. To further enhance visibility, legibility, and readability, the internal spaces of the glyphs are designed to be wider and maximize the size of the voiced/semi-voiced sound mark on the kana characters. This font is intended for use in UIs, and as an accessible/readability font (UD font). As a side effect, this font has a very cute appearance :-) To contribute to the project, visit github.com/coz-m/MPLUS_FONTS",
                 "primary_script": "Jpan",
                 "article": null,
+                "minisite_url": null
+            },
+            "Alien Block": {
+                "name": "Alien Block",
+                "designer": [
+                    "Kensuke Uchida"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Alien Block is a display typeface designed to expand the possibilities of logos, titles, and typographic composition. It combines the controlled width of monospaced fonts with the optical spacing of proportional fonts, exploring a hybrid approach that brings together the strengths of both systems. Most glyphs share a common base width, while selected characters and symbols are intentionally adjusted to maintain visual balance. This approach achieves both structural consistency and expressive freedom. Letters can be arranged like aligned tiles or staggered bricks, enabling a wide range of modular layouts. Alien Block is optimized for short-form display use such as titles and visual compositions. Rather than focusing on long-form reading, it performs especially well in impactful and modular typographic contexts. Alien Block is designed so that anyone can intuitively explore modular typographic composition. The space width is intentionally set to half of the base modular unit. This decision is made for practical reasons: by inserting two consecutive spaces, users can easily restore the original grid alignment. Rather than being a decorative choice, this spacing system functions as a practical tool for modular layout control in display-oriented use cases. To contribute, see github.com/koci-design/AlienBlock.",
                 "minisite_url": null
             }
         },
