@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-05-05",
+    "last_checked": "2026-05-06",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -58982,6 +58982,10 @@
             "BJCree": {
                 "name": "BJCree",
                 "version": "Version 7.000"
+            },
+            "STIX Two Math": {
+                "name": "STIX Two Math",
+                "version": "Version 2.12 b168a"
             }
         },
         "designers": {
@@ -101092,6 +101096,24 @@
                 "description": null,
                 "primary_script": "Cans",
                 "article": "The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb]. To contribute, see github.com/silnrsi/font-bjcree.",
+                "minisite_url": null
+            },
+            "STIX Two Math": {
+                "name": "STIX Two Math",
+                "designer": [
+                    "Tiro Typeworks",
+                    "Ross Mills",
+                    "John Hudson",
+                    "Paul Hanslow"
+                ],
+                "license": "ofl",
+                "category": "SERIF",
+                "subsets": [],
+                "stroke": "SERIF",
+                "classifications": [],
+                "description": "The Scientific and Technical Information eXchange (STIX) fonts are intended to satisfy the demanding needs of authors, publishers, printers, and others working in the scientific, medical, and technical fields. The STIX Two fonts consist of one Math font, two variable text fonts (Roman and Italic), and eight static text (Regular to Bold in both roman and italic variants). Together, they provide a uniform set of fonts that can be used throughout the production process. The STIX project began through the joint efforts of American Mathematical Society (AMS), American Institute of Physics (AIP), American Physical Society (APS), American Chemical Society (ACS), The Institute of Electrical and Electronic Engineers (IEEE), and Elsevier. These companies are collectively known as the STI Pub companies. To contribute, see github.com/stipub/stixfonts.",
+                "primary_script": null,
+                "article": null,
                 "minisite_url": null
             }
         },
