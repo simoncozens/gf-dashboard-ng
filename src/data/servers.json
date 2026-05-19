@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-05-18",
+    "last_checked": "2026-05-19",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -51673,7 +51673,7 @@
             },
             "Arimo": {
                 "name": "Arimo",
-                "version": "Version 1.33"
+                "version": "Version 1.341"
             },
             "Arizonia": {
                 "name": "Arizonia",
@@ -52633,7 +52633,7 @@
             },
             "Cousine": {
                 "name": "Cousine",
-                "version": "Version 1.21"
+                "version": "Version 1.240; ttfautohint (v1.8.4.16-eb64)"
             },
             "Coustard": {
                 "name": "Coustard",
@@ -63912,7 +63912,7 @@
                 "designer": [
                     "Steve Matteson"
                 ],
-                "license": "apache2",
+                "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
                     "cyrillic",
@@ -63926,7 +63926,7 @@
                 ],
                 "stroke": "SANS_SERIF",
                 "classifications": [],
-                "description": "Arimo was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial\u2122. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in May 2013 with improved hinting and released under the Apache 2.0 license.",
+                "description": "Arimo was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial\u2122. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in April 2026 and re-released under the OFL. To contribute, see github.com/googlefonts/arimo",
                 "primary_script": null,
                 "article": null,
                 "minisite_url": null
@@ -68811,7 +68811,7 @@
                 "designer": [
                     "Steve Matteson"
                 ],
-                "license": "apache2",
+                "license": "ofl",
                 "category": "MONOSPACE",
                 "subsets": [
                     "cyrillic",
