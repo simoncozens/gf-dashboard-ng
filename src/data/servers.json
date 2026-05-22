@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-05-21",
+    "last_checked": "2026-05-22",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -2136,7 +2136,7 @@
             },
             "Geist Mono": {
                 "name": "Geist Mono",
-                "version": "Version 1.700"
+                "version": "Version 1.701"
             },
             "Gelasio": {
                 "name": "Gelasio",
@@ -58845,7 +58845,7 @@
             },
             "Google Sans Flex": {
                 "name": "Google Sans Flex",
-                "version": "Version 4.004;[ec96fb33c]"
+                "version": "Version 4.005;[3fe7d0b9f]"
             },
             "Kedebideri": {
                 "name": "Kedebideri",
@@ -58881,7 +58881,7 @@
             },
             "Google Sans": {
                 "name": "Google Sans",
-                "version": "Version 12.001;[9b76f496a]"
+                "version": "Version 13.002;[5e3df34c1]"
             },
             "Lilex": {
                 "name": "Lilex",
