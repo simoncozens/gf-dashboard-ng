@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-05-22",
+    "last_checked": "2026-05-23",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7789,6 +7789,10 @@
             "Alien Block": {
                 "name": "Alien Block",
                 "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Pliant": {
+                "name": "Pliant",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -10563,6 +10567,14 @@
             "Kensuke Uchida": {
                 "name": "Kensuke Uchida",
                 "bio": null
+            },
+            "Non Foundry": {
+                "name": "Non Foundry",
+                "bio": "Non Foundry is a type foundry founded in 2019 in Monterrey by Jona Saucedo. Since then, our core philosophy has been \u201caesthetics + functionality.\u201d Their typefaces combine these two attributes with historical references to communicate meaning beyond words. Over the years, Non has collaborated on a wide range of projects including MIS - Sound and Image Museum of Cear\u00e1 (Brazil), Kurimanzutto (Mexico), Hessen Film & Medien (Germany), Yonex (Japan), OH Leuven (Belgium), Herbalife (USA), Grandbrothers (Germany), and many more. nonfoundry.com"
+            },
+            "Jona Saucedo": {
+                "name": "Jona Saucedo",
+                "bio": "Graphic and type designer, founder of the Mexican type foundry Non Foundry. Throughout his professional career, some of his projects have been featured in various books and exhibitions, as well as recognized with awards in the design field. Some of his most recent collaborations include Typodarium 2025 (Verlag Hermann Schmidt), Yearbook of Type No. 6 (Slanted Publishers), Curious Typeface No. 2 (Offcuts Publisher), and Typeone Mag No. 10 (Type01). nonfoundry.com"
             }
         },
         "metadata": {
@@ -50199,6 +50211,29 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Alien Block is a display typeface designed to expand the possibilities of logos, titles, and typographic composition. It combines the controlled width of monospaced fonts with the optical spacing of proportional fonts, exploring a hybrid approach that brings together the strengths of both systems. Most glyphs share a common base width, while selected characters and symbols are intentionally adjusted to maintain visual balance. This approach achieves both structural consistency and expressive freedom. Letters can be arranged like aligned tiles or staggered bricks, enabling a wide range of modular layouts. Alien Block is optimized for short-form display use such as titles and visual compositions. Rather than focusing on long-form reading, it performs especially well in impactful and modular typographic contexts. Alien Block is designed so that anyone can intuitively explore modular typographic composition. The space width is intentionally set to half of the base modular unit. This decision is made for practical reasons: by inserting two consecutive spaces, users can easily restore the original grid alignment. Rather than being a decorative choice, this spacing system functions as a practical tool for modular layout control in display-oriented use cases. To contribute, see github.com/koci-design/AlienBlock.",
+                "minisite_url": null
+            },
+            "Pliant": {
+                "name": "Pliant",
+                "designer": [
+                    "Non Foundry",
+                    "Jona Saucedo"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Pliant typeface was conceived to address specific internal design needs. Built on the Swiss typographic tradition, Pliant offers a neutral and universal structure, making it suitable for a wide range of uses. Its design ensures clarity and consistency, especially in continuous text where legibility is a priority. A distinctive feature of Pliant is its spacing, intentionally narrower than in many other typefaces. This decision was guided by practicality: it is easier to open up tight spacing to improve readability than to reduce spacing that is already too loose. This approach gives designers more control and flexibility when adapting the font to different contexts. Considering these design variables, shapes, spacing, proportions we developed an additional variant aimed at headline usage. Non Pliant Normal works well for this purpose, but we felt the need for a complementary version that could pair seamlessly with it. The result is an extended variant that maintains the original spirit of Pliant while offering broader letterforms and slightly more pronounced details. This balance allows it to perform strongly in display settings without losing the rational qualities that define the family. To contribute, see github.com/TheJonassss/Pliant. Your browser does not support the video tag.",
                 "minisite_url": null
             }
         },
