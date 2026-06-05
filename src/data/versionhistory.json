@@ -41916,5 +41916,12 @@
       }
     ]
   },
-  "Montenegrin Gothic One": {}
+  "Montenegrin Gothic One": {
+    "sandbox": [
+      {
+        "version": "Version 1.002; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-06-05T01:58:10.198123"
+      }
+    ]
+  }
 }
