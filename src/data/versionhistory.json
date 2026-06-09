@@ -37828,6 +37828,10 @@
       {
         "version": "Version 1.700",
         "date": "2026-05-14T01:56:57.085990"
+      },
+      {
+        "version": "Version 1.701",
+        "date": "2026-06-09T01:56:55.652655"
       }
     ]
   },
@@ -41906,6 +41910,12 @@
         "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-05-02T01:57:02.910414"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-06-09T01:56:55.988212"
+      }
     ]
   },
   "Pliant": {
@@ -41913,6 +41923,12 @@
       {
         "version": "Version 1.000",
         "date": "2026-05-23T01:57:17.462497"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2026-06-09T01:56:55.520069"
       }
     ]
   },
@@ -41924,5 +41940,7 @@
       }
     ]
   },
-  "Geist Pixel": {}
+  "Geist Pixel": {},
+  "Yuyu Short": {},
+  "Yuyu": {}
 }

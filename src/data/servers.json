@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-06-08",
+    "last_checked": "2026-06-09",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -53450,7 +53450,7 @@
             },
             "Geist Mono": {
                 "name": "Geist Mono",
-                "version": "Version 1.700"
+                "version": "Version 1.701"
             },
             "Gelasio": {
                 "name": "Gelasio",
@@ -59123,6 +59123,14 @@
             "Strichpunkt Sans": {
                 "name": "Strichpunkt Sans",
                 "version": "Version 1.000"
+            },
+            "Alien Block": {
+                "name": "Alien Block",
+                "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Pliant": {
+                "name": "Pliant",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -61885,6 +61893,18 @@
             "Fontamin": {
                 "name": "Fontamin",
                 "bio": "Fontamin is an independent digital type foundry founded in March 2020 by Amin Abedi. Based in Iran, it focuses on designing and distributing high-quality Persian fonts. The platform offers a growing collection of original typefaces, combining contemporary aesthetics with careful attention to readability and functionality. Alongside its commercial library, Fontamin also shares insights and resources through its blog, contributing to the development of Persian typography and design culture. fontamin.com | Github"
+            },
+            "Kensuke Uchida": {
+                "name": "Kensuke Uchida",
+                "bio": "Kensuke Uchida is a Japan-based graphic designer, typeface designer, and developer working under the name KOCI. With a rich professional background, his expertise spans across multiple disciplines including typography, UI/UX, web design, and print media. His work explores the intersection of geometric structure and modularity, focusing on creating typefaces that function as essential structural elements of visual composition. His debut Google Fonts release, Alien Block, reflects his long-standing commitment to systematic design and his diverse experience in the design industry. myfonts.com/collections/koci-foundry"
+            },
+            "Non Foundry": {
+                "name": "Non Foundry",
+                "bio": "Non Foundry is a type foundry founded in 2019 in Monterrey by Jona Saucedo. Since then, our core philosophy has been \u201caesthetics + functionality.\u201d Their typefaces combine these two attributes with historical references to communicate meaning beyond words. Over the years, Non has collaborated on a wide range of projects including MIS - Sound and Image Museum of Cear\u00e1 (Brazil), Kurimanzutto (Mexico), Hessen Film & Medien (Germany), Yonex (Japan), OH Leuven (Belgium), Herbalife (USA), Grandbrothers (Germany), and many more. nonfoundry.com"
+            },
+            "Jona Saucedo": {
+                "name": "Jona Saucedo",
+                "bio": "Graphic and type designer, founder of the Mexican type foundry Non Foundry. Throughout his professional career, some of his projects have been featured in various books and exhibitions, as well as recognized with awards in the design field. Some of his most recent collaborations include Typodarium 2025 (Verlag Hermann Schmidt), Yearbook of Type No. 6 (Slanted Publishers), Curious Typeface No. 2 (Offcuts Publisher), and Typeone Mag No. 10 (Type01). nonfoundry.com"
             }
         },
         "metadata": {
@@ -101399,6 +101419,49 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Strichpunkt Sans is a hyper-modern sans serif that reinterprets the spirit of early grotesque typefaces through a contemporary lens. The family comprises eighteen styles across three widths (Normal, Wide, and Expanded) ranging from Regular to Black. While the Expanded styles make a confident statement in headlines, the Normal width is optimized for continuous reading and editorial clarity. All styles support Latin Extended and are available in static formats as well as a variable font. To contribute, see github.com/strichpunkt-design/Strichpunkt_Sans. Distinctive details shape its character: rounded forms meet sharp, angular features in unexpected ways: most notably in the leg of the R, the tails of a and l, and the construction of t. The sharply tapered joins of letters such as a, n, b, d and q create a dynamic interplay between soft curves and crisp edges. This balance between tradition and forward-looking expression gives the typeface both authority and warmth. Developed as part of the Strichpunkt brand, the typeface translates the studio\u2019s visual identity into a typographic system that embodies the Strichpunkt values: Passionate, Curious, Responsible, Open. Releasing the typeface as an open-source Google font family reflects a shared commitment to making high-quality contemporary typography accessible to everyone.",
+                "minisite_url": null
+            },
+            "Alien Block": {
+                "name": "Alien Block",
+                "designer": [
+                    "Kensuke Uchida"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Alien Block is a structural display typeface that treats typography as architecture. Born from an exploration of modularity, it bridges the gap between the rigid logic of a grid and the expressive needs of modern graphic design. At its core, Alien Block is built on a shared modular unit, allowing characters to stack and align like architectural tiles. This systematic approach creates a distinctive visual rhythm, making it an ideal choice for logos, headlines, and experimental layouts. It is particularly effective when used in \"block\" compositions, where the relationship between positive and negative space becomes as important as the letters themselves. Whether you are designing a futuristic poster or a minimalist brand identity, Alien Block invites you to play with its modular nature. It transforms simple text into a rhythmic, geometric landscape, offering a fresh perspective on how we compose and perceive digital letterforms. To contribute, see github.com/koci-design/AlienBlock.",
+                "minisite_url": null
+            },
+            "Pliant": {
+                "name": "Pliant",
+                "designer": [
+                    "Non Foundry",
+                    "Jona Saucedo"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "cyrillic",
+                    "cyrillic-ext",
+                    "greek",
+                    "greek-ext",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Pliant typeface was conceived to address specific internal design needs. Built on the Swiss typographic tradition, Pliant offers a neutral and universal structure, making it suitable for a wide range of uses. Its design ensures clarity and consistency, especially in continuous text where legibility is a priority. A distinctive feature of Pliant is its spacing, intentionally narrower than in many other typefaces. This decision was guided by practicality: it is easier to open up tight spacing to improve readability than to reduce spacing that is already too loose. This approach gives designers more control and flexibility when adapting the font to different contexts. Considering these design variables, shapes, spacing, proportions we developed an additional variant aimed at headline usage. Non Pliant Normal works well for this purpose, but we felt the need for a complementary version that could pair seamlessly with it. The result is an extended variant that maintains the original spirit of Pliant while offering broader letterforms and slightly more pronounced details. This balance allows it to perform strongly in display settings without losing the rational qualities that define the family. To contribute, see github.com/TheJonassss/Pliant. Your browser does not support the video tag.",
                 "minisite_url": null
             }
         },
