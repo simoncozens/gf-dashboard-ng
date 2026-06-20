@@ -8512,6 +8512,10 @@
       {
         "version": "Version 1.001",
         "date": "1970-01-01T00:00:00"
+      },
+      {
+        "version": "Version 1.003",
+        "date": "2026-06-20T01:58:03.612200"
       }
     ],
     "production": [
@@ -41817,6 +41821,10 @@
       {
         "version": "Version 1.240; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-05-01T01:56:51.472054"
+      },
+      {
+        "version": "Version 1.241; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-06-20T01:58:03.663682"
       }
     ],
     "production": [
@@ -41944,7 +41952,28 @@
       }
     ]
   },
-  "Geist Pixel": {},
-  "Yuyu Short": {},
-  "Yuyu": {}
+  "Geist Pixel": {
+    "sandbox": [
+      {
+        "version": "Version 1.000",
+        "date": "2026-06-20T01:58:03.685149"
+      }
+    ]
+  },
+  "Yuyu Short": {
+    "sandbox": [
+      {
+        "version": "Version 1.004; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-06-20T01:58:03.370222"
+      }
+    ]
+  },
+  "Yuyu": {
+    "sandbox": [
+      {
+        "version": "Version 1.004; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-06-20T01:58:03.327153"
+      }
+    ]
+  }
 }

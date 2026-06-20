@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-06-19",
+    "last_checked": "2026-06-20",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -1420,7 +1420,7 @@
             },
             "Cousine": {
                 "name": "Cousine",
-                "version": "Version 1.240; ttfautohint (v1.8.4.16-eb64)"
+                "version": "Version 1.241; ttfautohint (v1.8.4.16-eb64)"
             },
             "Coustard": {
                 "name": "Coustard",
@@ -1644,7 +1644,7 @@
             },
             "EB Garamond": {
                 "name": "EB Garamond",
-                "version": "Version 1.001"
+                "version": "Version 1.003"
             },
             "Eagle Lake": {
                 "name": "Eagle Lake",
@@ -7797,6 +7797,18 @@
             "Montenegrin Gothic One": {
                 "name": "Montenegrin Gothic One",
                 "version": "Version 1.002; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Geist Pixel": {
+                "name": "Geist Pixel",
+                "version": "Version 1.000"
+            },
+            "Yuyu": {
+                "name": "Yuyu",
+                "version": "Version 1.004; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Yuyu Short": {
+                "name": "Yuyu Short",
+                "version": "Version 1.004; ttfautohint (v1.8.4.16-eb64)"
             }
         },
         "designers": {
@@ -8778,7 +8790,7 @@
             },
             "Georg Duffner": {
                 "name": "Georg Duffner",
-                "bio": null
+                "bio": "Georg Mayr-Duffner is an Austrian type designer and open-source contributor based in Vienna. He is affiliated with WU Vienna University of Economics and Business, where he is associated with the university library.He is best known for creating EB Garamond, an acclaimed open-source digitization of Claude Garamont's typeface designs based on the 1592 Egenolff-Berner specimen. The project aims to bring Renaissance typography into the digital age with support for extended Latin, Greek, and Cyrillic scripts. His work on EB Garamond has earned significant recognition in the open-source community. GitHub | www.georgduffner.at"
             },
             "Octavio Pardo": {
                 "name": "Octavio Pardo",
@@ -10583,6 +10595,10 @@
             "\u017darko Banovi\u0107": {
                 "name": "\u017darko Banovi\u0107",
                 "bio": null
+            },
+            "Julia Garc\u00eda L\u00f3pez": {
+                "name": "Julia Garc\u00eda L\u00f3pez",
+                "bio": "Julia Garc\u00eda L\u00f3pez (b. 2000) is originally from Seville, Spain, and has four years of experience living and exhibiting in the UK. She holds a Bachelor of Fine Arts in Graphic Design from the University of Seville. Her practice focuses on the intersection of organic human gestures and digital type engineering, which led to the development of Yuyu, a fun, stylized handwritten font family acquired for publication by Google Fonts in 2026. Julia is currently expanding her catalog into variable fonts and distinct master weights. Instagram | Website"
             }
         },
         "metadata": {
@@ -18938,7 +18954,7 @@
                 ],
                 "stroke": "SERIF",
                 "classifications": [],
-                "description": "EB Garamond is intended to be an excellent, classical, Garamond. It is a community project to create a revival of Claude Garamont\u2019s famous humanist typefaces from the mid-16th century. This digital version reproduces the original design by Claude Garamont closely: The source for the letterforms is a scan of a specimen known as the \u201cBerner specimen,\u201d which was composed in 1592 by Conrad Berner, the son-in-law of Christian Egenolff and his successor at the Egenolff print office. This specimen shows Garamont\u2019s roman and Granjon\u2019s italic types at different sizes. Hence the name of this project: Egenolff-Berner Garamond. Why another Garamond? That typeface is a key moment in the history of typography, and European type designers have been reacting to this work ever since. It is probably the most revived typeface in the world and many are excellent. In the world of free/libre culture, however, only a few Garamond-inspired types exist, and none share the scope of this project. In November 2019, the family has been updated to a variable font family. This project is led by Georg Duffner, and developed at github.com/georgd/EB-Garamond",
+                "description": "EB Garamond is intended to be an excellent, classical, Garamond. It is a community project to create a revival of Claude Garamont\u2019s famous humanist typefaces from the mid-16th century. This digital version reproduces the original design by Claude Garamont closely: The source for the letterforms is a scan of a specimen known as the \u201cBerner specimen,\u201d which was composed in 1592 by Conrad Berner, the son-in-law of Christian Egenolff and his successor at the Egenolff print office. This specimen shows Garamont\u2019s roman and Granjon\u2019s italic types at different sizes. Hence the name of this project: Egenolff-Berner Garamond. Why another Garamond? That typeface is a key moment in the history of typography, and European type designers have been reacting to this work ever since. It is probably the most revived typeface in the world and many are excellent. In the world of free/libre culture, however, only a few Garamond-inspired types exist, and none share the scope of this project. In November 2019, the family has been updated to a variable font family. This version of the project was originally led by Octavio Pardo (github.com/octaviopardo/EBGaramond12), which is forked from Georg Duffner's original project github.com/georgd/EB-Garamond. It is currently maintained with contributions from the wider community, including the Google Fonts team.",
                 "primary_script": null,
                 "article": null,
                 "minisite_url": "https://googlefonts.github.io/ebgaramond-specimen/"
@@ -50260,6 +50276,68 @@
                 "description": null,
                 "primary_script": null,
                 "article": "Montenegrin Gothic One is a serif typeface with slab-like terminals, designed to maintain optical consistency and a strong visual identity. Inspired by modern gothic forms, it is well-suited for headlines, logos, and typographic projects that require a bold yet elegant presence. To contribute, see github.com/MagicformDesign/montenegrin-gothic-one.",
+                "minisite_url": null
+            },
+            "Geist Pixel": {
+                "name": "Geist Pixel",
+                "designer": [
+                    "Andr\u00e9s Briganti",
+                    "Evil Rabbit",
+                    "Guillermo Rauch"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": "Latn",
+                "article": "Geist Pixel is a display typeface family of five pixel-based styles, each with a distinct visual character. It joins Vercel's Geist family alongside its sans-serif and monospace counterparts, Geist and Geist Mono. The five styles \u2014 Square, Circle, Grid, Triangle, and Line \u2014 each build letters from a different pixel element, giving every variant its own look. Geist Pixel is made for decorative use in headlines, logos, and other display contexts where a pixelated aesthetic is desired. Created by Vercel, Geist embodies their design principles of simplicity, minimalism, and speed, drawing inspiration from the renowned Swiss design movement. To contribute, see github.com/vercel/geist-font.",
+                "minisite_url": "https://vercel.com/font"
+            },
+            "Yuyu": {
+                "name": "Yuyu",
+                "designer": [
+                    "Julia Garc\u00eda L\u00f3pez"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Yuyu is a slender, stylized handwritten typeface designed by Julia Garc\u00eda L\u00f3pez. Originally created as a personal tool for the designer's own visual identity, Yuyu is the product of years of manual refinement and care. Its tall, uppercase letterforms carry a pronounced verticality that feels both fun and familiar, while resolving into a mature and cheerful finish. This balance makes Yuyu a natural fit for personal branding, editorial design, modern titling, and any project looking to build a friendly, human connection. The family consists of two variations that share the same capital letters: Yuyu Mid and Yuyu Short. Yuyu Mid was developed with a clear focus on legibility and accessibility, making it the more practical choice for extended use. Yuyu Short, by contrast, is intended purely for aesthetic and display purposes. \"This font is, in many ways, like a child to me. It has featured in every sketch and project for years. Seeing it today transformed into a complete typographic tool is the start of a new chapter. This is my voice, now available for yours.\" \u2014 Julia Garc\u00eda L\u00f3pez To contribute, see github.com/JuliaGarciaLopez/Yuyu-Font.",
+                "minisite_url": null
+            },
+            "Yuyu Short": {
+                "name": "Yuyu Short",
+                "designer": [
+                    "Julia Garc\u00eda L\u00f3pez"
+                ],
+                "license": "ofl",
+                "category": "HANDWRITING",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Yuyu is a slender, stylized handwritten typeface designed by Julia Garc\u00eda L\u00f3pez. Originally created as a personal tool for the designer's own visual identity, Yuyu is the product of years of manual refinement and care. Its tall, uppercase letterforms carry a pronounced verticality that feels both fun and familiar, while resolving into a mature and cheerful finish. This balance makes Yuyu a natural fit for personal branding, editorial design, modern titling, and any project looking to build a friendly, human connection. The family consists of two variations that share the same capital letters: Yuyu and Yuyu Short. Yuyu was developed with a clear focus on legibility and accessibility, making it the more practical choice for extended use. Yuyu Short, by contrast, is intended purely for aesthetic and display purposes. \"This font is, in many ways, like a child to me. It has featured in every sketch and project for years. Seeing it today transformed into a complete typographic tool is the start of a new chapter. This is my voice, now available for yours.\" \u2014 Julia Garc\u00eda L\u00f3pez To contribute, see github.com/JuliaGarciaLopez/Yuyu-Font.",
                 "minisite_url": null
             }
         },
