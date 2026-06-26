@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-06-25",
+    "last_checked": "2026-06-26",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7809,6 +7809,10 @@
             "Yuyu Short": {
                 "name": "Yuyu Short",
                 "version": "Version 1.004; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Geomini": {
+                "name": "Geomini",
+                "version": "Version 1.000"
             }
         },
         "designers": {
@@ -10599,6 +10603,10 @@
             "Julia Garc\u00eda L\u00f3pez": {
                 "name": "Julia Garc\u00eda L\u00f3pez",
                 "bio": "Julia Garc\u00eda L\u00f3pez (b. 2000) is originally from Seville, Spain, and has four years of experience living and exhibiting in the UK. She holds a Bachelor of Fine Arts in Graphic Design from the University of Seville. Her practice focuses on the intersection of organic human gestures and digital type engineering, which led to the development of Yuyu, a fun, stylized handwritten font family acquired for publication by Google Fonts in 2026. Julia is currently expanding her catalog into variable fonts and distinct master weights. Instagram | Website"
+            },
+            "FontBob": {
+                "name": "FontBob",
+                "bio": "Building on a decade of practice, FontBob is a font editor focused on making type design more accessible. Developed by Carl\u2019s Type in Stockholm. fontbob.com"
             }
         },
         "metadata": {
@@ -50339,6 +50347,24 @@
                 "primary_script": null,
                 "article": "Yuyu is a slender, stylized handwritten typeface designed by Julia Garc\u00eda L\u00f3pez. Originally created as a personal tool for the designer's own visual identity, Yuyu is the product of years of manual refinement and care. Its tall, uppercase letterforms carry a pronounced verticality that feels both fun and familiar, while resolving into a mature and cheerful finish. This balance makes Yuyu a natural fit for personal branding, editorial design, modern titling, and any project looking to build a friendly, human connection. The family consists of two variations that share the same capital letters: Yuyu and Yuyu Short. Yuyu was developed with a clear focus on legibility and accessibility, making it the more practical choice for extended use. Yuyu Short, by contrast, is intended purely for aesthetic and display purposes. \"This font is, in many ways, like a child to me. It has featured in every sketch and project for years. Seeing it today transformed into a complete typographic tool is the start of a new chapter. This is my voice, now available for yours.\" \u2014 Julia Garc\u00eda L\u00f3pez To contribute, see github.com/JuliaGarciaLopez/Yuyu-Font.",
                 "minisite_url": null
+            },
+            "Geomini": {
+                "name": "Geomini",
+                "designer": [
+                    "FontBob"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Geomini is a compact geometric font inspired by Swedish traffic signs. With its super high x-height, Geomini is perfect for text, branding and interfaces. This font is published by the FontBob team: FontBob is a font editor focused on making type design more accessible. To contribute, see github.com/fontbob/geomini.",
+                "minisite_url": "https://fontbob.com/geomini"
             }
         },
         "axisregistry": {
