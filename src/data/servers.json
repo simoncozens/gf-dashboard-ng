@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-06-29",
+    "last_checked": "2026-06-30",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7813,6 +7813,34 @@
             "Geomini": {
                 "name": "Geomini",
                 "version": "Version 1.000"
+            },
+            "Google Sans Arabic": {
+                "name": "Google Sans Arabic",
+                "version": "Version 2.001;[e0f937e]"
+            },
+            "Google Sans Khmer Loopless": {
+                "name": "Google Sans Khmer Loopless",
+                "version": "Version 1.000"
+            },
+            "Google Sans Lao Loopless": {
+                "name": "Google Sans Lao Loopless",
+                "version": "Version 1.001"
+            },
+            "Google Sans Mono": {
+                "name": "Google Sans Mono",
+                "version": "Version 3.001"
+            },
+            "Google Sans Persian": {
+                "name": "Google Sans Persian",
+                "version": "Version 1.000"
+            },
+            "Google Sans Thai Loopless": {
+                "name": "Google Sans Thai Loopless",
+                "version": "Version 1.000"
+            },
+            "Google Sans Urdu": {
+                "name": "Google Sans Urdu",
+                "version": "Version 1.001"
             }
         },
         "designers": {
@@ -50365,6 +50393,140 @@
                 "primary_script": null,
                 "article": "Geomini is a compact geometric font inspired by Swedish traffic signs. With its super high x-height, Geomini is perfect for text, branding and interfaces. This font is published by the FontBob team: FontBob is a font editor focused on making type design more accessible. To contribute, see github.com/fontbob/geomini.",
                 "minisite_url": "https://fontbob.com/geomini"
+            },
+            "Google Sans Arabic": {
+                "name": "Google Sans Arabic",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "arabic",
+                    "latin"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Khmer Loopless": {
+                "name": "Google Sans Khmer Loopless",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "khmer",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Khmr",
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Lao Loopless": {
+                "name": "Google Sans Lao Loopless",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "lao",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Laoo",
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Mono": {
+                "name": "Google Sans Mono",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "symbols"
+                ],
+                "stroke": null,
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Persian": {
+                "name": "Google Sans Persian",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "arabic",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Thai Loopless": {
+                "name": "Google Sans Thai Loopless",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "thai"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": "Thai",
+                "article": null,
+                "minisite_url": null
+            },
+            "Google Sans Urdu": {
+                "name": "Google Sans Urdu",
+                "designer": [
+                    "Google"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "arabic",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": null,
+                "minisite_url": null
             }
         },
         "axisregistry": {
