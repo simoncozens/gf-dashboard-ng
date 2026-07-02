@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-02",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -4760,7 +4760,7 @@
             },
             "Noto Serif Old Uyghur": {
                 "name": "Noto Serif Old Uyghur",
-                "version": "Version 1.004; ttfautohint (v1.8.4.7-5d5b)"
+                "version": "Version 1.005; ttfautohint (v1.8.4.16-eb64)"
             },
             "Noto Serif Oriya": {
                 "name": "Noto Serif Oriya",
@@ -7841,6 +7841,10 @@
             "Google Sans Urdu": {
                 "name": "Google Sans Urdu",
                 "version": "Version 1.001"
+            },
+            "Hibur Mono": {
+                "name": "Hibur Mono",
+                "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
             }
         },
         "designers": {
@@ -10635,6 +10639,14 @@
             "FontBob": {
                 "name": "FontBob",
                 "bio": "Building on a decade of practice, FontBob is a font editor focused on making type design more accessible. Developed by Carl\u2019s Type in Stockholm. fontbob.com"
+            },
+            "TypeHabesha": {
+                "name": "TypeHabesha",
+                "bio": "TypeHabesha is an independent digital type foundry based in Addis Ababa, Ethiopia, specializing in multi-script branding and contemporary type design. Founded by Behailu Berento, the studio focuses on bridging the gap between traditional script aesthetics and modern typographic standards, with a core expertise in Ethiopic (Ge'ez) and Latin writing systems. TypeHabesha is committed to creating authentic, highly legible, and culturally rich open-source font families that empower local and international creators across the modern digital landscape. Telegram | Instagram"
+            },
+            "Behailu Berento": {
+                "name": "Behailu Berento",
+                "bio": "Behailu Berento is a typeface and graphic designer based in Addis Ababa, Ethiopia. With years of experience in the type industry, he is the founder of TypeHabesha, a digital foundry specializing in multi-script branding. Behailu's work focuses intensely on the intersection of Ethiopic and Latin writing systems, exploring how modern design principles can support traditional scripts without sacrificing cultural heritage. He develops highly functional, open-source typefaces that bring authentic Ethiopian typography to the global stage. LinkedIn | Instagram"
             }
         },
         "metadata": {
@@ -50526,6 +50538,28 @@
                 "description": null,
                 "primary_script": null,
                 "article": null,
+                "minisite_url": null
+            },
+            "Hibur Mono": {
+                "name": "Hibur Mono",
+                "designer": [
+                    "TypeHabesha",
+                    "Behailu Berento"
+                ],
+                "license": "ofl",
+                "category": "MONOSPACE",
+                "subsets": [
+                    "ethiopic",
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "monospace"
+                ],
+                "description": null,
+                "primary_script": "Ethi",
+                "article": "Hibur Mono is a single weight, monospaced, Ethiopic typeface designed for columnar display environments such as computer terminals and software code development interfaces. The Hibur Mono Ethiopic glyphs have been designed from the ground up and optimized for the fixed width constraints of a monospaced typeface. Hibur Mono is compatible with the Noto Sans Mono geometric dimensions. The non-Ethiopic glyphs in Hibur Mono have also been leveraged from Noto Sans Mono. To contribute, see github.com/typehabesha/HiburMono. \u12e8\u1285\u1261\u122d \u121e\u1296 \u1218\u120d\u12a8\u134a\u12f0\u120d \u1245\u122d\u133e\u127d (glyphs) \u1208\u124b\u121a \u1235\u134b\u1275 \u12e8\u134a\u12f0\u120d \u1245\u122d\u133d \u1308\u12f0\u1266\u127d \u12a5\u1305\u130d \u1270\u1235\u121b\u121a \u1260\u1206\u1290 \u1218\u120d\u12a9 \u12e8\u1270\u1218\u127b\u1279 (optimized) \u1293\u1278\u12cd\u1362 \u1285\u1261\u122d \u121e\u1296 \u12a8\u1296\u1276 \u1233\u1295\u1235 \u121e\u1296 (Noto Sans Mono) \u12e8\u1302\u12a6\u121c\u1275\u122a\u12ad \u120d\u12ac\u1276\u127d (geometric dimensions) \u130b\u122d \u12e8\u1270\u1323\u1323\u1218 \u1232\u1206\u1295 \u1260\u1270\u1328\u121b\u122a\u121d \u1260\u1285\u1261\u122d \u121e\u1296 \u12cd\u1235\u1325 \u12e8\u1270\u12ab\u1270\u1271\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u12eb\u120d\u1206\u1291\u1275 \u12e8\u134a\u12f0\u120b\u1275 \u1245\u122d\u133e\u127d \u12a8\u1296\u1276 \u1233\u1295\u1235 \u121e\u1296 (Noto Sans Mono) \u1218\u120d\u12a8\u134a\u12f0\u120d \u12e8\u1270\u12c8\u1230\u12f1 \u1293\u1278\u12cd\u1362 \u1285\u1261\u122d \u121e\u1296 \u1260\u1273\u12ed\u1355 \u1210\u1260\u123b \u12a5\u1293 \u1260\u122b\u12a5\u12ed \u1273\u12ed\u1355 \u1325\u121d\u1228\u1275 \u12a5\u1295\u12f0 \u12ae\u121d\u1352\u12cd\u1270\u122d \u1270\u122d\u121a\u1293\u120e\u127d \u12a5\u1293 \u12e8\u1236\u134d\u1275\u12cc\u122d \u12ae\u12f5 \u121b\u1260\u120d\u1338\u130a\u12eb \u1260\u12ed\u1290\u1308\u133e\u127d (interfaces) \u120b\u1209 \u12a0\u1308\u120d\u130d\u120e\u1276\u127d \u1270\u1265\u120e \u12e8\u1270\u1290\u12f0\u1348\u1363 \u1290\u1320\u120b \u12cd\u134d\u1228\u1275 \u12eb\u1208\u12cd \u12a5\u1293 \u124b\u121a \u1235\u134b\u1275 \u12eb\u1208\u12cd (monospaced) \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u1218\u120d\u12a8\u134a\u12f0\u120d \u1290\u12cd\u1362 \u1208\u12da\u1205 \u1355\u122e\u1300\u12ad\u1275 \u12a0\u1235\u1270\u12cb\u133d\u12a6 \u1208\u121b\u12f5\u1228\u130d github.com/typehabesha/HiburMono",
                 "minisite_url": null
             }
         },
