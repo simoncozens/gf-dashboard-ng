@@ -41128,6 +41128,10 @@
       {
         "version": "Version 1.000",
         "date": "2025-09-12T01:53:08.971216"
+      },
+      {
+        "version": "Version 1.100",
+        "date": "2026-07-04T01:56:08.476155"
       }
     ],
     "production": [
@@ -42025,6 +42029,22 @@
       {
         "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-07-02T01:57:07.093021"
+      }
+    ]
+  },
+  "Scoutie Sans": {
+    "sandbox": [
+      {
+        "version": "Version 1.001",
+        "date": "2026-07-04T01:56:08.531945"
+      }
+    ]
+  },
+  "Caacupe One": {
+    "sandbox": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-07-04T01:56:09.130104"
       }
     ]
   }

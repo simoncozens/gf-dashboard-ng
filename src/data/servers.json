@@ -1,5 +1,5 @@
 {
-    "last_checked": "2026-07-03",
+    "last_checked": "2026-07-04",
     "sandbox": {
         "name": "sandbox",
         "url": "https://fonts.sandbox.google.com/metadata/fonts",
@@ -7568,7 +7568,7 @@
             },
             "Alan Sans": {
                 "name": "Alan Sans",
-                "version": "Version 1.000"
+                "version": "Version 1.100"
             },
             "SUSE Mono": {
                 "name": "SUSE Mono",
@@ -7845,6 +7845,14 @@
             "Hibur Mono": {
                 "name": "Hibur Mono",
                 "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Caacupe One": {
+                "name": "Caacupe One",
+                "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)"
+            },
+            "Scoutie Sans": {
+                "name": "Scoutie Sans",
+                "version": "Version 1.001"
             }
         },
         "designers": {
@@ -10647,6 +10655,10 @@
             "Behailu Berento": {
                 "name": "Behailu Berento",
                 "bio": "Behailu Berento is a typeface and graphic designer based in Addis Ababa, Ethiopia. With years of experience in the type industry, he is the founder of TypeHabesha, a digital foundry specializing in multi-script branding. Behailu's work focuses intensely on the intersection of Ethiopic and Latin writing systems, exploring how modern design principles can support traditional scripts without sacrificing cultural heritage. He develops highly functional, open-source typefaces that bring authentic Ethiopian typography to the global stage. LinkedIn | Instagram"
+            },
+            "Magdalena Alonso": {
+                "name": "Magdalena Alonso",
+                "bio": null
             }
         },
         "metadata": {
@@ -49144,6 +49156,7 @@
                 "license": "ofl",
                 "category": "SANS_SERIF",
                 "subsets": [
+                    "arabic",
                     "latin",
                     "latin-ext"
                 ],
@@ -49151,8 +49164,8 @@
                 "classifications": [],
                 "description": null,
                 "primary_script": null,
-                "article": "Alan Sans is an exercise in style, balancing the utilitarian side of typography with its expressive potential. We wanted a typeface that could remain functional in an interface context for instance, while also standing out more vividly on marketing applications. The result is a playful sans-serif, built on a traditional \"grotesque\" skeleton, but reinterpreted with a softer, more flexible visual treatment. This tension between simplicity and expressiveness is also reflected in the weight progression of Alan Sans's seven styles: the bolder you go, the more personality the typeface reveals. In short, Alan Sans is a reflection of our brand's dual nature. It aims to be robust *yet* gentle, serious *yet* personable, simple *yet* sophisticated, transparent *yet* noticeable. It's our \"not so corporate\" corporate typeface. To contribute, see github.com/alan-eu/Alan-Sans.",
-                "minisite_url": null
+                "article": "Alan Sans is an exercise in style, balancing the utilitarian side of typography with its expressive potential. We wanted a typeface that could remain functional in an interface context for instance, while also standing out more vividly on marketing applications. The result is a playful sans-serif, built on a traditional \"grotesque\" skeleton, but reinterpreted with a softer, more flexible visual treatment. This tension between simplicity and expressiveness is also reflected in the weight progression of Alan Sans's seven styles: the bolder you go, the more personality the typeface reveals. In short, Alan Sans is a reflection of our brand's dual nature. It aims to be robust *yet* gentle, serious *yet* personable, simple *yet* sophisticated, transparent *yet* noticeable. It's our \"not so corporate\" corporate typeface. You can also read a detailed blog article about its creation here. To contribute, see github.com/alan-eu/Alan-Sans.",
+                "minisite_url": "https://typeface.alan.com"
             },
             "SUSE Mono": {
                 "name": "SUSE Mono",
@@ -50560,6 +50573,45 @@
                 "description": null,
                 "primary_script": "Ethi",
                 "article": "Hibur Mono is a single weight, monospaced, Ethiopic typeface designed for columnar display environments such as computer terminals and software code development interfaces. The Hibur Mono Ethiopic glyphs have been designed from the ground up and optimized for the fixed width constraints of a monospaced typeface. Hibur Mono is compatible with the Noto Sans Mono geometric dimensions. The non-Ethiopic glyphs in Hibur Mono have also been leveraged from Noto Sans Mono. To contribute, see github.com/typehabesha/HiburMono. \u12e8\u1285\u1261\u122d \u121e\u1296 \u1218\u120d\u12a8\u134a\u12f0\u120d \u1245\u122d\u133e\u127d (glyphs) \u1208\u124b\u121a \u1235\u134b\u1275 \u12e8\u134a\u12f0\u120d \u1245\u122d\u133d \u1308\u12f0\u1266\u127d \u12a5\u1305\u130d \u1270\u1235\u121b\u121a \u1260\u1206\u1290 \u1218\u120d\u12a9 \u12e8\u1270\u1218\u127b\u1279 (optimized) \u1293\u1278\u12cd\u1362 \u1285\u1261\u122d \u121e\u1296 \u12a8\u1296\u1276 \u1233\u1295\u1235 \u121e\u1296 (Noto Sans Mono) \u12e8\u1302\u12a6\u121c\u1275\u122a\u12ad \u120d\u12ac\u1276\u127d (geometric dimensions) \u130b\u122d \u12e8\u1270\u1323\u1323\u1218 \u1232\u1206\u1295 \u1260\u1270\u1328\u121b\u122a\u121d \u1260\u1285\u1261\u122d \u121e\u1296 \u12cd\u1235\u1325 \u12e8\u1270\u12ab\u1270\u1271\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u12eb\u120d\u1206\u1291\u1275 \u12e8\u134a\u12f0\u120b\u1275 \u1245\u122d\u133e\u127d \u12a8\u1296\u1276 \u1233\u1295\u1235 \u121e\u1296 (Noto Sans Mono) \u1218\u120d\u12a8\u134a\u12f0\u120d \u12e8\u1270\u12c8\u1230\u12f1 \u1293\u1278\u12cd\u1362 \u1285\u1261\u122d \u121e\u1296 \u1260\u1273\u12ed\u1355 \u1210\u1260\u123b \u12a5\u1293 \u1260\u122b\u12a5\u12ed \u1273\u12ed\u1355 \u1325\u121d\u1228\u1275 \u12a5\u1295\u12f0 \u12ae\u121d\u1352\u12cd\u1270\u122d \u1270\u122d\u121a\u1293\u120e\u127d \u12a5\u1293 \u12e8\u1236\u134d\u1275\u12cc\u122d \u12ae\u12f5 \u121b\u1260\u120d\u1338\u130a\u12eb \u1260\u12ed\u1290\u1308\u133e\u127d (interfaces) \u120b\u1209 \u12a0\u1308\u120d\u130d\u120e\u1276\u127d \u1270\u1265\u120e \u12e8\u1270\u1290\u12f0\u1348\u1363 \u1290\u1320\u120b \u12cd\u134d\u1228\u1275 \u12eb\u1208\u12cd \u12a5\u1293 \u124b\u121a \u1235\u134b\u1275 \u12eb\u1208\u12cd (monospaced) \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u1218\u120d\u12a8\u134a\u12f0\u120d \u1290\u12cd\u1362 \u1208\u12da\u1205 \u1355\u122e\u1300\u12ad\u1275 \u12a0\u1235\u1270\u12cb\u133d\u12a6 \u1208\u121b\u12f5\u1228\u130d github.com/typehabesha/HiburMono",
+                "minisite_url": null
+            },
+            "Caacupe One": {
+                "name": "Caacupe One",
+                "designer": [
+                    "Magdalena Alonso"
+                ],
+                "license": "ofl",
+                "category": "DISPLAY",
+                "subsets": [
+                    "latin",
+                    "latin-ext"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [
+                    "display"
+                ],
+                "description": null,
+                "primary_script": null,
+                "article": "Caacup\u00e9 is a condensed, heavy display typeface designed for headlines and short text at large sizes, born from fieldwork conducted in Villa de Emergencia 21-24, an informal settlement in Buenos Aires. It translates two visual elements of the neighborhood into type: the hand-painted, brush-lettered signage of local shops and the bold, high-impact graphic language of popular tabloid newspapers. Particular attention was given to the neighborhood's large Paraguayan community and to the Guaran\u00ed language, with careful design of the letters and diacritical marks that appear most frequently in Guaran\u00ed, alongside broad Latin coverage (full Spanish set, extended Latin, currency symbols, fractions, mathematical signs, and ligatures). Developed in Glyphs, the typeface is currently available in a single style, visually equivalent to a Bold weight. The project grew out of situated research rather than an abstract design approach: a 2014 study of newspapers circulating in the neighborhood found that existing professional typefaces failed to reflect its visual culture, which is instead shaped by hand-painted lettering and a distinct communicative logic. Caacup\u00e9 was designed from within that context, treating Guaran\u00ed as a first-class citizen of the design rather than an afterthought. It stands as a rare example of a typeface developed through direct research in an informal settlement, now openly available on Google Fonts under the Open Font License. To contribute, see github.com/googlefonts/caacupe.",
+                "minisite_url": null
+            },
+            "Scoutie Sans": {
+                "name": "Scoutie Sans",
+                "designer": [
+                    "Tyler Finck"
+                ],
+                "license": "ofl",
+                "category": "SANS_SERIF",
+                "subsets": [
+                    "latin",
+                    "latin-ext",
+                    "vietnamese"
+                ],
+                "stroke": "SANS_SERIF",
+                "classifications": [],
+                "description": null,
+                "primary_script": null,
+                "article": "Scoutie Sans is a variable sans-serif typeface designed by Ty Finck for the customer service platform Help Scout. It was created to serve dual roles within the Help Scout brand: a compact, highly legible workhorse for dense UI environments, and a typeface with enough personality to hold its own at display sizes in marketing contexts. The result sits at the intersection of a utility grotesque and a display sans \u2014 functional without being anonymous. The family spans a weight range from ExtraLight to ExtraBold (200-800), with matching italics, offered as a variable font. A set of stylistic alternates gives designers control over characters with strong personality: a single-storey a and g, a straight-leg R, a slashed zero, a crossbar-free I, and others. Scoutie Sans supports a broad Latin character set covering Western, Central, and Eastern European languages, as well as a range of African Latin orthographies. To contribute, see github.com/sursly/scoutie.",
                 "minisite_url": null
             }
         },
