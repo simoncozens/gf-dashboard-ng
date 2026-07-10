@@ -33628,6 +33628,10 @@
       {
         "version": "Version 1.004; ttfautohint (v1.8.4.7-5d5b)",
         "date": "2024-09-24T03:14:04.153668"
+      },
+      {
+        "version": "Version 1.005; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-07-10T01:56:36.112352"
       }
     ]
   },
@@ -42022,6 +42026,12 @@
         "version": "Version 1.000",
         "date": "2026-06-26T01:57:59.401688"
       }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000",
+        "date": "2026-07-10T01:56:35.963755"
+      }
     ]
   },
   "Hibur Mono": {
@@ -42029,6 +42039,12 @@
       {
         "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
         "date": "2026-07-02T01:57:07.093021"
+      }
+    ],
+    "production": [
+      {
+        "version": "Version 1.000; ttfautohint (v1.8.4.16-eb64)",
+        "date": "2026-07-10T01:56:35.401375"
       }
     ]
   },
